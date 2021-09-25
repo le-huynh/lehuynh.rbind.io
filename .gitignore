@@ -1,0 +1,10 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+lehuynh_site.Rproj
+Thumbs.db
+
+/blogdown/
+/public/
