@@ -1,0 +1,39 @@
+---
+title: 'Warning: ''::'' or '':::'' imports not declared from: `package_name`'
+author: Le-Huynh
+date: '2021-10-02'
+slug: []
+categories:
+  - R
+tags:
+  - R
+  - R package
+  - Warning
+---
+#### Question
+I am creating a new function in my Rpackage. 
+After running `devtools::check()`, I got this WARNING:  
+
+```yaml
+checking dependencies in R code ... WARNING
+'::' or ':::' imports not declared from:
+  ‘dplyr’ 
+```
+
+What should I do to correct it?  
+
+#### Answer
+Add `dplyr` to `Imports` in the `DESCRIPTION` file.  
+The easiest way is
+
+```{r , highlight=TRUE, eval=FALSE}
+usethis::use_package("dplyr")
+#> Adding dplyr to Imports
+#> Refer to functions with dplyr::fun()
+```
+
+#### Further information
+[Dependencies: What does your package need?](https://r-pkgs.org/description.html#dependencies), 
+_R Packages_ by  Hadley Wickham and Jenny Bryan  
+
+
