@@ -48,4 +48,4 @@ by _Winston Chang_.
 * [Reproducible Research Tutorial Series](https://riffomonas.org/reproducible_research/) 
 and [YouTube channel](https://www.youtube.com/c/RiffomonasProject) 
 by _Riffomonas_.   
-
+* [Hemingway Editor](https://hemingwayapp.com)  
