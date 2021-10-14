@@ -12,7 +12,7 @@ tags:
 ---
 #### Question
 I am creating a new function in my Rpackage. 
-After running `devtools::check()`, I got this WARNING:  
+After running `devtools::check()`, I get this WARNING:  
 
 ```yaml
 checking dependencies in R code ... WARNING
@@ -20,7 +20,7 @@ checking dependencies in R code ... WARNING
   ‘dplyr’ 
 ```
 
-What should I do to correct it?  
+I would like to correct it.  
 
 #### Answer
 Add `dplyr` to `Imports` in the `DESCRIPTION` file.  
