@@ -43,9 +43,15 @@ by _Claus O. Wilke_.
 * [R Graphics Cookbook](https://r-graphics.org) 
 by _Winston Chang_.  
 
-#### Other
-* [Coding Club](https://ourcodingclub.github.io)  
+#### Reproducible reports
 * [Reproducible Research Tutorial Series](https://riffomonas.org/reproducible_research/) 
 and [YouTube channel](https://www.youtube.com/c/RiffomonasProject) 
-by _Riffomonas_.   
+by _Riffomonas_.  
+* [initial steps toward reproducible research](https://kbroman.org/steps2rr/) by
+_Karl Broman_.  
+
+
+
+#### General
+* [Coding Club](https://ourcodingclub.github.io)  
 * [Hemingway Editor](https://hemingwayapp.com)  

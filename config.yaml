@@ -30,3 +30,8 @@ params:
 #    youtube: full profile url in youtube
   style: default
 
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true

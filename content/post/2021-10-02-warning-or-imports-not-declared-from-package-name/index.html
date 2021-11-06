@@ -15,16 +15,15 @@ tags:
 
 <div id="question" class="section level4">
 <h4>Question</h4>
-<p>I am creating a new function in my Rpackage. After running <code>devtools::check()</code>, I got this WARNING:</p>
+<p>I am creating a new function in my Rpackage. After running <code>devtools::check()</code>, I get this WARNING:</p>
 <pre class="yaml"><code>checking dependencies in R code ... WARNING
 &#39;::&#39; or &#39;:::&#39; imports not declared from:
   ‘dplyr’ </code></pre>
-<p>What should I do to correct it?</p>
+<p>I would like to correct it.</p>
 </div>
 <div id="answer" class="section level4">
 <h4>Answer</h4>
-<p>Add <code>dplyr</code> to <code>Imports</code> in the <code>DESCRIPTION</code> file.<br />
-The easiest way is</p>
+<p>Add <code>dplyr</code> to <code>Imports</code> in the <code>DESCRIPTION</code> file.</p>
 <pre class="r"><code>usethis::use_package(&quot;dplyr&quot;)
 #&gt; Adding dplyr to Imports
 #&gt; Refer to functions with dplyr::fun()</code></pre>

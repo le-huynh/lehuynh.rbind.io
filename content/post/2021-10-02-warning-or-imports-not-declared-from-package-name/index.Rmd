@@ -24,7 +24,6 @@ I would like to correct it.
 
 #### Answer
 Add `dplyr` to `Imports` in the `DESCRIPTION` file.  
-The easiest way is
 
 ```{r , highlight=TRUE, eval=FALSE}
 usethis::use_package("dplyr")
