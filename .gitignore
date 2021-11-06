@@ -2,9 +2,11 @@
 .Rhistory
 .RData
 .Ruserdata
+.DS_Store
 
 lehuynh_site.Rproj
 Thumbs.db
 
 /blogdown/
 /public/
+/resources/
