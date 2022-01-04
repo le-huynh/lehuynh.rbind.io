@@ -10,7 +10,7 @@ tags:
   - R package
   - Warning
 ---
-#### Question
+#### Warning
 I am creating a new function in my Rpackage. 
 After running `devtools::check()`, I get this WARNING:  
 
@@ -20,9 +20,7 @@ checking dependencies in R code ... WARNING
   ‘dplyr’ 
 ```
 
-I would like to correct it.  
-
-#### Answer
+#### (possible) Solution
 Add `dplyr` to `Imports` in the `DESCRIPTION` file.  
 
 ```{r , highlight=TRUE, eval=FALSE}
