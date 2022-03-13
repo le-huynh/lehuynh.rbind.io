@@ -1,11 +1,11 @@
-+++
-showonlyimage = true
-draft = false
-image = "img/source.jpg"
-date = "2021-10-02"
-title = "Useful Sources"
-weight = 2
-+++
+---
+title: Useful Sources
+showonlyimage: true
+draft: false
+image: img/source.jpg
+date: "2021-10-02"
+weight: 2
+---
 
 <!--more-->
 
