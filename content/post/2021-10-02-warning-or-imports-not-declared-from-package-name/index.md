@@ -1,20 +1,18 @@
----
-title: 'Warning: ''::'' or '':::'' imports not declared from: `package_name`'
-author: Le-Huynh
-date: '2021-10-02'
-slug: []
-categories:
-  - R
-tags:
-  - R
-  - R package
-  - Warning
----
++++
+showonlyimage = false
+draft = false
+image = "img/warning_red.png"
+date = "2021-10-02"
+title = "Warning: ''::'' or '':::'' imports not declared from: `package_name`"
+weight = 2
+description = "Warning: new function in Rpackage"
++++
+
 #### Warning
 I am creating a new function in my Rpackage. 
 After running `devtools::check()`, I get this WARNING:  
 
-```yaml
+```
 checking dependencies in R code ... WARNING
 '::' or ':::' imports not declared from:
   ‘dplyr’ 
@@ -23,7 +21,7 @@ checking dependencies in R code ... WARNING
 #### (possible) Solution
 Add `dplyr` to `Imports` in the `DESCRIPTION` file.  
 
-```{r , highlight=TRUE, eval=FALSE}
+```
 usethis::use_package("dplyr")
 #> Adding dplyr to Imports
 #> Refer to functions with dplyr::fun()

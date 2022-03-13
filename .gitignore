@@ -4,7 +4,8 @@
 .Ruserdata
 .DS_Store
 
-lehuynh_site.Rproj
+*Rproj
+.gitignore
 Thumbs.db
 
 /blogdown/

@@ -1,14 +1,13 @@
----
-title: Useful sources
-author: ''
-date: '2021-10-01'
-slug: []
-categories:
-  - random
-tags:
-  - R
-  - random
----
++++
+showonlyimage = true
+draft = false
+image = "img/source.jpg"
+date = "2021-10-02"
+title = "Useful Sources"
+weight = 2
+description = "Awesome references"
++++
+
 #### R+
 * [R for Data Science](https://r4ds.had.co.nz/index.html) 
 by _Hadley Wickham_ and _Garrett Grolemund_.  
@@ -25,7 +24,7 @@ by _Yihui Xie, Amber Thomas,_ and _Alison Presmanes Hill_.
 by _Jenny Bryan_.  
 
 #### Write thesis in R Markdown
-* A great tutorial [here](https://ourcodingclub.github.io/tutorials/rmarkdown-dissertation/)  
+* A great [tutorial](https://ourcodingclub.github.io/tutorials/rmarkdown-dissertation/) by _Anna Chirumbolo_  
 * Another great [tutorial](https://rosannavanhespen.nl/thesis-in-rmarkdown/) 
 by _Rosanna van Hespen_  
 
@@ -55,3 +54,4 @@ _Karl Broman_.
 #### General
 * [Coding Club](https://ourcodingclub.github.io)  
 * [Hemingway Editor](https://hemingwayapp.com)  
+* download [csl file](https://www.zotero.org/styles)  

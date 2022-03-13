@@ -3,6 +3,7 @@ date: "2021-09-25"
 # title: About this site...
 ---
 
+Hi.
 My name is Le Huynh.  
 
 This blog is about random thoughts, tips, and technical stuff on my coding 
@@ -12,4 +13,4 @@ Most of the posts are personal notes to my future self, who I’m sure has forgo
 Hey future-Le, read this blog before setting your computer on fire.  
 
 
-![](/img/about_green2.jpg)
+![](/img/about_green.jpg)
