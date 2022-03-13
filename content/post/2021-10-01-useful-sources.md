@@ -21,13 +21,16 @@ by _Hadley Wickham_ and _Jenny Bryan_.
 * [blogdown: Creating Websites with R Markdown](https://bookdown.org/yihui/blogdown/) 
 by _Yihui Xie, Amber Thomas,_ and _Alison Presmanes Hill_.  
 * [The tidyverse style guide](https://style.tidyverse.org/index.html).  
+
+#### Git and GitHub
 * [Happy Git with R](https://happygitwithr.com) 
 by _Jenny Bryan_.  
+* [Notes on Git and GitHub](https://notes-on-git-and-github.netlify.app) by _Daniel Czarnievicz_.  
 
 #### Write thesis in R Markdown
-* A great [tutorial](https://ourcodingclub.github.io/tutorials/rmarkdown-dissertation/) by _Anna Chirumbolo_  
+* A great [tutorial](https://ourcodingclub.github.io/tutorials/rmarkdown-dissertation/) by _Anna Chirumbolo_.  
 * Another great [tutorial](https://rosannavanhespen.nl/thesis-in-rmarkdown/) 
-by _Rosanna van Hespen_  
+by _Rosanna van Hespen_.  
 
 #### Bayesian data analysis
 * [Doing Bayesian Data Analysis](https://sites.google.com/site/doingbayesiandataanalysis/) 
@@ -49,8 +52,6 @@ and [YouTube channel](https://www.youtube.com/c/RiffomonasProject)
 by _Riffomonas_.  
 * [initial steps toward reproducible research](https://kbroman.org/steps2rr/) by
 _Karl Broman_.  
-
-
 
 #### General
 * [Coding Club](https://ourcodingclub.github.io)  
