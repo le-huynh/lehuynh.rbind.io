@@ -5,8 +5,9 @@ image = "img/source.jpg"
 date = "2021-10-02"
 title = "Useful Sources"
 weight = 2
-description = "Awesome references"
 +++
+
+<!--more-->
 
 #### R+
 * [R for Data Science](https://r4ds.had.co.nz/index.html) 
