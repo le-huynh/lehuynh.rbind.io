@@ -1,5 +1,5 @@
 baseurl: "https://lehuynh.rbind.io/"
-title: Le Huynh's blog
+title: Le-Huynh Truc-Ly
 theme: hugo-creative-portfolio-theme
 languageCode: en-us
 disqusShortname: ''
@@ -10,20 +10,22 @@ params:
   email: you@yoursite.com
   navlinks:
     - home: yes
-      name: Home
-      url: post/
-    - name: About
+      name: About
       url: about/
+    - name: Blogs
+      url: post/
+    - name: CV
+      url: /cv/cv_vitae.pdf
   sidebarAbout:
     - Personal notes about R and 1001 interesting things on my coding journey 
   social:
-#    email: trucly.lehuynh@gmail.com
+    email: trucly.lehuynh@gmail.com
 #    facebook: full page or profile url in facebook
     github: https://github.com/le-huynh
 #    gitlab: full profile url in gitlab
 #    googleplus: full profile url in googleplus
 #    instagram: full profile url in instagram
-#    linkedin: https://www.linkedin.com/in/le-huynh-truc-ly
+    linkedin: https://www.linkedin.com/in/le-huynh-truc-ly
 #    stackoverflow: full profile url in stackoverflow
 #    twitter: full profile url in twitter
 #    whatsapp: wa.me service link
