@@ -1,11 +1,10 @@
 +++
-showonlyimage = true
+showonlyimage = false
 draft = false
 image = "img/warning_red.png"
-date = "2021-10-02"
 title = "Warning: ''::'' or '':::'' imports not declared from: `package_name`"
 weight = 2
-description = "Warning: new function in Rpackage"
+description = "Warning when creating new function in Rpackage"
 +++
 
 #### Warning

@@ -5,17 +5,23 @@ languageCode: en-us
 disqusShortname: ''
 googleAnalytics: ''
 params:
+  style: "default"
   copyright: '&copy;2021 Le Huynh'
   description: R notes to myself
   email: you@yoursite.com
   navlinks:
     - home: yes
-      name: About
+      name: About Me
       url: about/
-    - name: Blogs
+    - name: Projects
+      url: project/
+#    - name: Gallery
+#      url: gallery/
+    - name: Blog
       url: post/
     - name: CV
-      url: /cv/cv_vitae.pdf
+      url: cv/cv_pagedown.html
+
   sidebarAbout:
     - Personal notes about R and 1001 interesting things on my coding journey 
   social:
@@ -30,7 +36,6 @@ params:
 #    twitter: full profile url in twitter
 #    whatsapp: wa.me service link
 #    youtube: full profile url in youtube
-  style: default
 
 
 markup:

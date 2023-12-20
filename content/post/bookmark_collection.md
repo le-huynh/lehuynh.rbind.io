@@ -1,13 +1,17 @@
 ---
-title: Useful Sources
-showonlyimage: true
+title: Bookmark Collection
 draft: false
-image: img/source.jpg
-date: "2021-10-02"
-weight: 2
+showonlyimage: true
+image: "img/source.jpg"
+weight: 1
+description: " "
 ---
 
-<!--more-->
+A collection of interesting links featuring open-access books, tutorials, and articles on data analysis, data visualization, and reproducible workflow.
+
+
+<hr>
+
 
 #### R+
 * [R for Data Science](https://r4ds.had.co.nz/index.html) 
@@ -43,6 +47,7 @@ by _John Kruschke_.
 #### Data visualization
 * [Fundamentals of Data Visualization](https://clauswilke.com/dataviz/) 
 by _Claus O. Wilke_.  
+* [Data Visualization](https://socviz.co/) by _Kieran Healy_.  
 * [R Graphics Cookbook](https://r-graphics.org) 
 by _Winston Chang_.  
 
