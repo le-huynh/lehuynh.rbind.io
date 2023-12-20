@@ -22,6 +22,9 @@ To modify the display settings:
 2. Navigate to line 5 and adjust the code from `<div class="col-lg-8">` to `<div class="col-lg-X">`, where X represents the column size. 
 For a full-page display, use **X = 12**. 
 You can also experiment with different numbers for X to suit your preference. 
+X = 11 in the screenshot below.  
+
+![](/img/post/hugo-creative-portfolio-theme-fit-full-page-result.png)
 
 #### Tips
 If you can't find a solution using common keyword searches, consider navigating to the theme's GitHub repository page. 
