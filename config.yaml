@@ -20,7 +20,7 @@ params:
     - name: Blog
       url: post/
     - name: CV
-      url: cv/cv_pagedown.html
+      url: cv/cv_pagedown.pdf
 
   sidebarAbout:
     - Personal notes about R and 1001 interesting things on my coding journey 
