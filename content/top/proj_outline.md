@@ -56,7 +56,10 @@ Make sure sum of X in `col-md-X` = 12.
   </div>
   
   <div class="col-md-4" markdown="1">
-  <img height="600px" class="center-block" src="/img/image_name.png">
+  <figure>
+  <img height="600px" class="center-block" src="/img/image_name.png" />
+  <figcaption>Caption goes here</figcaption>
+  </figure>
   </div>
 
   <div class="col-md-4" markdown="1">
