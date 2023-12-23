@@ -7,7 +7,7 @@ googleAnalytics: ''
 params:
   style: "default"
   copyright: '&copy;2021 Le Huynh'
-  description: R notes to myself
+  description: Le-Huynh Truc-Ly
   email: you@yoursite.com
   navlinks:
     - home: yes
@@ -23,7 +23,7 @@ params:
       url: cv/cv_pagedown.pdf
 
   sidebarAbout:
-    - Personal notes about R and 1001 interesting things on my coding journey 
+    - An R enthusiast driven by environmental concern and a love for nature  
   social:
     email: trucly.lehuynh@gmail.com
 #    facebook: full page or profile url in facebook
