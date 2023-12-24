@@ -7,11 +7,14 @@ weight = 4
 description = "R/lehuynh: Personal R package"
 +++
 
-`R/lehuynh`*: Personal R package*
+`R/lehuynh`*: Personal R package*  
 
-[<img align="left" alt="r-cmd-check" src="https://github.com/le-huynh/lehuynh/actions/workflows/R-CMD-check.yaml/badge.svg" />](https://github.com/le-huynh/lehuynh/actions/workflows/R-CMD-check.yaml) 
+[<img align="left" alt="r-cmd-check" src="https://github.com/le-huynh/lehuynh/actions/workflows/R-CMD-check.yaml/badge.svg" />](https://github.com/le-huynh/lehuynh/actions/workflows/R-CMD-check.yaml)  
 
 [<img align="left" alt="doi" src="https://zenodo.org/badge/389311777.svg" />](https://zenodo.org/doi/10.5281/zenodo.10421410)  
+
+<br>
+
 → [GitHub repository](https://github.com/le-huynh/lehuynh)  
 
 
