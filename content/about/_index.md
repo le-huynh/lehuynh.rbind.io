@@ -18,7 +18,7 @@ Most of the posts are personal notes to my future self, who I'm sure has forgott
 Hey, future me – read this blog before setting your computer on fire!
 
 
-![](/img/viz_gallery01.png)
+![](/img/viz_gallery02.png)
 
 
 

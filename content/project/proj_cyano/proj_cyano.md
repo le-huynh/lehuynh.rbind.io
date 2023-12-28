@@ -1,7 +1,7 @@
 +++
 showonlyimage = false
 draft = false
-image = "img/project/proj_cyano_who.png"
+image = "project/proj_cyano/proj_cyano_who.png"
 title = "Bayesian predictive model for toxic cyanobacteria occurrence from eutrophication and climate data"
 weight = 1
 description = "Bayesian model addressed zero-inflation issue in cyanobacterial data"
@@ -31,11 +31,11 @@ In the context of climate change, where harmful cyanobacterial blooms may occur 
 
 <div class="row">
   <div class="col-md-6" markdown="1">
-  <img height="600px" class="center-block" src="/img/project/proj_cyano_logit.png">
+  <img height="600px" class="center-block" src="../proj_cyano_logit.png">
   </div>
   
   <div class="col-md-6" markdown="1">
-  <img height="600px" class="center-block" src="/img/project/proj_cyano_abundance.png">
+  <img height="600px" class="center-block" src="../proj_cyano_abundance.png">
   </div>
 
 </div>
@@ -45,14 +45,14 @@ In the context of climate change, where harmful cyanobacterial blooms may occur 
 <div class="row">
   <div class="col-md-6" markdown="1">
   <figure>
-  <img height="600px" class="center-block" src="/img/project/proj_cyano_who.png" />
+  <img height="600px" class="center-block" src="../proj_cyano_who.png" />
   <figcaption align="center">Probability of exceeding WHO alert levels <br> for toxic cyanobacteria</figcaption>
   </figure>
 
   </div>
   
   <div class="col-md-6" markdown="1">
-  <img height="600px" class="center-block" src="/img/project/proj_cyano_map_naga.png">
+  <img height="600px" class="center-block" src="../proj_cyano_map_naga.png">
   </div>
 
 

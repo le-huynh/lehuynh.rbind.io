@@ -1,7 +1,7 @@
 +++
 showonlyimage = false
 draft = false
-image = "img/project/proj_cheatsheet_cover.png"
+image = "project/cheatsheet_vi_translation/proj_cheatsheet_cover.png"
 title = "Unlocking R's Power"
 weight = 5
 description = "Translating R Cheatsheets into Vietnamese"
@@ -24,7 +24,7 @@ I hope these translated cheatsheets can serve as a catalyst, empowering Vietname
   <div class="col-md-4" markdown="1">
     <a href="/top/cheatsheet_rstudio-ide_vi.pdf">
       <figure>
-        <img height="600px" class="center-block" src="/img/project/proj_cheatsheet_rstudio.png" />
+        <img height="600px" class="center-block" src="../proj_cheatsheet_rstudio.png" />
         <figcaption align="center">RStudio IDE</figcaption>
       </figure>
     </a>
@@ -33,7 +33,7 @@ I hope these translated cheatsheets can serve as a catalyst, empowering Vietname
   <div class="col-md-4" markdown="1">
     <a href="/top/cheatsheet_gtsummary_vi.pdf">
       <figure>
-        <img height="600px" class="center-block" src="/img/project/proj_cheatsheet_gtsummary.png" />
+        <img height="600px" class="center-block" src="../proj_cheatsheet_gtsummary.png" />
         <figcaption align="center">gtsummary</figcaption>
       </figure>
     </a>
@@ -42,7 +42,7 @@ I hope these translated cheatsheets can serve as a catalyst, empowering Vietname
   <div class="col-md-4" markdown="1">
     <a href="/top/cheatsheet_git-github_vi.pdf">
       <figure>
-        <img height="600px" class="center-block" src="/img/project/proj_cheatsheet_git.png" />
+        <img height="600px" class="center-block" src="../proj_cheatsheet_git.png" />
         <figcaption align="center">Git & GitHub</figcaption>
       </figure>
     </a>

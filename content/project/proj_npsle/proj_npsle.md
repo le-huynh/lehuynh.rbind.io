@@ -1,7 +1,7 @@
 +++
 showonlyimage = false
 draft = false
-image = "img/project/proj_npsle_cutoff.png"
+image = "project/proj_npsle/proj_npsle_cutoff.png"
 title = "Development of predictive biomarker spectrum for neuropsychiatric systemic lupus erythematosus (NPSLE)"
 weight = 2
 description = " "
@@ -23,6 +23,6 @@ Using a novel Bayesian model, the project determined the cutoff concentration of
 The findings from this project could assist in clinical trials, aid in making decisions about patient care, guide treatment choices, and enable cost-effective interventions.
 
 
-![](/img/project/proj_npsle_full.png)
+![](../proj_npsle_full.png)
 
 

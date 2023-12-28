@@ -1,7 +1,7 @@
 +++
 showonlyimage = false
 draft = false
-image = "img/project/proj_aml_volcano2.png"
+image = "project/proj_aml/proj_aml_volcano2.png"
 title = "Toward personalized acute myeloid leukemia (AML)"
 weight = 3
 description = " "
@@ -21,15 +21,15 @@ The outcomes have the potential to pave the way for personalized AML treatments 
 
 <div class="row">
   <div class="col-md-4" markdown="1">
-  <img height="600px" class="center-block" src="/img/project/proj_aml_heatmap.png">
+  <img height="600px" class="center-block" src="../proj_aml_heatmap.png">
   </div>
   
   <div class="col-md-4" markdown="1">
-  <img height="600px" class="center-block" src="/img/project/proj_aml_volcano.png">
+  <img height="600px" class="center-block" src="../proj_aml_volcano.png">
   </div>
 
   <div class="col-md-4" markdown="1">
-  <img height="600px" class="center-block" src="/img/project/proj_aml_venn.png">
+  <img height="600px" class="center-block" src="../proj_aml_venn.png">
   </div>
 </div>
 

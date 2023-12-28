@@ -1,7 +1,7 @@
 +++
 showonlyimage = false
 draft = false
-image = "img/project/proj_lehuynh_cover.png"
+image = "project/package_lehuynh/proj_lehuynh_cover.png"
 title = "lehuynh"
 weight = 4
 description = "R/lehuynh: Personal R package"
@@ -64,5 +64,5 @@ Additionally, this package is accessible for download via Zenodo with the DOI [1
 
 <hr>
 
-[![](/img/project/proj_lehuynhv010.png)](https://zenodo.org/records/10421411)
+[![](../proj_lehuynhv010.png)](https://zenodo.org/records/10421411)
 
