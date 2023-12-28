@@ -60,4 +60,9 @@ Additionally, this package is accessible for download via Zenodo with the DOI [1
 - `lehuynh_Bayes_brms`: Basic steps to fit, check, and interpret a Bayesian model via `brms` package
 - `lehuynh_EA`: Basic steps to do Exploratory Analysis
 
+<br/>
+
+<hr>
+
+[![](/img/project/proj_lehuynhv010.png)](https://zenodo.org/records/10421411)
 
