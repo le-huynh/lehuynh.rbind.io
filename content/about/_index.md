@@ -18,6 +18,19 @@ Most of the posts are personal notes to my future self, who I'm sure has forgott
 Hey, future me – read this blog before setting your computer on fire!
 
 
+<!-- Social section -->
+
+[<img align="left" alt="Email" style="margin-right: 5px;" src="https://img.shields.io/badge/Email-EA4335.svg?logo=gmail&logoColor=white" />](mailto:trucly.lehuynh@gmail.com)
+[<img align="left" alt="LinkedIn" style="margin-right: 5px;" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/le-huynh-truc-ly/)
+[<img align="left" alt="ORCID" style="margin-right: 5px;" src="https://img.shields.io/badge/ORCID-A6CE39.svg?logo=orcid&logoColor=white" />](https://orcid.org/0000-0002-5227-2185)
+[<img align="left" alt="GitHub" style="margin-right: 5px;" src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" />](https://github.com/le-huynh)
+[<img align="left" alt="Resume" style="margin-right: 5px;" src="https://img.shields.io/badge/Resume-%199900.svg?logo=files&logoColor=white" />](https://lehuynh.rbind.io/cv/cv_pagedown.pdf)
+[<img align="left" alt="Blog" src="https://img.shields.io/badge/Blog-FFA500?logo=rss&logoColor=white" />](https://lehuynh.rbind.io/post/)
+
+<br/>
+
+<br/>
+
 ![](/img/viz_gallery02.png)
 
 
