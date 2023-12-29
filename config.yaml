@@ -18,7 +18,7 @@ params:
 #    - name: Gallery
 #      url: gallery/
     - name: Blog
-      url: post/
+      url: blog/
     - name: CV
       url: cv/cv_pagedown.pdf
 
