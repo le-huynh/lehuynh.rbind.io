@@ -1,7 +1,7 @@
 +++
 showonlyimage = false
 draft = false
-image = "blog/viz-map-elevation/map_elevation.png"
+image = "blog/viz-map-elevation/map_elevation_shadow.png"
 title = "Visualization in R: Targeted elevation mapping with grayscale contrast"
 weight = 1
 description = " "
