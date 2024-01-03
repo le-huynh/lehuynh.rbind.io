@@ -2,9 +2,9 @@
 showonlyimage = false
 draft = false
 image = "blog/viz-map-elevation/map_elevation_shadow.png"
-title = "Visualization in R: Targeted elevation mapping with grayscale contrast"
+title = "Targeted elevation mapping with grayscale contrast using R"
 weight = 1
-description = " "
+description = "Map visualization in R"
 +++
 
 This blog post serves as a step-by-step guide to generating stunning elevation maps in R. 
