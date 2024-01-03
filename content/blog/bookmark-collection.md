@@ -2,7 +2,7 @@
 title: Bookmark Collection
 draft: false
 showonlyimage: false
-image: "img/source.jpg"
+image: "img/source.png"
 weight: 1
 description: " "
 ---
