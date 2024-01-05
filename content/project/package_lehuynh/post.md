@@ -62,7 +62,4 @@ Additionally, this package is accessible for download via Zenodo with the DOI [1
 
 <br/>
 
-<hr>
-
-[![](../proj_lehuynhv010.png)](https://zenodo.org/records/10421411)
 
