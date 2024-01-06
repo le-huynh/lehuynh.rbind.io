@@ -15,10 +15,10 @@ params:
       url: about/
     - name: Projects
       url: project/
-#    - name: Gallery
-#      url: gallery/
     - name: Blog
       url: blog/
+    - name: Repositories
+      url: github-repository/
     - name: CV
       url: cv/cv_pagedown.pdf
 
