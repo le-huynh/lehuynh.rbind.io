@@ -13,8 +13,8 @@ description = "Bayesian model addressed zero-inflation issue in cyanobacterial d
 - Tasks: Conceptualization, data collection, data curation, data analysis, data visualization, cartography, software development, code management, writing and editing article manuscript
 - Tools: R, JAGS, Stan, RMarkdown, LaTeX, Git, GNU Make
 
-→ [GitHub repository](https://github.com/le-huynh/cyano_bayesian_model)  
-→ [Dissertation](https://nagasaki-u.repo.nii.ac.jp/records/28153)  
+→ <a href="https://github.com/le-huynh/cyano_bayesian_model" target="_blank">GitHub repository</a>  
+→ <a href="https://nagasaki-u.repo.nii.ac.jp/records/28153" target="_blank">Dissertation</a>  
 
 <hr>
 

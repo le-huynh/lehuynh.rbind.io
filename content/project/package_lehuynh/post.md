@@ -9,13 +9,18 @@ description = "R/lehuynh: Personal R package"
 
 `R/lehuynh`*: Personal R package*  
 
-[<img align="left" alt="r-cmd-check" style="margin-right: 5px;" src="https://github.com/le-huynh/lehuynh/actions/workflows/R-CMD-check.yaml/badge.svg" />](https://github.com/le-huynh/lehuynh/actions/workflows/R-CMD-check.yaml)  
 
-[<img align="left" alt="doi" src="https://zenodo.org/badge/389311777.svg" />](https://zenodo.org/doi/10.5281/zenodo.10421410)  
+<a href="https://github.com/le-huynh/lehuynh/actions/workflows/R-CMD-check.yaml" target="_blank">
+<img align="left" alt="r-cmd-check" style="margin-right: 5px;" src="https://github.com/le-huynh/lehuynh/actions/workflows/R-CMD-check.yaml/badge.svg" />
+</a>  
+
+<a href="https://zenodo.org/doi/10.5281/zenodo.10421410" target="_blank">
+<img align="left" alt="doi" src="https://zenodo.org/badge/389311777.svg" />
+</a>  
 
 <br>
 
-→ [GitHub repository](https://github.com/le-huynh/lehuynh)  
+→ <a href="https://github.com/le-huynh/lehuynh" target="_blank">GitHub repository</a>  
 
 
 As a data enthusiast myself, I have always sought tools that streamline the data analysis process without compromising on flexibility or efficiency. 
@@ -40,7 +45,7 @@ if(!requireNamespace("devtools", quietly = TRUE)) {
 devtools::install_github("le-huynh/lehuynh")
 ```
 
-Additionally, this package is accessible for download via Zenodo with the DOI [10.5281/zenodo.10421410](https://zenodo.org/doi/10.5281/zenodo.10421410).
+Additionally, this package is accessible for download via Zenodo with the DOI <a href="https://zenodo.org/doi/10.5281/zenodo.10421410" target="_blank">10.5281/zenodo.10421410</a>.
 
 
 #### Functions
@@ -49,14 +54,14 @@ Additionally, this package is accessible for download via Zenodo with the DOI [1
 - `import_excel( )`: Import excel file with multiple sheets. The output is a *named* list of imported sheets or separate dataframes in the .GlobalEnv. 
 - `lehuynh_theme( )`: Personal ggplot2 theme (white background, black axis, black text, etc.)
 - `MinMaxScaling( )`: Min-max normalization (min = 0, max = 1)
-- `new_project( )`: Create a [project](https://github.com/SchlossLab/new_project) for reproducible purpose
+- `new_project( )`: Create a <a href="https://github.com/SchlossLab/new_project" target="_blank">project</a> for reproducible purpose
 - `ppc_brms( )`
-- `tidytuesday( )`: Create a new folder for [#tidytuesday](https://github.com/rfordatascience/tidytuesday) challenge
-- `tsi( )`: Calculate TSI (Trophic state index) [(Carlson, 1977)](https://doi.org/10.4319/lo.1977.22.2.0361)
+- `tidytuesday( )`: Create a new folder for <a href="https://github.com/rfordatascience/tidytuesday" target="_blank">#tidytuesday</a> challenge
+- `tsi( )`: Calculate TSI (Trophic state index) <a href="https://doi.org/10.4319/lo.1977.22.2.0361" target="_blank">(Carlson, 1977)</a>
 
 
 #### Templates
-- `draft_elsevier`: Creating an Rmarkdown manuscript for Elsevier journals [(example)](https://github.com/le-huynh/writing_journal_article_in_rmarkdown)
+- `draft_elsevier`: Creating an Rmarkdown manuscript for Elsevier journals <a href="https://github.com/le-huynh/writing_journal_article_in_rmarkdown" target="_blank">(example)</a>
 - `lehuynh_Bayes_brms`: Basic steps to fit, check, and interpret a Bayesian model via `brms` package
 - `lehuynh_EA`: Basic steps to do Exploratory Analysis
 

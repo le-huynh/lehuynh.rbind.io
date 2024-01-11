@@ -22,7 +22,7 @@ I hope these translated cheatsheets can serve as a catalyst, empowering Vietname
 
 <div class="row">
   <div class="col-md-4" markdown="1">
-    <a href="/top/cheatsheet_rstudio-ide_vi.pdf">
+    <a href="/top/cheatsheet_rstudio-ide_vi.pdf" target="_blank">
       <figure>
         <img height="600px" class="center-block" src="../proj_cheatsheet_rstudio.png" />
         <figcaption align="center">RStudio IDE</figcaption>
@@ -31,7 +31,7 @@ I hope these translated cheatsheets can serve as a catalyst, empowering Vietname
   </div>
   
   <div class="col-md-4" markdown="1">
-    <a href="/top/cheatsheet_gtsummary_vi.pdf">
+    <a href="/top/cheatsheet_gtsummary_vi.pdf" target="_blank">
       <figure>
         <img height="600px" class="center-block" src="../proj_cheatsheet_gtsummary.png" />
         <figcaption align="center">gtsummary</figcaption>
@@ -40,7 +40,7 @@ I hope these translated cheatsheets can serve as a catalyst, empowering Vietname
   </div>
 
   <div class="col-md-4" markdown="1">
-    <a href="/top/cheatsheet_git-github_vi.pdf">
+    <a href="/top/cheatsheet_git-github_vi.pdf" target="_blank">
       <figure>
         <img height="600px" class="center-block" src="../proj_cheatsheet_git.png" />
         <figcaption align="center">Git & GitHub</figcaption>

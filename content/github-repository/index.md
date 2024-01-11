@@ -29,9 +29,9 @@ Some of my code on [Github](https://github.com/le-huynh)...
 
 <br>
 
-[![](https://github-readme-streak-stats-le-huynhs-projects.vercel.app/?user=le-huynh&theme=ayu-light&hide_border=true)](https://github.com/le-huynh)
+![](https://github-readme-streak-stats-le-huynhs-projects.vercel.app/?user=le-huynh&theme=ayu-light&hide_border=true)
 
-| <a href="https://github.com/le-huynh"><img align="center" src="https://github-readme-stats-le-huynhs-projects.vercel.app/api?username=le-huynh&show_icons=true&rank_icon=github&hide_border=true&hide=prs&show=prs_merged_percentage&include_all_commits=true" alt="Le-Huynh's github stats" /></a> | <a href="https://github.com/le-huynh"><img align="center" src="https://github-readme-stats-le-huynhs-projects.vercel.app/api/top-langs/?username=le-huynh&layout=compact&hide_border=true&hide=javascript,html,css,tex,jupyter%20notebook,php" /></a> |
+| <a href="https://github.com/le-huynh" target="_blank"><img align="center" src="https://github-readme-stats-le-huynhs-projects.vercel.app/api?username=le-huynh&show_icons=true&rank_icon=github&hide_border=true&hide=prs&show=prs_merged_percentage&include_all_commits=true" alt="Le-Huynh's GitHub Stats" /></a> | <a href="https://github.com/le-huynh" target="_blank"><img align="center" src="https://github-readme-stats-le-huynhs-projects.vercel.app/api/top-langs/?username=le-huynh&layout=compact&hide_border=true&hide=javascript,html,css,tex,jupyter%20notebook,php" alt="Le-Huynh's GitHub Most Used Languages" /></a> |
 | ------------- | ------------- |
 
 
@@ -39,7 +39,7 @@ Some of my code on [Github](https://github.com/le-huynh)...
 
 <br>
 
-| <a href="https://github.com/le-huynh/lehuynh"><img align="left"  src="https://github-readme-stats-le-huynhs-projects.vercel.app/api/pin/?username=le-huynh&repo=lehuynh&show_owner=false" alt="Le-Huynh's github stats" /></a> |.....| <a href="https://github.com/le-huynh/writing_journal_article_in_rmarkdown"><img align="right" src="https://github-readme-stats-le-huynhs-projects.vercel.app/api/pin/?username=le-huynh&repo=writing_journal_article_in_rmarkdown&show_owner=false" /></a> |
+| <a href="https://github.com/le-huynh/lehuynh" target="_blank"><img align="left"  src="https://github-readme-stats-le-huynhs-projects.vercel.app/api/pin/?username=le-huynh&repo=lehuynh&show_owner=false" alt="le-huynh/lehuynh" /></a> |.....| <a href="https://github.com/le-huynh/writing_journal_article_in_rmarkdown" target="_blank"><img align="right" src="https://github-readme-stats-le-huynhs-projects.vercel.app/api/pin/?username=le-huynh&repo=writing_journal_article_in_rmarkdown&show_owner=false" alt="le-huynh/writing_journal_article_in_rmarkdown" /></a> |
 | ------------- | ------------- |------------- |
 
 <br/>

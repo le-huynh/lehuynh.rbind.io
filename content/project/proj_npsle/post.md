@@ -13,8 +13,8 @@ description = " "
 - Contributions: Data analysis, Bayesian statistical modelling, data visualization, writing and editing article manuscript (Bayesian-related part)
 - Tools: R, SAS, RMarkdown, LaTeX, Git, GNU Make
 
-→ [GitHub repository](https://github.com/le-huynh/Hoang_SBSN_ClinImmunol_2022)  
-→ [Publication](https://doi.org/10.1016/j.clim.2022.108980)  
+→ <a href="https://github.com/le-huynh/Hoang_SBSN_ClinImmunol_2022" target="_blank">GitHub repository</a>  
+→ <a href="https://doi.org/10.1016/j.clim.2022.108980" target="_blank">Publication</a>  
 
 <hr>
 
