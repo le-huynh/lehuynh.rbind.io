@@ -10,7 +10,7 @@ description = "Bayesian model addressed zero-inflation issue in cyanobacterial d
 *Funded by Planetary Health Research Fellowship (Nagasaki University, Japan) and Grant-in-Aid for Scientific Research (Japan Society for the Promotion of Science)*
 
 - Topics: Bayesian statistical modelling, harmful cyanobacteria, zero-inflated data, environmental science
-- Tasks: Conceptualization, data collection, data curation, data analysis, data visualization, cartography, software development, code management, writing and editing article manuscript
+- Tasks: Conceptualization, data collection, data curation, data analysis, data visualization, cartography, software development, code management, writing and editing article manuscripts
 - Tools: R, JAGS, Stan, RMarkdown, LaTeX, Git, GNU Make
 
 → <a href="https://github.com/le-huynh/cyano_bayesian_model" target="_blank">GitHub repository</a>  
@@ -20,7 +20,7 @@ description = "Bayesian model addressed zero-inflation issue in cyanobacterial d
 
 This project aims to develop a statistical predictive model for early-warning of toxic cyanobacteria, specifically *Microcystis*. 
 The proposed Bayesian hurdle Poisson model effectively tackled the zero-inflation issue in cyanobacterial data. 
-This resulted in the ability to predict the probability of cyanobacteria presence, their abundance, and the likelihood of exceeding WHO alert levels. 
+This resulted in the ability to predict the probability of cyanobacteria presence, their abundance, and the probability of exceeding WHO alert levels. 
 These predictions could serve as a rapid reference for water management decisions, including monitoring planning and testing. 
 The principal predictor variables—air temperature, rainfall, and trophic state index—can be easily and affordably obtained, offering flexibility in data acquisition. 
 In the context of climate change, where harmful cyanobacterial blooms may occur earlier and longer, the model developed in this project could be a practical tool within cyanobacterial early-warning systems.  
