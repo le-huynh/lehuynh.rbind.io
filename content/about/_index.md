@@ -19,7 +19,7 @@ This
 is a collection of random thoughts, tips, and technical stuff on my coding journey. 
 Most of the posts are personal notes to my future self, who I'm sure has forgotten many things.  
 
-Hey, future me – read this blog before setting your computer on fire!
+Hey, future me – are you debugging your code? Read this blog before setting your computer on fire!
 
 
 <!-- Social section -->
