@@ -19,9 +19,9 @@ description = "Bayesian model addressed zero-inflation issue in cyanobacterial d
 <hr>
 
 This project aims to develop a statistical predictive model for early-warning of toxic cyanobacteria, specifically *Microcystis*. 
-The proposed Bayesian hurdle Poisson model effectively tackled the zero-inflation issue in cyanobacterial data. 
-This resulted in the ability to predict the probability of cyanobacteria presence, their abundance, and the probability of exceeding WHO alert levels. 
-These predictions could serve as a rapid reference for water management decisions, including monitoring planning and testing. 
+The proposed Bayesian hurdle Poisson model effectively addressed the zero-inflation issue in cyanobacterial data. 
+This resulted in the predictions of cyanobacterial presence probability, abundance, and the probability of exceeding WHO alert levels. 
+These predictions could serve as a quick reference for water management decisions, including monitoring planning and testing. 
 The principal predictor variables—air temperature, rainfall, and trophic state index—can be easily and affordably obtained, offering flexibility in data acquisition. 
 In the context of climate change, where harmful cyanobacterial blooms may occur earlier and longer, the model developed in this project could be a practical tool within cyanobacterial early-warning systems.  
 

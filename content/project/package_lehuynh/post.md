@@ -55,7 +55,7 @@ Additionally, this package is accessible for download via Zenodo with the DOI <a
 - `lehuynh_theme( )`: Personal ggplot2 theme (white background, black axis, black text, etc.)
 - `MinMaxScaling( )`: Min-max normalization (min = 0, max = 1)
 - `new_project( )`: Create a <a href="https://github.com/SchlossLab/new_project" target="_blank">project</a> for reproducible purpose
-- `ppc_brms( )`
+- `ppc_brms( )`: Plot fitted versus observed values for *brmsfit* Objects
 - `tidytuesday( )`: Create a new folder for <a href="https://github.com/rfordatascience/tidytuesday" target="_blank">#tidytuesday</a> challenge
 - `tsi( )`: Calculate TSI (Trophic state index) <a href="https://doi.org/10.4319/lo.1977.22.2.0361" target="_blank">(Carlson, 1977)</a>
 

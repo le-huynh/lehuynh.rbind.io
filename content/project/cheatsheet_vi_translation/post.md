@@ -10,7 +10,7 @@ description = "Translating R Cheatsheets into Vietnamese"
 *Translating R Cheatsheets into Vietnamese*  
 
 This project is driven by the belief in making technical knowledge accessible. 
-The global impact of R programming motivated me to bridge language barriers, fostering inclusivity in the programming community.  
+The widespread use of the R programming language motivated me to bridge language barriers, fostering inclusivity in the programming community.  
 
 While navigating the complexities of technical translation, I strive for accuracy without compromising clarity. 
 Overcoming linguistic nuances, I try to make every term resonate authentically in Vietnamese, aiming to empower local programmers with easily understandable resources.  
