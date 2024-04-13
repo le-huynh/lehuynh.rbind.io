@@ -1,7 +1,7 @@
 
 # Hello! Xin Chào!
 
-→ <a href="https://lehuynh.rbind.io/cv/cv_pagedown.pdf" target="_blank">Curriculum Vitae</a>  
+→ <a href="https://lehuynh.rbind.io/Le-Huynh_Truc-Ly_CV.pdf" target="_blank">Curriculum Vitae</a>  
 
 I'm a young researcher with substantial experience in data wrangling, statistical analysis, and model development. 
 I use R to delve into data, create cool visuals, and automate processes. 
@@ -42,7 +42,7 @@ href="https://github.com/le-huynh" target="_blank">
 </a>
 
 <a 
-href="https://lehuynh.rbind.io/cv/cv_pagedown.pdf" target="_blank">
+href="https://lehuynh.rbind.io/Le-Huynh_Truc-Ly_CV.pdf" target="_blank">
 <img align="left" alt="Resume" style="margin-right: 5px;" src="https://img.shields.io/badge/Resume-%199900.svg?logo=files&logoColor=white" />
 </a>
 

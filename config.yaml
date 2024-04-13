@@ -6,7 +6,7 @@ disqusShortname: ''
 googleAnalytics: ''
 params:
   style: "default"
-  copyright: '&copy;2021 Le Huynh'
+  copyright: '&copy;2023 Le Huynh'
   description: Le-Huynh Truc-Ly
   email: you@yoursite.com
   navlinks:
@@ -20,7 +20,7 @@ params:
     - name: Repositories
       url: github-repository/
     - name: CV
-      url: cv/cv_pagedown.pdf
+      url: Le-Huynh_Truc-Ly_CV.pdf
 
   sidebarAbout:
     - An R enthusiast driven by environmental concern and a love for nature  

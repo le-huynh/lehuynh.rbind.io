@@ -1,4 +1,8 @@
-## Code of Conduct
+---
+title: Code of Conduct
+draft: false
+description: " "
+---
 
 #### I take responsibility for my own words and all the content created by myself.
 
