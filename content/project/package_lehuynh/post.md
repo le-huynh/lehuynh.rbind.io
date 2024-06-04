@@ -1,7 +1,7 @@
 +++
 showonlyimage = false
 draft = false
-image = "project/package_lehuynh/proj_lehuynh_cover.png"
+image = "https://github.com/le-huynh/lehuynh/blob/master/man/figures/logo.png?raw=true"
 title = "lehuynh"
 weight = 4
 description = "R/lehuynh: Personal R package"
@@ -10,8 +10,16 @@ description = "R/lehuynh: Personal R package"
 `R/lehuynh`*: Personal R package*  
 
 
+<a href="https://le-huynh.github.io/lehuynh/" target="_blank">
+<img align="right" alt="logo" width="150" src="https://github.com/le-huynh/lehuynh/blob/master/man/figures/logo.png?raw=true" />
+</a>  
+
 <a href="https://github.com/le-huynh/lehuynh/actions/workflows/R-CMD-check.yaml" target="_blank">
 <img align="left" alt="r-cmd-check" style="margin-right: 5px;" src="https://github.com/le-huynh/lehuynh/actions/workflows/R-CMD-check.yaml/badge.svg" />
+</a>  
+
+<a href="https://lifecycle.r-lib.org/articles/stages.html#stable" target="_blank">
+<img align="left" alt="lifecycle" style="margin-right: 5px;" src="https://img.shields.io/badge/lifecycle-stable-brightgreen.svg" />
 </a>  
 
 <a href="https://zenodo.org/doi/10.5281/zenodo.10421410" target="_blank">
@@ -21,6 +29,7 @@ description = "R/lehuynh: Personal R package"
 <br>
 
 → <a href="https://github.com/le-huynh/lehuynh" target="_blank">GitHub repository</a>  
+→ <a href="https://le-huynh.github.io/lehuynh/" target="_blank"> Package Website</a>  
 
 
 As a data enthusiast myself, I have always sought tools that streamline the data analysis process without compromising on flexibility or efficiency. 
@@ -50,8 +59,8 @@ Additionally, this package is accessible for download via Zenodo with the DOI <a
 
 #### Functions
 - `ggsave_elsevier( )`: Save a plot using `ggplot2::ggsave( )`. Plot size follows instructions of Elsevier journals
-- `import_data( )`: Import multiple .csv or .rds objects. The output is a *named* list of imported objects or separate objects in the .GlobalEnv.
-- `import_excel( )`: Import excel file with multiple sheets. The output is a *named* list of imported sheets or separate dataframes in the .GlobalEnv. 
+- `import_data( )`: Imports multiple data files of the same format from a specified directory. The output is a named list of imported objects
+- `import_excel( )`: Imports an Excel file with multiple sheets and returns a named list of imported sheets
 - `lehuynh_theme( )`: Personal ggplot2 theme (white background, black axis, black text, etc.)
 - `MinMaxScaling( )`: Min-max normalization (min = 0, max = 1)
 - `new_project( )`: Create a <a href="https://github.com/SchlossLab/new_project" target="_blank">project</a> for reproducible purpose
@@ -65,6 +74,8 @@ Additionally, this package is accessible for download via Zenodo with the DOI <a
 - `lehuynh_Bayes_brms`: Basic steps to fit, check, and interpret a Bayesian model via `brms` package
 - `lehuynh_EA`: Basic steps to do Exploratory Analysis
 
-<br/>
+For a comprehensive overview of the package's functions, check out the package website at  
+<a href="https://le-huynh.github.io/lehuynh/" target="_blank">le-huynh.github.io/lehuynh/</a>.
 
+<br/>
 
