@@ -14,6 +14,10 @@ description = "R/lehuynh: Personal R package"
 <img align="right" alt="logo" width="150" src="https://github.com/le-huynh/lehuynh/blob/master/man/figures/logo.png?raw=true" />
 </a>  
 
+<a href="https://CRAN.R-project.org/package=lehuynh" target="_blank">
+<img align="left" alt="cran" style="margin-right: 5px;" src="https://www.r-pkg.org/badges/version/lehuynh" />
+</a>  
+
 <a href="https://github.com/le-huynh/lehuynh/actions/workflows/R-CMD-check.yaml" target="_blank">
 <img align="left" alt="r-cmd-check" style="margin-right: 5px;" src="https://github.com/le-huynh/lehuynh/actions/workflows/R-CMD-check.yaml/badge.svg" />
 </a>  
@@ -22,8 +26,8 @@ description = "R/lehuynh: Personal R package"
 <img align="left" alt="lifecycle" style="margin-right: 5px;" src="https://img.shields.io/badge/lifecycle-stable-brightgreen.svg" />
 </a>  
 
-<a href="https://zenodo.org/doi/10.5281/zenodo.10421410" target="_blank">
-<img align="left" alt="doi" src="https://zenodo.org/badge/389311777.svg" />
+<a href="https://doi.org/10.5281/zenodo.11522849" target="_blank">
+<img align="left" alt="doi" src="https://zenodo.org/badge/DOI/10.5281/zenodo.11522849.svg" />
 </a>  
 
 <br>
@@ -45,7 +49,14 @@ This package includes:
 
 #### Installation
 
-`lehuynh` R package can be installed from GitHub using the following code:
+`lehuynh` R package is available on CRAN via:
+
+``` r
+install.packages("lehuynh")
+```
+
+To get the latest in-development features, install the development
+version from GitHub:
 
 ```
 if(!requireNamespace("devtools", quietly = TRUE)) {
@@ -54,7 +65,7 @@ if(!requireNamespace("devtools", quietly = TRUE)) {
 devtools::install_github("le-huynh/lehuynh")
 ```
 
-Additionally, this package is accessible for download via Zenodo with the DOI <a href="https://zenodo.org/doi/10.5281/zenodo.10421410" target="_blank">10.5281/zenodo.10421410</a>.
+Additionally, this package is accessible for download via Zenodo with the DOI <a href="https://doi.org/10.5281/zenodo.11522849" target="_blank">10.5281/zenodo.11522849</a>.
 
 
 #### Functions
