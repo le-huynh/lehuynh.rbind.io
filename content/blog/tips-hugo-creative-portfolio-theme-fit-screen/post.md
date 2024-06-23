@@ -3,7 +3,7 @@ showonlyimage = false
 draft = false
 image = "img/tips.png"
 title = "Hugo-creative-portfolio-theme: content page left 1/3 blank for desktop"
-weight = 2
+weight = 3
 description = " "
 +++
 

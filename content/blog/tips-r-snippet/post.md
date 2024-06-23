@@ -3,7 +3,7 @@ showonlyimage = false
 draft = false
 image = "img/tips.png"
 title = "RStudio: Customizing snippets for crafting efficiency"
-weight = 2
+weight = 3
 description = " "
 +++
 

@@ -3,7 +3,7 @@ showonlyimage = false
 draft = false
 image = "blog/viz-map-terrain/map-terrain-shadow.png"
 title = "Highlighting regions in terrain maps using ggmap and ggplot2"
-weight = 1
+weight = 2
 description = "Map visualization in R"
 +++
 

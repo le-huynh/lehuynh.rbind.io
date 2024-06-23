@@ -3,7 +3,7 @@ showonlyimage = false
 draft = false
 image = "img/tips.png"
 title = "Getting Stadia Maps API for ggmap Rpackage"
-weight = 2
+weight = 3
 description = " "
 +++
 

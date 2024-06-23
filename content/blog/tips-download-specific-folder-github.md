@@ -3,7 +3,7 @@ showonlyimage = false
 draft = false
 image = "img/tips.png"
 title = "GitHub: Download a single folder from a GitHub repository"
-weight = 2
+weight = 3
 description = " "
 +++
 
