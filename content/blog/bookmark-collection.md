@@ -14,17 +14,12 @@ A collection of interesting links featuring open-access books, tutorials, and ar
 
 
 #### R+
+* [Big Book of R](https://www.bigbookofr.com/) 
+by _Oscar Baruffa_.  
 * [R for Data Science](https://r4ds.had.co.nz/index.html) 
 by _Hadley Wickham_ and _Garrett Grolemund_.  
-* [R Markdown Cookbook](https://bookdown.org/yihui/rmarkdown-cookbook/) 
-by _Yihui Xie, Christophe Dervieux,_ and _Emily Riederer_.  
-* [R Markdown: The Definitive Guide](https://bookdown.org/yihui/rmarkdown/) 
-by _Yihui Xie, J. J. Allaire,_ and _Garrett Grolemund_.  
 * [R Packages](https://r-pkgs.org) 
 by _Hadley Wickham_ and _Jenny Bryan_.  
-* [blogdown: Creating Websites with R Markdown](https://bookdown.org/yihui/blogdown/) 
-by _Yihui Xie, Amber Thomas,_ and _Alison Presmanes Hill_.  
-* [The tidyverse style guide](https://style.tidyverse.org/index.html).  
 
 #### Git and GitHub
 * [Happy Git with R](https://happygitwithr.com) 
