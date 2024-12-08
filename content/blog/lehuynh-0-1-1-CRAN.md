@@ -47,7 +47,7 @@ It includes:
 Publishing <a href="https://le-huynh.github.io/lehuynh/" target="_blank">`lehuynh`</a> on CRAN has been an incredibly educational experience. 
 Throughout the process, I learned a lot about package development, from structuring the package correctly to ensuring compliance with CRAN's submission guidelines.  
 
-I would like to extend my heartfelt thanks to the <a href="https://cran.r-project.org/CRAN_team.htm" target="_blank">CRAN team</a> for their invaluable feedback. 
+Big thanks to the <a href="https://cran.r-project.org/CRAN_team.htm" target="_blank">CRAN team</a> for their invaluable feedback. 
 Their suggestions were instrumental in refining and improving my package. 
 After incorporating their feedback, <a href="https://le-huynh.github.io/lehuynh/" target="_blank">`lehuynh`</a> has become much better and more robust.  
 

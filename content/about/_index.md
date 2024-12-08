@@ -11,7 +11,7 @@ My journey into this exciting realm began in 2016, and I've been busy ever since
 I'm particularly passionate about data science, especially when it involves understanding environmental issues and enhancing public health. 
 My works have encompassed various 
 <a href="https://lehuynh.rbind.io/project/" target="_blank">projects</a> 
-spanning environmental science, health science, and biology. 
+spanning environmental science, health sciences, political science, and biology. 
 It's amazing how data can contribute to the protection and improvement of human well-being, making it a central focus of my academic and professional adventure.  
 
 This 
