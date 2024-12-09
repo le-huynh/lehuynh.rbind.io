@@ -9,7 +9,7 @@ description = " "
 
 
 #### Error
-I encountered the following error when using `arrow::read_csv_arrow()` or `arrow::open_dataset()`.  
+I got the following error when using `arrow::read_csv_arrow()` or `arrow::open_dataset()`.  
 
 ```
 Error: Invalid: CSV parse error: Row #20241208: Expected 111 columns, got 110: 
