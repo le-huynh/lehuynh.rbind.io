@@ -17,12 +17,12 @@ Error: Invalid: CSV parse error: Row #20241208: Expected 111 columns, got 110:
 ```
 
 
-#### Solution
-##### Reason
+#### Reason
 At row 20241208, there might be unexpected characters in one or more columns 
 that interfere with detecting the delimiter of the CSV file. 
 These could include `""`, `\"`, a blank space, or a combination of punctuation marks.  
 
+#### Solution
 I have not found a perfect solution for this error. 
 The approach may vary depending on the goal after importing the data into R. 
 In my case, the CSV file was very large, and I wanted to convert it into 
@@ -40,10 +40,16 @@ If you're into Python and data stuff, you should totally check out <a href="http
 ##### Step 2
 Use `data.table::fread()` to read the CSV file into R, and replace the problematic characters if necessary. 
 This function does not fail due to parsing errors. 
-The downside is that your computer's RAM must be large enough to handle `fread()` for in-memory data import.
+The downside is that your computer's RAM must be large enough to handle `fread()` for in-memory data import. 
+But what if your computer's RAM isn't sufficient? 
+No worries at all! 
+You can read the data in chunks, and guess what? 
+The awesome team behind `data.table` made sure that `fread()` can do that too.  
 
-##### Step 3
-Convert the cleaned data into Parquet format.
+In my case, I read the data chunk by chunk and converted each one to Parquet format. 
+It took longer than loading the whole file in one go with `fread()`, 
+but since my RAM could not handle the entire file at once, this was a pretty good workaround. 
+I even wrote a nifty function to make the process easier!
 
 #### References
 <a href="https://umatter.github.io/BigData/" target="_blank">Big Data Analytics</a> by Ulrich Matter.
