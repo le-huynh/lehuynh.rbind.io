@@ -17,7 +17,7 @@ checking dependencies in R code ... WARNING
   ‘dplyr’ 
 ```
 
-#### (possible) Solution
+#### Solution
 Add `dplyr` to `Imports` in the `DESCRIPTION` file.  
 
 ```

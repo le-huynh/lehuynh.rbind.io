@@ -48,8 +48,9 @@ The awesome team behind `data.table` made sure that `fread()` can do that too.
 
 In my case, I read the data chunk by chunk and converted each one to Parquet format. 
 It took longer than loading the whole file in one go with `fread()`, 
-but since my RAM could not handle the entire file at once, this was a pretty good workaround. 
-I even wrote a nifty function to make the process easier!
+but since my RAM could not handle the entire file at once, this was a pretty good workaround.  
+
+**Note:** A nifty [function](URL) I wrote to make the process easier.
 
 #### References
 <a href="https://umatter.github.io/BigData/" target="_blank">Big Data Analytics</a> by Ulrich Matter.
