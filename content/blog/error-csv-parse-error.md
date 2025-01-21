@@ -33,7 +33,7 @@ Here are the steps I followed:
 ##### Step 1 (Optional)
 Extract row 20241208 to identify the problematic characters.  
 Big thanks to <a href="https://huynhvu.com/" target="_blank">Dr. Huynh Vu</a> 
-for helping with the <a href="https://github.com/vuh95" target="_blank">Python code</a>. 
+for helping with the <a href="https://github.com/le-huynh/note_big_data/blob/main/test_get_parquet/find_error_parse_csv.py" target="_blank">Python code</a>. 
 If you're into Python and data stuff, you should totally check out <a href="https://huynhvu.com/" target="_blank">his blog</a>
 —he’s got tons of great tips and tricks!
 
@@ -50,7 +50,7 @@ In my case, I read the data chunk by chunk and converted each one to Parquet for
 It took longer than loading the whole file in one go with `fread()`, 
 but since my RAM could not handle the entire file at once, this was a pretty good workaround.  
 
-**Note:** A nifty [function](URL) I wrote to make the process easier.
+**Note:** A nifty <a href="https://le-huynh.github.io/chva.extras/reference/get_parquet_by_chunk.html" target="_blank">function</a> I wrote to make the process easier.
 
 #### References
 <a href="https://umatter.github.io/BigData/" target="_blank">Big Data Analytics</a> by Ulrich Matter.
