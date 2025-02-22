@@ -21,6 +21,10 @@ description = "R/chva.extras: Supplementary Tools for Research"
 <img align="left" alt="lifecycle" style="margin-right: 5px;" src="https://img.shields.io/badge/lifecycle-stable-brightgreen.svg" />
 </a>  
 
+<a href="https://doi.org/10.5281/zenodo.14910966" target="_blank">
+<img align="left" alt="doi" src="https://zenodo.org/badge/917932837.svg" />
+</a>  
+
 <br>
 
 → <a href="https://github.com/le-huynh/chva.extras" target="_blank">GitHub repository</a>  
@@ -45,13 +49,20 @@ if(!requireNamespace("devtools", quietly = TRUE)) {
 devtools::install_github("le-huynh/chva.extras")
 ```
 
+Additionally, this package is accessible for download via Zenodo with the DOI <a href="https://doi.org/10.5281/zenodo.14910966" target="_blank">10.5281/zenodo.14910967</a>.
+
 #### Functions
-- `check_overview( )`: Provide an overview of datasets with the number of rows, columns, and a flag indicating whether the column names across datasets are consistent.
-- `check_unique_value()`: Count the unique values of a specified column.
-- `check_unique_value_overview()`: Check the consistency of unique values within a specified column across multiple datasets.
-- `get_dataset()`: Get full working datasets as a named list of [Dataset](https://arrow.apache.org/docs/r/reference/Dataset.html) R6 objects.
-- `get_parquet_arrow()`: Convert multiple files to Parquet format.
-- `get_parquet_by_chunk()`: Convert file to Parquet format by chunks.
+See [Package index](https://le-huynh.github.io/chva.extras/reference/index.html) for full list of functions.  
+
+1. Convert files to Parquet format  
+- `get_parquet_arrow()`: Convert multiple files to Parquet format.  
+- `get_parquet_by_chunk()`: Convert file to Parquet format by chunks.  
+
+2. Support handy workflow
+- `check_overview()`: Provide an overview of datasets.  
+- `check_unique_value()`: Count unique values of a specified column.  
+- `get_dataset()`: Get full working datasets as a named list of [Dataset](https://arrow.apache.org/docs/r/reference/Dataset.html) R6 objects.  
+- `recode_values()`: Recode values based on grouping logic.  
 
 For a comprehensive overview of the package's functions, check out the package website at  
 <a href="https://le-huynh.github.io/chva.extras/" target="_blank">le-huynh.github.io/chva.extras/</a>.
