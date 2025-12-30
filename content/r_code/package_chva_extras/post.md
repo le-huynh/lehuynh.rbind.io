@@ -3,11 +3,11 @@ showonlyimage = false
 draft = false
 image = "https://github.com/le-huynh/chva.extras/blob/master/man/figures/logo.png?raw=true"
 title = "chva.extras"
-weight = 4
-description = "R/chva.extras: Supplementary Tools for Research"
+weight = 2
+description = "R/chva.extras: Supplementary Tools for Climate and Health Research in Virginia"
 +++
 
-`R/chva.extras`*: Supplementary Tools for Climate and Health Research in VA*
+`R/chva.extras`*: Supplementary Tools for Climate and Health Research in Virginia*
 
 <a href="https://le-huynh.github.io/chva.extras/" target="_blank">
 <img align="right" alt="logo" width="150" src="https://github.com/le-huynh/chva.extras/blob/master/man/figures/logo.png?raw=true" />
@@ -32,7 +32,7 @@ description = "R/chva.extras: Supplementary Tools for Research"
 
 
 `chva.extras` is a collection of supplementary functions and templates designed 
-to support climate and health research in VA, including tools for data manipulation, 
+to support climate and health research in Virginia, including tools for data manipulation, 
 analysis, and visualization, tailored to handle large datasets.  
 
 <hr>
@@ -49,7 +49,7 @@ if(!requireNamespace("devtools", quietly = TRUE)) {
 devtools::install_github("le-huynh/chva.extras")
 ```
 
-Additionally, this package is accessible for download via Zenodo with the DOI <a href="https://doi.org/10.5281/zenodo.14910966" target="_blank">10.5281/zenodo.14910967</a>.
+This package is also accessible for download via Zenodo with the DOI <a href="https://doi.org/10.5281/zenodo.14910966" target="_blank">10.5281/zenodo.14910967</a>.
 
 #### Functions
 See [Package index](https://le-huynh.github.io/chva.extras/reference/index.html) for full list of functions.  
@@ -63,6 +63,22 @@ See [Package index](https://le-huynh.github.io/chva.extras/reference/index.html)
 - `check_unique_value()`: Count unique values of a specified column.  
 - `get_dataset()`: Get full working datasets as a named list of [Dataset](https://arrow.apache.org/docs/r/reference/Dataset.html) R6 objects.  
 - `recode_values()`: Recode values based on grouping logic.  
+
+3. Compute indices used in climate health research
+- Humidity variables: 
+`cal_absolute_humidity()`, 
+`cal_dewpoint_temperature()`, 
+`cal_mixing_ratio()`, 
+`cal_relative_humidity()`, 
+`cal_specific_humidity()`.  
+- Comfort indices: 
+`cal_apparent_temperature()`, 
+`cal_humidex()`, 
+`cal_temperature_humidity_index()`.  
+- `cal_saturation_vapor_pressure()`  
+
+4. Support visualization
+- `plot_contour_dlnm()`: Generate a filled contour plot for DLNM output with custom color levels.  
 
 For a comprehensive overview of the package's functions, check out the package website at  
 <a href="https://le-huynh.github.io/chva.extras/" target="_blank">le-huynh.github.io/chva.extras/</a>.

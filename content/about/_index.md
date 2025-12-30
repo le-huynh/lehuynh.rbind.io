@@ -3,9 +3,10 @@
 
 → <a href="https://lehuynh.rbind.io/Le-Huynh_Truc-Ly_CV.pdf" target="_blank">Curriculum Vitae</a>  
 
-I'm a young researcher with substantial experience in data wrangling, statistical analysis, and model development. 
+I'm a researcher with substantial experience in data wrangling, statistical analysis, and model development. 
 I use R to delve into data, create cool visuals, and automate processes. 
-But what excites me the most is open science and crafting nifty digital tools for research.  
+But what excites me the most is open science and crafting nifty 
+<a href="https://lehuynh.rbind.io/r_code/" target="_blank">digital tools for research</a>.  
 
 My journey into this exciting realm began in 2016, and I've been busy ever since. 
 I'm particularly passionate about data science, especially when it involves understanding environmental issues and enhancing public health. 

@@ -3,7 +3,7 @@ showonlyimage = false
 draft = false
 image = "project/proj_cyano/proj_cyano_who.png"
 title = "Bayesian predictive model for toxic cyanobacteria occurrence from eutrophication and climate data"
-weight = 1
+weight = 2
 description = "Bayesian model addressed zero-inflation issue in cyanobacterial data"
 +++
 
@@ -54,11 +54,4 @@ In the context of climate change, where harmful cyanobacterial blooms may occur 
   <div class="col-md-6" markdown="1">
   <img height="600px" class="center-block" src="../proj_cyano_map_naga.png">
   </div>
-
-
-
-
-
-
-
 

@@ -3,7 +3,7 @@ showonlyimage = false
 draft = false
 image = "https://github.com/le-huynh/lehuynh/blob/master/man/figures/logo.png?raw=true"
 title = "lehuynh"
-weight = 4
+weight = 2
 description = "R/lehuynh: Personal R package"
 +++
 
