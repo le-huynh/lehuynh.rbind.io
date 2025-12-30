@@ -1,7 +1,7 @@
 +++
 showonlyimage = false
 draft = false
-image = "https://github.com/le-huynh/omics4drug/blob/main/man/figures/logo.png?raw=true"
+image = "r_code/package_omics4drug/omics4drug.png"
 title = "omics4drug"
 weight = 3
 description = "R/omics4drug: An R toolkit for Mass Spectrometry-based Proteomics and Phosphoproteomics data analysis"

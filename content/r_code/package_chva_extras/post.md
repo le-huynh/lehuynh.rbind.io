@@ -1,7 +1,7 @@
 +++
 showonlyimage = false
 draft = false
-image = "https://github.com/le-huynh/chva.extras/blob/master/man/figures/logo.png?raw=true"
+image = "r_code/package_chva_extras/chva.extras.png"
 title = "chva.extras"
 weight = 2
 description = "R/chva.extras: Supplementary Tools for Climate and Health Research in Virginia"

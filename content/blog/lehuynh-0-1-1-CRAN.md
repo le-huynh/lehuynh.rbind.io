@@ -2,7 +2,7 @@
 title: "lehuynh: Now Available on CRAN!"
 draft: false
 showonlyimage: false
-image: "https://github.com/le-huynh/lehuynh/blob/master/man/figures/logo.png?raw=true"
+image: "r_code/package_lehuynh/lehuynh.png"
 weight: 1
 description: "R/lehuynh: Personal R package"
 ---
