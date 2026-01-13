@@ -24,7 +24,7 @@ by _Hadley Wickham_ and _Jenny Bryan_.
 #### Git and GitHub
 * [Happy Git with R](https://happygitwithr.com) 
 by _Jenny Bryan_.  
-* [Notes on Git and GitHub](https://notes-on-git-and-github.netlify.app) by _Daniel Czarnievicz_.  
+* [Notes on Git and GitHub](https://daczarne.github.io/notes_on_git_and_github/index.html) by _Daniel Czarnievicz_.  
 
 #### Write thesis in R Markdown
 * A great [tutorial](https://ourcodingclub.github.io/tutorials/rmarkdown-dissertation/) by _Anna Chirumbolo_.  
@@ -53,7 +53,7 @@ by _Riffomonas_.
 * [initial steps toward reproducible research](https://kbroman.org/steps2rr/) by
 _Karl Broman_.  
 
-#### General
+#### Others
 * [Coding Club](https://ourcodingclub.github.io)  
 * [Hemingway Editor](https://hemingwayapp.com)  
 * download [csl file](https://www.zotero.org/styles)  
