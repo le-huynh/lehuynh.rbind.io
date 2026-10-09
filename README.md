@@ -15,4 +15,4 @@
 
 This is the source repository of my personal blog [lehuynh.rbind.io](https://lehuynh.rbind.io/)
 
-This website is built with [GitHub](https://github.com/le-huynh){target=_blank}, [R](https://www.r-project.org/about.html){target=_blank}, and [Quarto](https://quarto.org/){target=_blank}.
+This website is built with [GitHub](https://github.com/le-huynh), [R](https://www.r-project.org/about.html), and [Quarto](https://quarto.org/).
