@@ -15,7 +15,4 @@
 
 This is the source repository of my personal blog [lehuynh.rbind.io](https://lehuynh.rbind.io/)
 
-The website is generated via [blogdown](https://github.com/rstudio/blogdown), 
-using the [Hugo](https://gohugo.io) 
-theme [Creative portfolio](https://github.com/kishaningithub/hugo-creative-portfolio-theme), 
-and deployed on [Netlify](https://www.netlify.com).
+This website is built with [GitHub](https://github.com/le-huynh){target=_blank}, [R](https://www.r-project.org/about.html){target=_blank}, and [Quarto](https://quarto.org/){target=_blank}.
