@@ -1,0 +1,17 @@
+---
+title: "R-code"
+subtitle: "r packages, reproducible code, and other little things i’ve built" 
+listing:
+  contents: r_code
+  image-height: auto
+  feed: true
+  sort: "order"
+  type: grid
+  grid-item-border: true
+  grid-item-align: left
+  max-description-length: 175
+  sort-ui: false
+  filter-ui: false
+page-layout: full
+title-block-banner: true
+---

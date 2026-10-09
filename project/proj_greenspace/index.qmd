@@ -1,0 +1,33 @@
+---
+title: "Does Urban Green Space Mitigate Emergency Department Cases During Heat Waves?"
+description: " "
+image: ric_msa.png
+order: 1
+---
+
+*Funded by Environmental Institute, University of Virginia, USA*
+
+`2025 - Present`
+
+**Topics**: Geospatial health modelling · Environmental epidemiology · Climate health · Health equity · Big data analytics · Meta-analysis · Case time-series · Distributed lag non-linear models (DLNMs)  
+
+**My contributions**: Conceptualization · Data curation · Data analysis · Data visualization · Cartography · Software development · Code management · Writing scientific manuscripts  
+
+**Skills used**: Geospatial health modeling · Big data analytics · R · RMarkdown · Git · GNU Make · R package development  
+
+→ <a href="https://environment.virginia.edu/Green-Mitigate-Heat" target="_blank">Official project page</a>  
+
+<hr>
+
+This project investigates whether urban green spaces can reduce health risks during periods of extreme heat. 
+The study analyzes emergency department visits in Richmond MSA, Virginia to assess whether residents of greener neighborhoods experience fewer heat-related health emergencies.  
+
+The study integrates de-identified patient-level health data from Virginia’s All-Payer Claims Database with ERA5-Land reanalysis climate data and detailed landscape metrics. 
+Rather than relying on simple measures of greenness, the study evaluates multiple characteristics of green spaces, including their size, shape, connectivity, and spatial distribution across neighborhoods.  
+
+The results are intended to inform urban planning and public health strategies by identifying where investments in trees, parks, and other green infrastructure could most effectively reduce heat-related health risks. 
+By highlighting both vulnerable communities and the types of green spaces that offer the strongest protection, the project aims to support healthier, more climate-resilient cities.  
+
+## Presentations
+
+> Ha, J., Hosseini, P., Davis, R., **Le‑Huynh, T.‑L.**, Novicoff, W., Delaar, G., Yoo, J., & Sa. H., Urban green space and emergency department visits during heat waves [Oral presentation], *Council of Educators in Landscape Architecture*, Portland, Oregon, USA, March 2026.

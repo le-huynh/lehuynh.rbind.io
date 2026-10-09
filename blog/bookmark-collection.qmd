@@ -1,0 +1,48 @@
+---
+title: "bookmark collection"
+description: "interesting links i’ve collected along the way"
+slug: bookmark-collection
+categories: [other]
+image: ../static/img/source.png
+order: 1
+---
+
+A collection of interesting links featuring open-access books, tutorials, and articles on data analysis, data visualization, and reproducible workflow.
+
+
+<hr>
+
+
+#### R+
+* [Big Book of R](https://www.bigbookofr.com/){target=_blank} by _Oscar Baruffa_.  
+* [R for Data Science](https://r4ds.had.co.nz/index.html){target=_blank} by _Hadley Wickham_ and _Garrett Grolemund_.  
+* [R Packages](https://r-pkgs.org){target=_blank} by _Hadley Wickham_ and _Jenny Bryan_.  
+
+#### Git and GitHub
+* [Happy Git with R](https://happygitwithr.com){target=_blank} by _Jenny Bryan_.  
+* [Notes on Git and GitHub](https://daczarne.github.io/notes_on_git_and_github/index.html){target=_blank} by _Daniel Czarnievicz_.  
+
+#### Bayesian data analysis
+* [Doing Bayesian Data Analysis](https://sites.google.com/site/doingbayesiandataanalysis/){target=_blank} by _John Kruschke_.  
+	+ [(Re)Doing Bayesain Data Analysis](https://rpruim.github.io/Kruschke-Notes/){target=_blank} by _R Pruim_.  
+	+ [Doing Bayesian Data Analysis in brms and the tidyverse](https://solomon.quarto.pub/dbda2/){target=_blank} by _A Solomon Kurz_.  
+* [Statistical Rethinking](http://xcelab.net/rm/statistical-rethinking/){target=_blank} by _Richard McElreath_.  
+	+ [Statistical rethinking with brms, ggplot2, and the tidyverse](https://solomon.quarto.pub/sr/){target=_blank} by _A Solomon Kurz_.  
+	
+#### Data visualization
+* [Fundamentals of Data Visualization](https://clauswilke.com/dataviz/){target=_blank} by _Claus O. Wilke_.  
+* [Data Visualization](https://socviz.co/){target=_blank} by _Kieran Healy_.  
+
+#### Reproducible reports
+* [Reproducible Research Tutorial Series](https://riffomonas.org/reproducible_research/){target=_blank} 
+and [YouTube channel](https://www.youtube.com/c/RiffomonasProject){target=_blank} by _Riffomonas_.  
+* [initial steps toward reproducible research](https://kbroman.org/steps2rr/){target=_blank} by _Karl Broman_.  
+
+#### Other
+* [Write your CV with R Pagedown](https://www.anabellelaurent.com/slides/rladies_pagedown/cvwithpagedown#1){target=_blank} by _Anabelle Laurent_.  
+* [Creating your personal website using Quarto](https://samanthacsik.github.io/RLadiesSB-quarto-websites/){target=_blank} by _Sam Shanny-Csik_.  
+* [Write your dissertation in Rmarkdown](https://ourcodingclub.github.io/tutorials/rmarkdown-dissertation/){target=_blank} by _Anna Chirumbolo_.  
+* [Coding Club](https://ourcodingclub.github.io){target=_blank}  
+* [Hemingway Editor](https://hemingwayapp.com){target=_blank}  
+* download [csl file](https://www.zotero.org/styles){target=_blank}  
+

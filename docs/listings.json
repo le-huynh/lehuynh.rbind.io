@@ -1,0 +1,46 @@
+[
+  {
+    "listing": "/blog.html",
+    "items": [
+      "/blog/bookmark-collection.html",
+      "/blog/lehuynh_CRAN.html",
+      "/blog/viz-map-elevation/index.html",
+      "/blog/viz-map-terrain/index.html",
+      "/blog/error-csv-parse-error.html",
+      "/blog/tips-api-stadia-map.html",
+      "/blog/tips-download-specific-folder-github.html",
+      "/blog/tips-Rpackage-undefined-global-variables.html",
+      "/blog/warning-imports-not-declared-from-package-name.html",
+      "/blog/tips-hugo-creative-portfolio-theme-fit-screen/index.html",
+      "/blog/tips-r-snippet/index.html"
+    ]
+  },
+  {
+    "listing": "/about.html",
+    "items": [
+      "/r_code/package_chva_extras/post.html",
+      "/r_code/package_lehuynh/post.html",
+      "/r_code/package_omics4drug/post.html"
+    ]
+  },
+  {
+    "listing": "/r_code.html",
+    "items": [
+      "/r_code/package_chva_extras/index.html",
+      "/r_code/package_lehuynh/index.html",
+      "/r_code/package_omics4drug/index.html"
+    ]
+  },
+  {
+    "listing": "/projects.html",
+    "items": [
+      "/project/proj_chva/index.html",
+      "/project/proj_greenspace/index.html",
+      "/project/proj_kmgbf_01/index.html",
+      "/project/proj_npsle/index.html",
+      "/project/proj_cyano/index.html",
+      "/project/proj_aml/index.html",
+      "/project/cheatsheet_vi_translation/index.html"
+    ]
+  }
+]

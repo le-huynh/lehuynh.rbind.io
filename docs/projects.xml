@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>Le-Huynh Truc-Ly</title>
+<link>https://lehuynh.rbind.io/projects.html</link>
+<atom:link href="https://lehuynh.rbind.io/projects.xml" rel="self" type="application/rss+xml"/>
+<description></description>
+<generator>quarto-1.10.18</generator>
+<lastBuildDate>Fri, 09 Oct 2026 03:28:52 GMT</lastBuildDate>
+<item>
+  <title>Climate and Health in Virginia</title>
+  <link>https://lehuynh.rbind.io/project/proj_chva/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p><em>Funded by Environmental Institute, University of Virginia, US</em></p>
+<p><code>2024 - Present</code></p>
+<p><strong>Topics</strong>: Geospatial health modelling · Environmental epidemiology · Climate health · Health equity · Big data analytics · Meta-analysis · Case time-series · Distributed lag non-linear models (DLNMs)</p>
+<p><strong>My contributions</strong>: Conceptualization · Data curation · Data analysis · Data visualization · Cartography · Software development · Code management · Writing scientific manuscripts</p>
+<p><strong>Skills used</strong>: Geospatial health modeling · Big data analytics · R · RMarkdown · Git · GNU Make · R package development</p>
+<p>→ <a href="https://environment.virginia.edu/our-work/climate-related-diseases-and-disparities" target="_blank">Official project page</a></p>
+<hr>
+<p>This project investigates the climate-related diseases and disparities in Virginia.</p>
+<p>It focuses on whether health impacts associated with climate conditions differ by age, race, ethnicity, and gender. The study integrates de-identified patient-level health data from the All-Payer Claims Database (<a href="https://www.vhi.org/apcd/">APCD</a>) with climate and air quality data, as well as social and demographic information from the CDC Social Vulnerability Index, state agencies, and U.S. Census datasets.</p>
+<p>By bringing these data sources together, the project aims to identify factors that contribute to unequal health risks during climate-related events such as extreme heat. The findings will support more targeted public health communication and improve understanding of how different populations respond to climate extremes, helping inform preparedness for future climate-related risks.</p>
+<section id="outcomes" class="level1">
+<h1>Outcomes</h1>
+<section id="publications" class="level2">
+<h2 class="anchored" data-anchor-id="publications">Publications</h2>
+<blockquote class="blockquote">
+<p><strong>Le‑Huynh, T.‑L.</strong>, Novicoff, W. M., DeGuzman, P. B., Davis, R. E. (2026). Assessing the Importance of Spatial Scale in Climate-Health Models: the Effect of Temperature on Emergency Department Visits in Richmond, Virginia. <a href="https://doi.org/10.1029/2026gh001852" target="_blank"><em>GeoHealth</em>, 10, e2026GH001852</a></p>
+</blockquote>
+<p><strong>Abstract</strong>:<br>
+Climate-health studies often rely on data from a single high-quality weather station to represent the exposure of individuals living in the surrounding region. However, with the availability of various gridded climatic data sets, a critical question is whether spatially explicit data can better capture individual environmental exposures and reveal stronger climate-health associations. We investigated the impact of spatial-scale climatic variability and representativeness for emergency department (ED) visits in Richmond, Virginia, United States. This study compared the climate-health relationship using data from a weather station and the ERA5 reanalysis from 2016 to 2022. We evaluated the correlation of the two time-series and used generalized additive models to compare the temperature-ED visit associations across four nested spatial scales. The results were highly consistent across all spatial scales. The station and ERA5 data exhibited similar distributions. The temperature-ED visit relationships showed strong agreement between the two data sources, reflected in both location-specific and pooled estimates. Although ERA5 produced slightly lower cold-related and higher heat-related estimates at extreme temperatures, no marked differences were found between the two data sources. Our findings suggest that, in this region with a relatively homogeneous climate, the variations of regional climate might be small enough to fall within the model’s expected uncertainty. Although this result may not apply in regions with considerable local climate variation, data from a single high-quality station in many regions are appropriate to model climate-health relationships over the greater surrounding areas. We recommend similar comparative work across diverse climatic settings to evaluate the generalizability of this conclusion.</p>
+</section>
+<section id="r-package-chva.extras" class="level2">
+<h2 class="anchored" data-anchor-id="r-package-chva.extras">[R-package] <a href="https://le-huynh.github.io/chva.extras/" target="_blank"><code>chva.extras</code></a></h2>
+<p><a href="https://le-huynh.github.io/chva.extras/" target="_blank"> <img align="right" alt="logo" width="150" src="https://github.com/le-huynh/chva.extras/blob/master/man/figures/logo.png?raw=true"> </a></p>
+<blockquote class="blockquote">
+<p><strong>Le-Huynh, T.-L.</strong>, Davis, R. E., Novicoff, W. M., &amp; DeGuzman, P. B. (2025). chva.extras v0.1.0: Supplementary Tools for Climate and Health Research in VA (Version v0.1.0) [Computer software]. Zenodo. <a href="https://doi.org/10.5281/zenodo.14910967" target="_blank">https://doi.org/10.5281/zenodo.14910967</a></p>
+</blockquote>
+<p><a href="https://le-huynh.github.io/chva.extras/" target="_blank"><code>chva.extras</code></a> is a collection of supplementary functions and templates designed to support climate and health research in Virginia, including tools for data manipulation, analysis, and visualization, tailored to handle large datasets.</p>
+<p>Explore the package at <a href="https://le-huynh.github.io/chva.extras/" target="_blank">https://le-huynh.github.io/chva.extras/</a></p>
+</section>
+<section id="reproducible-research-code" class="level2">
+<h2 class="anchored" data-anchor-id="reproducible-research-code">Reproducible research code</h2>
+<blockquote class="blockquote">
+<p><strong>Le‑Huynh, T.‑L.</strong>, Novicoff, W. M., DeGuzman, P. B., Davis, R. E. (2026). Reproducible code for “Assessing the Importance of Spatial Scale in Climate-Health Models: the Effect of Temperature on Emergency Department Visits in Richmond, Virginia” (Version v1.0.0) [Computer software]. Zenodo. <a href="https://doi.org/10.5281/zenodo.20076108" target="_blank">https://doi.org/10.5281/zenodo.20076108</a></p>
+</blockquote>
+</section>
+<section id="scientific-professional-presentations" class="level2">
+<h2 class="anchored" data-anchor-id="scientific-professional-presentations">Scientific &amp; Professional Presentations</h2>
+<ul>
+<li><strong>Le‑Huynh, T.‑L.</strong>, Novicoff, W., DeGuzman, P., Davis, R., Heat and Emergency Department Visits: Does Social Vulnerability Matter? [Oral presentation], <em>2026 Climate Fellows Research Showcase</em>, Charlottesville, Virginia, USA, September 2026.</li>
+<li><strong>Le‑Huynh, T.‑L.</strong>, Davis, R. E., Novicoff, W. M., Enfield, K. B., Are Fireworks Associated with Respiratory Emergency Department Visits in Virginia? [Oral presentation], <em>24th International Congress of Biometeorology</em>, Novi Sad, Serbia, July 2026.</li>
+<li>Kakatkar, S., <strong>Le‑Huynh, T.‑L.</strong>, Davis, R. E., Heat, Air Quality, and Emergency Department Diagnoses: Social Vulnerability and Biometeorological Stress in Virginia [Oral presentation], <em>24th International Congress of Biometeorology</em>, Novi Sad, Serbia, July 2026.</li>
+<li>Davis, R. E., <strong>Le‑Huynh, T.‑L.</strong>, Novicoff, W. M., DeGuzman, P., Assessing Spatial Scale in Climate-Health Research [Oral presentation], <em>24th International Congress of Biometeorology</em>, Novi Sad, Serbia, July 2026.</li>
+<li><strong>Le‑Huynh, T.‑L.</strong>, Davis, R. E., Novicoff, W. M., Enfield, K. B., Are Fireworks Associated with Respiratory Emergency Department Visits in Virginia? [Poster presentation], <em>2026 UVA Postdoctoral Research Symposium</em>, Charlottesville, Virginia, USA, April 2026.</li>
+<li>Ha, J., Hosseini, P., Davis, R., <strong>Le‑Huynh, T.‑L.</strong>, Novicoff, W., Delaar, G., Yoo, J., &amp; Sa. H., Urban green space and emergency department visits during heat waves [Oral presentation], <em>Council of Educators in Landscape Architecture</em>, Portland, Oregon, USA, March 2026.</li>
+<li><strong>Le‑Huynh, T.‑L.</strong>, Novicoff, W., DeGuzman, P., Davis, R., Exploring climate-health disparities in Virginia: Toward AI-driven solutions [Poster presentation], <em>Environmental Futures Forum 2025</em>, Charlottesville, Virginia, USA, October 2025.</li>
+</ul>
+
+
+</section>
+</section>
+
+ ]]></description>
+  <guid>https://lehuynh.rbind.io/project/proj_chva/</guid>
+  <pubDate>Fri, 09 Oct 2026 03:28:52 GMT</pubDate>
+  <media:content url="https://lehuynh.rbind.io/project/proj_chva/va_health_region.png" medium="image" type="image/png" height="82" width="144"/>
+</item>
+<item>
+  <title>Does Urban Green Space Mitigate Emergency Department Cases During Heat Waves?</title>
+  <link>https://lehuynh.rbind.io/project/proj_greenspace/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p><em>Funded by Environmental Institute, University of Virginia, USA</em></p>
+<p><code>2025 - Present</code></p>
+<p><strong>Topics</strong>: Geospatial health modelling · Environmental epidemiology · Climate health · Health equity · Big data analytics · Meta-analysis · Case time-series · Distributed lag non-linear models (DLNMs)</p>
+<p><strong>My contributions</strong>: Conceptualization · Data curation · Data analysis · Data visualization · Cartography · Software development · Code management · Writing scientific manuscripts</p>
+<p><strong>Skills used</strong>: Geospatial health modeling · Big data analytics · R · RMarkdown · Git · GNU Make · R package development</p>
+<p>→ <a href="https://environment.virginia.edu/Green-Mitigate-Heat" target="_blank">Official project page</a></p>
+<hr>
+<p>This project investigates whether urban green spaces can reduce health risks during periods of extreme heat. The study analyzes emergency department visits in Richmond MSA, Virginia to assess whether residents of greener neighborhoods experience fewer heat-related health emergencies.</p>
+<p>The study integrates de-identified patient-level health data from Virginia’s All-Payer Claims Database with ERA5-Land reanalysis climate data and detailed landscape metrics. Rather than relying on simple measures of greenness, the study evaluates multiple characteristics of green spaces, including their size, shape, connectivity, and spatial distribution across neighborhoods.</p>
+<p>The results are intended to inform urban planning and public health strategies by identifying where investments in trees, parks, and other green infrastructure could most effectively reduce heat-related health risks. By highlighting both vulnerable communities and the types of green spaces that offer the strongest protection, the project aims to support healthier, more climate-resilient cities.</p>
+<section id="presentations" class="level2">
+<h2 class="anchored" data-anchor-id="presentations">Presentations</h2>
+<blockquote class="blockquote">
+<p>Ha, J., Hosseini, P., Davis, R., <strong>Le‑Huynh, T.‑L.</strong>, Novicoff, W., Delaar, G., Yoo, J., &amp; Sa. H., Urban green space and emergency department visits during heat waves [Oral presentation], <em>Council of Educators in Landscape Architecture</em>, Portland, Oregon, USA, March 2026.</p>
+</blockquote>
+
+
+</section>
+
+ ]]></description>
+  <guid>https://lehuynh.rbind.io/project/proj_greenspace/</guid>
+  <pubDate>Fri, 09 Oct 2026 03:28:52 GMT</pubDate>
+  <media:content url="https://lehuynh.rbind.io/project/proj_greenspace/ric_msa.png" medium="image" type="image/png" height="82" width="144"/>
+</item>
+<item>
+  <title>Local-global linkages in biodiversity governance</title>
+  <link>https://lehuynh.rbind.io/project/proj_kmgbf_01/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p><em>A collaboration with Wyss Academy for Nature at University of Bern, Switzerland</em></p>
+<p><code>2024 - 2025</code></p>
+<p><strong>Topics</strong>: Environmental politics · Biodiversity governance</p>
+<p><strong>My contributions</strong>: Data analysis · Data visualization · Data curation · Code management</p>
+<p><strong>Skills used</strong>: Network analysis · Text Mining analysis · Discourse analysis · R · RMarkdown · Git · GNU Make</p>
+<section id="publications" class="level2">
+<h2 class="anchored" data-anchor-id="publications">Publications</h2>
+<blockquote class="blockquote">
+<p>Nguyen, V. T. H., <strong>Le‑Huynh, T.‑L.</strong>, Gadola, S., Nguyen, Q., Walters, G., Owuor, M. A (2025). Local-Global Linkages in Biodiversity Governance: The Regime Complex of the Convention on Biological Diversity Agenda for Nature Pledges. <em>Environmental Science &amp; Policy</em>, 173(November), 104246. <a href="https://doi.org/10.1016/j.envsci.2025.104246" target="_blank">https://doi.org/10.1016/j.envsci.2025.104246</a></p>
+</blockquote>
+<p><strong>Abstract</strong><br>
+The trajectory of global biodiversity governance, culminating in the 2022 Kunming-Montreal Global Biodiversity Framework (KMGBF), reflects a pivot toward transformative change through a “whole-of-society” (WoS) approach. This approach integrates traditional multilateral negotiations with various self-organizing governance initiatives across the public, civil, and business spheres, forming additional layers within a biodiversity regime complex. While praised for its flexibility, horizontal linkages, and adaptability, an open question remains: Has this regime complex effectively delivered on its transformative promises? Using 718 biodiversity pledges submitted to the Action Agenda for Nature under the Convention on Biological Diversity—representing 1086 actors and 4109 connections—we applied social network and discourse analysis to map dynamic actor interactions and examine how they shape regime dynamics. Our findings reveal the emergence of a “middle-out” governance space, where non-state and sub-national actors act as intermediaries linking global commitments to local implementation. By visualizing the diffusion of participation, we identify potential leverage points where these actors can step forward as agents of change within the biodiversity regime. Yet despite these advances, network fragmentation persists—marked by duplication, misalignment, and weak cross-scale connectivity. Divergent discourses and weak ties between biodiversity status and actions further hinder systemic coherence. We argue that the regime complex must be reconceptualized beyond horizontal linkages to include vertical dimensions of governance. This study contributes to emerging network approaches in global biodiversity governance by identifying governance gaps and highlighting opportunities for systemic transformation. Strengthening alignment across levels and empowering middle-out actors are essential steps toward translating ambitious global biodiversity goals into effective, inclusive, and locally grounded actions.</p>
+</section>
+<section id="reproducible-research-code" class="level2">
+<h2 class="anchored" data-anchor-id="reproducible-research-code">Reproducible research code</h2>
+<blockquote class="blockquote">
+<p>Nguyen, V. T. H., <strong>Le‑Huynh, T.‑L.</strong>. (2026). Reproducible code for “Local-global linkages in biodiversity governance: The regime complex of the convention on biological diversity agenda for nature pledges” (Version v1.0.0) [Computer software]. Zenodo. <a href="https://doi.org/10.5281/zenodo.20495877" target="_blank">https://doi.org/10.5281/zenodo.20495877</a></p>
+</blockquote>
+<p><img src="https://lehuynh.rbind.io/project/proj_kmgbf_01/fig_full.png" class="img-fluid"></p>
+
+
+</section>
+
+ ]]></description>
+  <guid>https://lehuynh.rbind.io/project/proj_kmgbf_01/</guid>
+  <pubDate>Fri, 09 Oct 2026 03:28:52 GMT</pubDate>
+  <media:content url="https://lehuynh.rbind.io/project/proj_kmgbf_01/fig_02.png" medium="image" type="image/png" height="77" width="144"/>
+</item>
+<item>
+  <title>Development of predictive biomarker spectrum for neuropsychiatric systemic lupus erythematosus (NPSLE)</title>
+  <link>https://lehuynh.rbind.io/project/proj_npsle/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p><em>A collaboration with Graduate School of Biomedical Sciences, Nagasaki University, Japan</em></p>
+<p><code>2021 - 2022</code></p>
+<p><strong>Topics</strong>: Bayesian modelling · Predictive modelling · Biomedical science · Biomarker evaluation</p>
+<p><strong>My contributions</strong>: Data analysis · Bayesian statistical modelling · Data visualization · Writing and editing article manuscript (Bayesian-related part)</p>
+<p><strong>Skills used</strong>: Bayesian modeling · Biostatistics · R · SAS · RMarkdown · LaTeX · Git · GNU Make</p>
+<hr>
+<p>This collaborative project aims to identify a potential spectrum of biomarkers for predicting NPSLE, offering crucial clinical insights before the onset of neuropsychiatric symptoms. Using a novel Bayesian model, the project determined the cutoff concentration of anti-suprabasin antibodies and associated predictive values (PPV, NPV). The findings from this project could assist in clinical trials, aid in making decisions about patient care, guide treatment choices, and enable cost-effective interventions.</p>
+<section id="publication" class="level2">
+<h2 class="anchored" data-anchor-id="publication">Publication</h2>
+<blockquote class="blockquote">
+<p>Hoang, T. T. T., Ichinose, K., Morimoto, S., Furukawa, K., <strong>Le-Huynh, T.-L.</strong>, Kawakami, A. (2022). Measurement of anti‑suprabasin antibodies, multiple cytokines and chemokines as potential predictive biomarkers for neuropsychiatric systemic lupus erythematosus. <em>Clinical Immunology</em>, 237(March), 1–8. <a href="https://doi.org/10.1016/j.clim.2022.108980" target="_blank">https://doi.org/10.1016/j.clim.2022.108980</a></p>
+</blockquote>
+<p><strong>Abstract</strong><br>
+Neuropsychiatric systemic lupus erythematosus (NPSLE) varies in presentation and is one of the leading causes of morbidity and mortality among patients with SLE. This study determined the most critical serum biomarkers for the development of NPSLE as they may have clinical utility prior to the onset of neuropsychiatric symptoms. We retrospectively analyzed 35 NPSLE patients, 34 SLE patients, 20 viral meningitis (VM) patients, and 16 relapsing-remitting multiple sclerosis (MS) patients. We measured anti-suprabasin antibodies concentrations in serum by using Luciferase immunoprecipitation system (LIPS) assay. The serum concentrations of cytokines/chemokines were measured by using multiplex bead-based assay. We found serum FGF-2 level was significantly higher in the NPSLE group compared to the SLE group and the healthy control group. The anti-suprabasin antibody relative concentration (SRC) has high positive predictive values for the development of NPSLE. The most essential biomarkers are VEGF, anti-suprabasin antibodies, sCD40L, IL-10, GRO, MDC, IL-8, IL-9, TNF-α, MIP-1α.</p>
+</section>
+<section id="reproducible-research-code" class="level2">
+<h2 class="anchored" data-anchor-id="reproducible-research-code">Reproducible research code</h2>
+<blockquote class="blockquote">
+<p><strong>Le-Huynh, T.-L.</strong>. (2023). Reproducible code for “Measurement of anti-suprabasin antibodies, multiple cytokines and chemokines as potential predictive biomarkers for neuropsychiatric systemic lupus erythematosus” (Version v1.0.0) [Computer software]. GitHub. <a href="https://github.com/le-huynh/2022_Hoang_SBSN_ClinImmunol" target="_blank">https://github.com/le-huynh/2022_Hoang_SBSN_ClinImmunol</a></p>
+</blockquote>
+</section>
+<section id="presentation" class="level2">
+<h2 class="anchored" data-anchor-id="presentation">Presentation</h2>
+<blockquote class="blockquote">
+<p>Hoang, T. T. T., Ichinose, K., Morimoto, S., Furukawa, K., <strong>Le-Huynh, T.-L.</strong>, Kawakami, A., Measurement of anti-suprabasin antibodies, multiple cytokines and chemokines as potential predictive biomarkers for neuropsychiatric systemic lupus erythematosus [Poster presentation], <em>Annals of the Rheumatic Diseases</em>, 2022;81:658.</p>
+</blockquote>
+<p><br></p>
+<p><img src="https://lehuynh.rbind.io/project/proj_npsle/proj_npsle_full.png" class="img-fluid"></p>
+
+
+</section>
+
+ ]]></description>
+  <guid>https://lehuynh.rbind.io/project/proj_npsle/</guid>
+  <pubDate>Fri, 09 Oct 2026 03:28:52 GMT</pubDate>
+  <media:content url="https://lehuynh.rbind.io/project/proj_npsle/proj_npsle_cutoff.png" medium="image" type="image/png" height="144" width="144"/>
+</item>
+<item>
+  <title>Bayesian predictive model for toxic cyanobacteria occurrence from eutrophication and climate data</title>
+  <link>https://lehuynh.rbind.io/project/proj_cyano/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p><em>Funded by Planetary Health Research Fellowship (Nagasaki University, Japan) and Grant-in-Aid for Scientific Research (Japan Society for the Promotion of Science)</em></p>
+<p><code>2020 - 2023</code></p>
+<p><strong>Topics</strong>: Bayesian statistical modelling · Harmful cyanobacteria · Zero-inflated data · Environmental science</p>
+<p><strong>My contributions</strong>: Conceptualization · Data collection · Data curation · Data analysis · Data visualization · Cartography · Software development · Code management · Writing and editing article manuscripts</p>
+<p><strong>Skills used</strong>: Bayesian modeling · R · JAGS · Stan · RMarkdown · LaTeX · Git · GNU Make · Parallel computing</p>
+<p>→ <a href="https://github.com/le-huynh/cyano_bayesian_model" target="_blank">GitHub repository</a><br>
+→ <a href="https://nagasaki-u.repo.nii.ac.jp/records/28153" target="_blank">Dissertation</a></p>
+<hr>
+<p>This project aims to develop a statistical predictive model for early-warning of toxic cyanobacteria, specifically <em>Microcystis</em>. The proposed Bayesian hurdle Poisson model effectively addressed the zero-inflation issue in cyanobacterial data. This resulted in the predictions of cyanobacterial presence probability, abundance, and the probability of exceeding WHO alert levels. These predictions could serve as a quick reference for water management decisions, including monitoring planning and testing. The principal predictor variables—air temperature, rainfall, and trophic state index—can be easily and affordably obtained, offering flexibility in data acquisition. In the context of climate change, where harmful cyanobacterial blooms may occur earlier and longer, the model developed in this project could be a practical tool within cyanobacterial early-warning systems.</p>
+<p><strong>Reproducible research code</strong></p>
+<blockquote class="blockquote">
+<p><strong>Le-Huynh, T.-L.</strong>. (2023). Bayesian predictive model for toxic cyanobacteria occurrence from eutrophication and climate data (Version v1.0.0) [Computer software]. Zenodo. <a href="https://doi.org/10.5281/zenodo.20472023" target="_blank">https://doi.org/10.5281/zenodo.20472023</a></p>
+</blockquote>
+<p><br></p>
+<p><img src="https://lehuynh.rbind.io/project/proj_cyano/cyano_figs.png" class="img-fluid"></p>
+
+
+
+ ]]></description>
+  <guid>https://lehuynh.rbind.io/project/proj_cyano/</guid>
+  <pubDate>Fri, 09 Oct 2026 03:28:52 GMT</pubDate>
+  <media:content url="https://lehuynh.rbind.io/project/proj_cyano/proj_cyano_who.png" medium="image" type="image/png" height="121" width="144"/>
+</item>
+<item>
+  <title>Toward personalized acute myeloid leukemia (AML)</title>
+  <link>https://lehuynh.rbind.io/project/proj_aml/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p><em>A collaboration with Biotech Research &amp; Innovation Centre (BRIC), University of Copenhagen, Denmark</em></p>
+<p><code>2023 - Present</code></p>
+<p><strong>Topics</strong>: Bioinformatics · Proteomics · Biomedical Science · Mass Spectrometry</p>
+<p><strong>My contributions</strong>: Data analysis · Data visualization · Code management</p>
+<p><strong>Tools</strong>: R · R Markdown · Git · GNU Make</p>
+<hr>
+<p>This collaborative project aims to identify a broad spectrum of druggable key signaling pathways in various AML mouse models and subsequently in AML patient samples. The outcomes have the potential to pave the way for personalized AML treatments by targeting specific signaling pathways, thereby revolutionizing clinical interventions for this challenging disease.</p>
+<section id="outcomes" class="level2">
+<h2 class="anchored" data-anchor-id="outcomes">Outcomes</h2>
+<section id="r-package-omics4drug" class="level3">
+<h3 class="anchored" data-anchor-id="r-package-omics4drug">[R-package] <a href="https://yen-kim.github.io/omics4drug/" target="_blank"><code>omics4drug</code></a></h3>
+<p><a href="https://yen-kim.github.io/omics4drug/" target="_blank"> <img align="right" alt="logo" width="150" src="https://github.com/le-huynh/omics4drug/blob/main/man/figures/logo.png?raw=true"> </a></p>
+<blockquote class="blockquote">
+<p>Nguyen, T. K. Y., &amp; <strong>Le-Huynh, T.-L.</strong> (2025). omics4drug v0.1.0: An R toolkit to facilitate Mass Spectrometry-based Proteomics and Phosphoproteomics data analysis (Version v0.1.0) [Computer software]. Zenodo. <a href="https://doi.org/10.5281/zenodo.17117624" target="_blank">https://doi.org/10.5281/zenodo.17117624</a></p>
+</blockquote>
+<p><a href="https://yen-kim.github.io/omics4drug/" target="_blank"><code>omics4drug</code></a> is designed for the analysis and visualization of Mass Spectrometry-based phosphoproteomics and proteomics data in drug discovery. The package provides functions for quality control, normalization, pathway enrichment analysis, and drug-target prediction.</p>
+<p>Explore the package at <a href="https://yen-kim.github.io/omics4drug/" target="_blank">https://yen-kim.github.io/omics4drug/</a></p>
+</section>
+<section id="r-package-cellviability" class="level3">
+<h3 class="anchored" data-anchor-id="r-package-cellviability">[R-package] <a href="https://github.com/yen-kim/cellviability" target="_blank"><code>cellviability</code></a></h3>
+<p><a href="https://github.com/yen-kim/cellviability" target="_blank"> <img align="right" alt="logo" width="150" src="https://github.com/yen-kim/cellviability/blob/master/man/figures/logo.png?raw=true"> </a></p>
+<blockquote class="blockquote">
+<p>Nguyen, Y. T.-K., <strong>Le-Huynh, T.-L.</strong>, &amp; Theilgaard-Monch, K. (2026). cellviability (Version v0.1.3) [Computer software]. Zenodo. <a href="https://doi.org/10.5281/zenodo.21820265" target="_blank">https://doi.org/10.5281/zenodo.21820265</a></p>
+</blockquote>
+<p><a href="https://github.com/yen-kim/cellviability" target="_blank"><code>cellviability</code></a> is designed to facilitate the analysis of cell-based drug screening experiments. The package provides functions for fitting dose-response models, estimating IC50 values, visualizing regression curves, comparing treatment groups, and evaluating drug synergy using commonly used pharmacological models.</p>
+<p>Explore the package at <a href="https://github.com/yen-kim/cellviability" target="_blank">https://github.com/yen-kim/cellviability</a></p>
+
+
+</section>
+</section>
+
+ ]]></description>
+  <guid>https://lehuynh.rbind.io/project/proj_aml/</guid>
+  <pubDate>Fri, 09 Oct 2026 03:28:52 GMT</pubDate>
+  <media:content url="https://lehuynh.rbind.io/project/proj_aml/proj_aml_volcano.png" medium="image" type="image/png" height="154" width="144"/>
+</item>
+<item>
+  <title>Unlocking R’s Power</title>
+  <link>https://lehuynh.rbind.io/project/cheatsheet_vi_translation/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>This project is driven by the belief in making technical knowledge accessible. The widespread use of the R programming language motivated me to bridge language barriers, fostering inclusivity in the programming community.</p>
+<p>While navigating the complexities of technical translation, I strive for accuracy without compromising clarity. Overcoming linguistic nuances, I try to make every term resonate authentically in Vietnamese, aiming to empower local programmers with easily understandable resources.</p>
+<p>The objective of this project exceeds mere translation; it’s about cultivating a thriving community. I hope these translated cheatsheets can serve as a catalyst, empowering Vietnamese programmers to explore the vast landscape of R programming.</p>
+<hr>
+<div class="grid">
+<div class="g-col-12 g-col-md-4 text-center">
+<p><a href="../../top/cheatsheet_rstudio-ide_vi.pdf" target="_blank"><img src="https://lehuynh.rbind.io/project/cheatsheet_vi_translation/proj_cheatsheet_rstudio.png" height="250"></a></p>
+<p>RStudio IDE</p>
+</div>
+<div class="g-col-12 g-col-md-4 text-center">
+<p><a href="../../top/cheatsheet_gtsummary_vi.pdf" target="_blank"><img src="https://lehuynh.rbind.io/project/cheatsheet_vi_translation/proj_cheatsheet_gtsummary.png" height="250"></a></p>
+<p>gtsummary</p>
+</div>
+<div class="g-col-12 g-col-md-4 text-center">
+<p><a href="../../top/cheatsheet_git-github_vi.pdf" target="_blank"><img src="https://lehuynh.rbind.io/project/cheatsheet_vi_translation/proj_cheatsheet_git.png" height="250"></a></p>
+<p>Git &amp; GitHub</p>
+</div>
+</div>
+
+
+
+ ]]></description>
+  <guid>https://lehuynh.rbind.io/project/cheatsheet_vi_translation/</guid>
+  <pubDate>Fri, 09 Oct 2026 03:28:52 GMT</pubDate>
+  <media:content url="https://lehuynh.rbind.io/project/cheatsheet_vi_translation/proj_cheatsheet_cover.png" medium="image" type="image/png" height="83" width="144"/>
+</item>
+</channel>
+</rss>

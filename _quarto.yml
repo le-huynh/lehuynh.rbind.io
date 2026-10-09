@@ -1,0 +1,53 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Le-Huynh Truc-Ly"
+  site-url: https://lehuynh.rbind.io/
+  google-analytics: 
+    tracking-id: "G-VKCP9ZH816"
+    anonymize-ip: true
+  navbar:
+    title: "Le-Huynh Truc-Ly"
+    right:
+      - href: index.qmd
+        text: home
+      - href: projects.qmd
+        text: projects
+      - href: r_code.qmd
+        text: r-code
+      - href: blog.qmd
+        text: blog
+      - href: publications.qmd
+        text: publications
+      - href: Le-Huynh_Truc-Ly_CV.pdf
+        text: CV
+        target: _blank
+      - text: get in touch!
+        menu:
+          - icon: linkedin
+            text: LinkedIn
+            href: https://www.linkedin.com/in/le-huynh-truc-ly
+            target: _blank
+          - icon: envelope
+            text: email
+            href: mailto:trucly.lehuynh@gmail.com
+          - icon: github
+            text: GitHub
+            href: https://github.com/le-huynh
+            target: _blank
+  page-footer: 
+    background: light
+    left: © 2021-2026 Le-Huynh Truc-Ly
+    right: This website is built with [GitHub](https://github.com/le-huynh){target=_blank}, [R](https://www.r-project.org/about.html){target=_blank}, and [Quarto](https://quarto.org/){target=_blank}
+
+format:
+  html:
+    page-layout: full
+    sidebar: false
+    theme: 
+      - styles.scss
+    mainfont: Nunito
+    toc: true
+

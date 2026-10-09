@@ -1,0 +1,28 @@
+---
+title: "Undefined global variables"
+description: "NOTE when creating new function in Rpackage"
+categories: [tips, R, R-package]
+image: ../static/img/tips.png
+order: 3
+---
+
+### Note
+I am creating a new function in my Rpackage. 
+After running `devtools::check()`, I get this NOTE:  
+
+```r
+checking R code for possible problems ... NOTE
+  function_name1: no visible binding for global variable 'value1'
+  function_name2: no visible binding for global variable 'value2'
+  Undefined global variables:
+    value1 value2
+```
+
+### Solution
+Create a file `globals.R` in the `R` folder, listing undefined global variables:  
+
+```r
+utils::globalVariables(c("value1", "value2"))
+
+```
+

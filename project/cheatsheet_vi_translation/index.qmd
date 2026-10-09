@@ -1,0 +1,40 @@
+---
+title: "Unlocking R's Power"
+description: "Translating R Cheatsheets into Vietnamese"
+image: proj_cheatsheet_cover.png
+order: 5
+---
+
+This project is driven by the belief in making technical knowledge accessible. 
+The widespread use of the R programming language motivated me to bridge language barriers, fostering inclusivity in the programming community.  
+
+While navigating the complexities of technical translation, I strive for accuracy without compromising clarity. 
+Overcoming linguistic nuances, I try to make every term resonate authentically in Vietnamese, aiming to empower local programmers with easily understandable resources.  
+
+The objective of this project exceeds mere translation; it's about cultivating a thriving community. 
+I hope these translated cheatsheets can serve as a catalyst, empowering Vietnamese programmers to explore the vast landscape of R programming.  
+
+<hr>
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-4 .text-center}
+[![](proj_cheatsheet_rstudio.png){height=250px}](/top/cheatsheet_rstudio-ide_vi.pdf){target="_blank"}
+
+RStudio IDE
+:::
+
+::: {.g-col-12 .g-col-md-4 .text-center}
+[![](proj_cheatsheet_gtsummary.png){height=250px}](/top/cheatsheet_gtsummary_vi.pdf){target="_blank"}
+
+gtsummary
+:::
+
+::: {.g-col-12 .g-col-md-4 .text-center}
+[![](proj_cheatsheet_git.png){height=250px}](/top/cheatsheet_git-github_vi.pdf){target="_blank"}
+
+Git & GitHub
+:::
+
+:::
+

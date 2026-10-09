@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>Le-Huynh Truc-Ly</title>
+<link>https://lehuynh.rbind.io/r_code.html</link>
+<atom:link href="https://lehuynh.rbind.io/r_code.xml" rel="self" type="application/rss+xml"/>
+<description></description>
+<generator>quarto-1.10.18</generator>
+<lastBuildDate>Fri, 09 Oct 2026 03:29:20 GMT</lastBuildDate>
+<item>
+  <title>chva.extras</title>
+  <link>https://lehuynh.rbind.io/r_code/package_chva_extras/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p><a href="https://le-huynh.github.io/chva.extras/" target="_blank"> <img align="right" alt="logo" width="150" src="https://github.com/le-huynh/chva.extras/blob/master/man/figures/logo.png?raw=true"> </a></p>
+<p><a href="https://github.com/le-huynh/chva.extras/actions/workflows/R-CMD-check.yaml" target="_blank"> <img align="left" alt="r-cmd-check" style="margin-right: 5px;" src="https://github.com/le-huynh/chva.extras/actions/workflows/R-CMD-check.yaml/badge.svg"> </a></p>
+<p><a href="https://lifecycle.r-lib.org/articles/stages.html#stable" target="_blank"> <img align="left" alt="lifecycle" style="margin-right: 5px;" src="https://img.shields.io/badge/lifecycle-stable-brightgreen.svg"> </a></p>
+<p><a href="https://doi.org/10.5281/zenodo.14910966" target="_blank"> <img align="left" alt="doi" src="https://zenodo.org/badge/917932837.svg"> </a></p>
+<p><br></p>
+<p>→ <a href="https://github.com/le-huynh/chva.extras" target="_blank">GitHub repository</a><br>
+→ <a href="https://le-huynh.github.io/chva.extras/" target="_blank">Package Website</a></p>
+<p><code>chva.extras</code> is a collection of supplementary functions and templates designed to support climate and health research in Virginia, including tools for data manipulation, analysis, and visualization, tailored to handle large datasets.</p>
+<hr>
+<section id="installation" class="level3">
+<h3 class="anchored" data-anchor-id="installation">Installation</h3>
+<p>To get the latest in-development features, install the development version from GitHub:</p>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb1" style="background: #f1f3f5;"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb1-1"><span class="cf" style="color: #003B4F;
+background-color: null;
+font-weight: bold;
+font-style: inherit;">if</span>(<span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">!</span><span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">requireNamespace</span>(<span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"devtools"</span>, <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">quietly =</span> <span class="cn" style="color: #8f5902;
+background-color: null;
+font-style: inherit;">TRUE</span>)) {</span>
+<span id="cb1-2"> <span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">install.packages</span>(<span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"devtools"</span>)</span>
+<span id="cb1-3">}</span>
+<span id="cb1-4">devtools<span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">::</span><span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">install_github</span>(<span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"le-huynh/chva.extras"</span>)</span></code></pre></div></div>
+<p>This package is also accessible for download via Zenodo at <a href="https://doi.org/10.5281/zenodo.14910966" target="_blank">10.5281/zenodo.14910967</a>.</p>
+</section>
+<section id="functions" class="level3">
+<h3 class="anchored" data-anchor-id="functions">Functions</h3>
+<p>See <a href="https://le-huynh.github.io/chva.extras/reference/index.html" target="_blank">Package index</a> for full list of functions.</p>
+<ol type="1">
+<li>Convert files to Parquet format<br>
+</li>
+</ol>
+<ul>
+<li><code>get_parquet_arrow()</code>: Convert multiple files to Parquet format.<br>
+</li>
+<li><code>get_parquet_by_chunk()</code>: Convert file to Parquet format by chunks.</li>
+</ul>
+<ol start="2" type="1">
+<li>Support handy workflow</li>
+</ol>
+<ul>
+<li><code>check_overview()</code>: Provide an overview of datasets.<br>
+</li>
+<li><code>check_unique_value()</code>: Count unique values of a specified column.<br>
+</li>
+<li><code>get_dataset()</code>: Get full working datasets as a named list of <a href="https://arrow.apache.org/docs/r/reference/Dataset.html" target="_blank">Dataset</a> R6 objects.<br>
+</li>
+<li><code>recode_values()</code>: Recode values based on grouping logic.</li>
+</ul>
+<ol start="3" type="1">
+<li>Compute indices used in climate health research</li>
+</ol>
+<ul>
+<li>Humidity variables: <code>cal_absolute_humidity()</code>, <code>cal_dewpoint_temperature()</code>, <code>cal_mixing_ratio()</code>, <code>cal_relative_humidity()</code>, <code>cal_specific_humidity()</code>.<br>
+</li>
+<li>Comfort indices: <code>cal_apparent_temperature()</code>, <code>cal_humidex()</code>, <code>cal_temperature_humidity_index()</code>.<br>
+</li>
+<li><code>cal_saturation_vapor_pressure()</code></li>
+</ul>
+<ol start="4" type="1">
+<li>Support visualization</li>
+</ol>
+<ul>
+<li><code>plot_contour_dlnm()</code>: Generate a filled contour plot for DLNM output with custom color levels.</li>
+</ul>
+<p>For a comprehensive overview of the package’s functions, check out the package website at<br>
+<a href="https://le-huynh.github.io/chva.extras/" target="_blank">le-huynh.github.io/chva.extras/</a>.</p>
+
+
+</section>
+
+ ]]></description>
+  <guid>https://lehuynh.rbind.io/r_code/package_chva_extras/</guid>
+  <pubDate>Fri, 09 Oct 2026 03:29:20 GMT</pubDate>
+  <media:content url="https://lehuynh.rbind.io/r_code/package_chva_extras/chva.extras.png" medium="image" type="image/png" height="167" width="144"/>
+</item>
+<item>
+  <title>lehuynh</title>
+  <link>https://lehuynh.rbind.io/r_code/package_lehuynh/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p><a href="https://le-huynh.github.io/lehuynh/" target="_blank"> <img align="right" alt="logo" width="150" src="https://github.com/le-huynh/lehuynh/blob/master/man/figures/logo.png?raw=true"> </a></p>
+<p><a href="https://CRAN.R-project.org/package=lehuynh" target="_blank"> <img align="left" alt="cran" style="margin-right: 5px;" src="https://www.r-pkg.org/badges/version/lehuynh"> </a></p>
+<p><a href="https://github.com/le-huynh/lehuynh/actions/workflows/R-CMD-check.yaml" target="_blank"> <img align="left" alt="r-cmd-check" style="margin-right: 5px;" src="https://github.com/le-huynh/lehuynh/actions/workflows/R-CMD-check.yaml/badge.svg"> </a></p>
+<p><a href="https://lifecycle.r-lib.org/articles/stages.html#stable" target="_blank"> <img align="left" alt="lifecycle" style="margin-right: 5px;" src="https://img.shields.io/badge/lifecycle-stable-brightgreen.svg"> </a></p>
+<p><a href="https://doi.org/10.5281/zenodo.11522849" target="_blank"> <img align="left" alt="doi" src="https://zenodo.org/badge/DOI/10.5281/zenodo.11522849.svg"> </a></p>
+<p><br></p>
+<p>→ <a href="https://github.com/le-huynh/lehuynh" target="_blank">GitHub repository</a><br>
+→ <a href="https://le-huynh.github.io/lehuynh/" target="_blank"> Package Website</a></p>
+<p><code>lehuynh</code> is an R package comprising a collection of miscellaneous R functions and templates that I find particularly useful. This package includes:<br>
+- <strong>Functions</strong> pertaining to graphics, data importation, data transformation, and general utilities.<br>
+- <strong>Templates</strong> designed for Exploratory Analysis, Bayesian modeling, and crafting scientific manuscripts.</p>
+<hr>
+<section id="installation" class="level3">
+<h3 class="anchored" data-anchor-id="installation">Installation</h3>
+<p><code>lehuynh</code> R package is available on CRAN via:</p>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb1" style="background: #f1f3f5;"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb1-1"><span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">install.packages</span>(<span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"lehuynh"</span>)</span></code></pre></div></div>
+<p>To get the latest in-development features, install the development version from GitHub:</p>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb2" style="background: #f1f3f5;"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb2-1"><span class="cf" style="color: #003B4F;
+background-color: null;
+font-weight: bold;
+font-style: inherit;">if</span>(<span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">!</span><span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">requireNamespace</span>(<span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"devtools"</span>, <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">quietly =</span> <span class="cn" style="color: #8f5902;
+background-color: null;
+font-style: inherit;">TRUE</span>)) {</span>
+<span id="cb2-2"> <span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">install.packages</span>(<span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"devtools"</span>)</span>
+<span id="cb2-3">}</span>
+<span id="cb2-4">devtools<span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">::</span><span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">install_github</span>(<span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"le-huynh/lehuynh"</span>)</span></code></pre></div></div>
+<p>Additionally, this package is accessible for download via Zenodo at <a href="https://doi.org/10.5281/zenodo.11522849" target="_blank">10.5281/zenodo.11522849</a>.</p>
+</section>
+<section id="functions" class="level3">
+<h3 class="anchored" data-anchor-id="functions">Functions</h3>
+<ul>
+<li><code>ggsave_elsevier( )</code>: Save a plot using <code>ggplot2::ggsave( )</code>. Plot size follows instructions of Elsevier journals</li>
+<li><code>import_data( )</code>: Imports multiple data files of the same format from a specified directory. The output is a named list of imported objects</li>
+<li><code>import_excel( )</code>: Imports an Excel file with multiple sheets and returns a named list of imported sheets</li>
+<li><code>lehuynh_theme( )</code>: Personal ggplot2 theme (white background, black axis, black text, etc.)</li>
+<li><code>MinMaxScaling( )</code>: Min-max normalization (min = 0, max = 1)</li>
+<li><code>new_project( )</code>: Create a <a href="https://github.com/SchlossLab/new_project" target="_blank">project</a> for reproducible purpose</li>
+<li><code>ngrams_filter()</code>: Filter and generate N-Grams from text data</li>
+<li><code>plot_networkD3()</code>: Plot network using NetworkD3</li>
+<li><code>ppc_brms( )</code>: Plot fitted versus observed values for <em>brmsfit</em> Objects</li>
+<li><code>tidytuesday( )</code>: Create a new folder for <a href="https://github.com/rfordatascience/tidytuesday" target="_blank">#tidytuesday</a> challenge</li>
+<li><code>tsi( )</code>: Calculate TSI (Trophic state index) <a href="https://doi.org/10.4319/lo.1977.22.2.0361" target="_blank">(Carlson, 1977)</a></li>
+</ul>
+</section>
+<section id="templates" class="level3">
+<h3 class="anchored" data-anchor-id="templates">Templates</h3>
+<ul>
+<li><code>draft_elsevier</code>: Creating an Rmarkdown manuscript for Elsevier journals <a href="https://github.com/le-huynh/writing_journal_article_in_rmarkdown" target="_blank">(example)</a></li>
+<li><code>lehuynh_Bayes_brms</code>: Basic steps to fit, check, and interpret a Bayesian model via <code>brms</code> package</li>
+<li><code>lehuynh_EA</code>: Basic steps to do Exploratory Analysis</li>
+</ul>
+<p>For a comprehensive overview of the package’s functions, check out the package website at<br>
+<a href="https://le-huynh.github.io/lehuynh/" target="_blank">le-huynh.github.io/lehuynh/</a>.</p>
+
+
+</section>
+
+ ]]></description>
+  <guid>https://lehuynh.rbind.io/r_code/package_lehuynh/</guid>
+  <pubDate>Fri, 09 Oct 2026 03:29:20 GMT</pubDate>
+  <media:content url="https://lehuynh.rbind.io/r_code/package_lehuynh/lehuynh.png" medium="image" type="image/png" height="167" width="144"/>
+</item>
+<item>
+  <title>omics4drug</title>
+  <link>https://lehuynh.rbind.io/r_code/package_omics4drug/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p><a href="https://yen-kim.github.io/omics4drug/" target="_blank"> <img align="right" alt="logo" width="150" src="https://github.com/le-huynh/omics4drug/blob/main/man/figures/logo.png?raw=true"> </a></p>
+<p><a href="https://github.com/yen-kim/omics4drug/actions/workflows/R-CMD-check.yaml" target="_blank"> <img align="left" alt="r-cmd-check" style="margin-right: 5px;" src="https://github.com/yen-kim/omics4drug/actions/workflows/R-CMD-check.yaml/badge.svg"> </a></p>
+<p><a href="https://lifecycle.r-lib.org/articles/stages.html#stable" target="_blank"> <img align="left" alt="lifecycle" style="margin-right: 5px;" src="https://img.shields.io/badge/lifecycle-stable-brightgreen.svg"> </a></p>
+<p><a href="https://doi.org/10.5281/zenodo.17117623" target="_blank"> <img align="left" alt="doi" src="https://zenodo.org/badge/1056782986.svg"> </a></p>
+<p><br></p>
+<p>→ <a href="https://github.com/yen-kim/omics4drug" target="_blank">GitHub repository</a><br>
+→ <a href="https://yen-kim.github.io/omics4drug/" target="_blank">Package Website</a></p>
+<p><code>omics4drug</code> is designed for the analysis and visualization of Mass Spectrometry-based phosphoproteomics and proteomics data in drug discovery. The package provides functions for quality control, normalization, pathway enrichment analysis, and drug-target prediction.</p>
+<hr>
+<section id="installation" class="level3">
+<h3 class="anchored" data-anchor-id="installation">Installation</h3>
+<p>To get the latest in-development features, install the development version from GitHub:</p>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb1" style="background: #f1f3f5;"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb1-1"><span class="cf" style="color: #003B4F;
+background-color: null;
+font-weight: bold;
+font-style: inherit;">if</span>(<span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">!</span><span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">requireNamespace</span>(<span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"devtools"</span>, <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">quietly =</span> <span class="cn" style="color: #8f5902;
+background-color: null;
+font-style: inherit;">TRUE</span>)) {</span>
+<span id="cb1-2"> <span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">install.packages</span>(<span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"devtools"</span>)</span>
+<span id="cb1-3">}</span>
+<span id="cb1-4">devtools<span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">::</span><span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">install_github</span>(<span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"yen-kim/omics4drug"</span>)</span></code></pre></div></div>
+<p>This package is also accessible for download via Zenodo at <a href="https://doi.org/10.5281/zenodo.17117623" target="_blank">10.5281/zenodo.17117623</a>.</p>
+</section>
+<section id="functions" class="level3">
+<h3 class="anchored" data-anchor-id="functions">Functions</h3>
+<p>See <a href="https://yen-kim.github.io/omics4drug/reference/index.html" target="_blank">Package index</a> for full list of functions.</p>
+<ol type="1">
+<li>Data Processing and Quality Control</li>
+</ol>
+<ul>
+<li><code>get_count_phosphosite()</code>: Counts and visualizes the number of unique phosphosites per sample or group, often based on a probability threshold.<br>
+</li>
+<li><code>get_count_protein()</code>: Counts and visualizes the number of unique protein groups per sample or group.<br>
+</li>
+<li><code>get_cv()</code>: Calculates and visualizes the coefficient of variation (CV) for a given dataset, useful for assessing data variability and quality.</li>
+<li><code>get_sty()</code>: Calculates and visualizes the count and percentage of phosphorylation sites (Serine (S), Threonine (T), Tyrosine (Y)).</li>
+</ul>
+<ol start="2" type="1">
+<li>Data Normalization</li>
+</ol>
+<ul>
+<li><code>get_norm_phos()</code>: Normalizes phosphosite intensity data to account for variations between samples.</li>
+<li><code>get_norm_prot()</code>: Normalizes protein group intensity data.</li>
+</ul>
+<ol start="3" type="1">
+<li>Functional and Pathway Enrichment Analysis</li>
+</ol>
+<ul>
+<li><code>get_GO()</code>: Performs Gene Ontology (GO) enrichment analysis to identify biological processes, molecular functions, or cellular components that are overrepresented in your data.</li>
+<li><code>get_KEGG()</code>: Performs KEGG pathway enrichment analysis to determine which biological pathways are significantly impacted.</li>
+</ul>
+<ol start="4" type="1">
+<li>Kinase and Drug Prediction</li>
+</ol>
+<ul>
+<li><code>get_KSEA()</code>: Performs Kinase Substrate Enrichment Analysis (KSEA) to predict the activity of kinases based on the phosphorylation of their substrates.</li>
+<li><code>get_inhibitor()</code>: Predicts which drugs might target the kinases identified in your analysis, using an external database.</li>
+</ul>
+<ol start="5" type="1">
+<li>Others</li>
+</ol>
+<ul>
+<li><code>get_annotation()</code>: Map Gene Identifiers</li>
+</ul>
+<p>For a comprehensive overview of the package’s functions, check out the package website at<br>
+<a href="https://yen-kim.github.io/omics4drug/" target="_blank">yen-kim.github.io/omics4drug</a>.</p>
+
+
+</section>
+
+ ]]></description>
+  <guid>https://lehuynh.rbind.io/r_code/package_omics4drug/</guid>
+  <pubDate>Fri, 09 Oct 2026 03:29:20 GMT</pubDate>
+  <media:content url="https://lehuynh.rbind.io/r_code/package_omics4drug/omics4drug.png" medium="image" type="image/png" height="167" width="144"/>
+</item>
+</channel>
+</rss>

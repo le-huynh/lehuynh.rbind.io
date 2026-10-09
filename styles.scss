@@ -1,0 +1,303 @@
+/*-- scss:defaults --*/
+
+// Import fonts (define mainfont in _quarto.yml)
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,100..700;1,100..700&family=Nunito:ital,wght@0,200..1000;1,200..1000&display=swap');
+
+// fonts
+$nunito: 'Nunito', sans-serif; 
+$josefin: 'Josefin Sans', sans-serif; 
+
+// Colors
+$gray-green: #E5E8E3; //#e5ebe2;
+$light-green: #D1D9CE;
+$medium-green: #98A08D;
+$dark-green: #757B6D;
+$cream: #FDFBF7;
+$dark-gray: #5A5856;
+$medium-gray: #64605f;
+$violet: #846075;
+$terracotta: #BD6E53; 
+$terracotta-dark: #a2604a;
+//$hunter-green: #464B37;
+//$terracotta-dark: #a15e47;
+//$orange: #c27e00;
+//$champagne: #E7CEBE;
+//$purple: #9158A2; 
+//$burnt-orange: #ad7237;
+//$blue-gray: #466060;
+//$wine: #6B2737;
+//$rose: #885053;
+//$lime: #bdba66;
+//$moss: #959252;
+//$dark-brown: #424024; 
+//$midnight-green: #0F5257;
+
+// Base document colors
+$navbar-bg: $cream;
+$navbar-fg: $medium-green; 
+$navbar-hl: $terracotta;
+$body-bg: $light-green;
+$body-color: $medium-gray;
+$footer-bg: $light-green;
+$link-color: $terracotta;
+
+// Inline code
+$code-bg: $cream;
+$code-color: $violet;//$burnt-orange; 
+
+// Code blocks
+$code-block-bg: $cream;
+
+/*-- scss:rules --*/
+
+/* ELEMENT SELECTORS */
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: $josefin; 
+  letter-spacing: 1px;
+  font-weight: 700;
+  color: $medium-gray;
+}
+
+body {
+  font-family: $nunito;
+  line-height: 1.5; // min 1.5 suggested for assistive tech
+  font-size: 19.5px;
+  font-weight: 375;//350;
+}
+
+// modify blockquote styling
+blockquote {
+  margin: 0 0 1rem;
+  padding: 0.625rem 1.25rem;
+  border-left: 0.25rem solid $cream;
+}
+
+a {
+  text-decoration: none;
+}
+
+// responsive-ish iframes (width adjusts to viewport size; couldn't figure out how to expand viewport height, so set to this size for now)
+#map-size {
+  width: 100%;
+  height: 350px;
+}
+
+// landing page text
+#bio {
+  font-size: 1.1em;
+}
+
+// landing page icon size
+#landing-icons {
+  font-size: 1.4em;
+}
+
+// josefin text
+.josefin-font {
+ font-family: $josefin; 
+}
+
+
+// banner titles (these turned dark green after updating to Quarto v1.5.56, so forcing them to be gray again with this rule)
+.quarto-title-banner h1 {
+  color: $medium-gray;
+}
+
+// figure caption text styling
+.figure-caption {
+  color: $medium-gray;
+  font-style: italic;
+}
+
+// blockquote text styling
+.blockquote {
+  color: $dark-gray;
+}
+
+// larger text
+.large-text {
+  font-size: 25px;
+}
+
+// slightly smaller than default text
+.small-text {
+  font-size: 17px;
+}
+
+// smallest text
+.extra-small-text {
+  font-size: 14px;  
+}
+
+// extra space above line of text (but not as much as <br>)
+.topbr {
+    display: block;
+    margin-top: 1em;
+}
+
+// center align text
+.center-text {
+  text-align: center;
+  left: 50%;
+}
+
+// right-align text
+.right-align-text {
+  text-align: right;
+}
+
+// dark gray text
+.dark-gray-text {
+  color: $dark-gray;
+}
+
+// gray-italic text (mostly used for captions)
+.gray-italic {
+  color: $medium-gray;
+  font-style: italic;
+  font-size: 17px;
+}
+
+// gray background; was .quote-text-bg
+.dark-green-bg {
+  background-color: rgba(152, 160, 141, 0.3); //rgba(166, 164, 161, 0.4);
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-right: 5px;
+  padding-left: 8px;
+  border-radius: 15px;
+}
+
+// btn styling
+.btn {
+  color: $dark-gray;
+  background-color: $cream; //$light-sage-green;
+  border-color: $dark-gray;
+}
+
+// button hover styling
+.btn:hover {
+  color: $cream;
+  background-color: $terracotta;//$orange;//$purple;
+  border-color: $dark-gray;
+}
+
+// image styling
+.img-styling {
+  border-radius: 2%;
+  border: 2px solid $medium-gray;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+ //width: 80%;
+}
+
+// center image only
+.center-img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* CLASS SELECTORS (copied from inspecting site -- Quarto defined?) */
+
+// resize logo (top left corner) see https://github.com/robertmitchellv/robertmitchellv.github.io/blob/main/custom-dark.scss
+.navbar-brand img { 
+  max-height: 55px;
+  width: auto;
+}
+
+// headshot shape
+.rounded { 
+    border-radius: 50px 20px 50px 20px !important;
+}
+
+// button text size (landing page)
+.about-link-text { 
+  font-size: 18px;
+}
+
+// button icon size (landing page)
+.bi { 
+  font-size: 18px;
+}
+
+// dropdown navbar text color
+.dropdown-item {
+  color: $medium-green;
+  background-color: $cream;
+}
+
+// listing card styling
+.card {
+  background-color: $cream;
+  //border-radius: 5.25em;
+}
+
+.callout.callout-style-default .callout-body {
+  background-color: $cream;
+}
+
+// listing description text styling
+.description {
+  font-size: 25px;
+}
+
+// about page link button colors 
+div.quarto-about-jolla .about-link {
+  color: $dark-green;
+}
+
+// animate logo (rises on hover; HT Briana Barajas :) https://github.com/briana-barajas/briana-barajas.github.io/blob/main/styles.scss )
+.navbar-logo {
+  transition: all 0.3s;
+}
+
+.navbar-logo:hover {
+  transform: translateY(-4px);
+}
+
+/* blog post category color
+.quarto-title .quarto-categories .quarto-category {
+  color: $terracotta; 
+}*/
+
+// blog post category hover color
+.quarto-title .quarto-categories .quarto-category:hover {
+  color: $terracotta-dark;
+}
+
+// listing page item category color
+/*.quarto-grid-item .listing-categories .listing-category  {
+  color: $terracotta;
+  border-color: $terracotta;
+}*/
+
+// listing page item category hover color
+.quarto-grid-item .listing-categories .listing-category:hover  {
+  color: $terracotta-dark;
+  border-color: $terracotta-dark;
+}
+
+// listing page "Categories" selction color
+.quarto-listing-category .category.active {
+  color: $terracotta;
+}
+
+// Color panel-tabset content area cream
+.panel-tabset .tab-content {
+  background-color: $gray-green;
+  padding: 0.5em;
+}
+
+// Color in panel-tabset tabs (non-selected tab)
+.panel-tabset .nav-tabs .nav-link {
+  background-color: $gray-green;
+}
+
+// Color in panel-tabset tab (selected tab) 
+.panel-tabset .nav-tabs .nav-link.active {
+  background-color: $terracotta;
+  color: white;
+}

@@ -1,0 +1,51 @@
+---
+title: "Toward personalized acute myeloid leukemia (AML)"
+description: " "
+image: proj_aml_volcano.png
+order: 3
+---
+
+*A collaboration with Biotech Research & Innovation Centre (BRIC), University of Copenhagen, Denmark*
+
+`2023 - Present`
+
+**Topics**: Bioinformatics · Proteomics · Biomedical Science · Mass Spectrometry  
+
+**My contributions**: Data analysis · Data visualization · Code management  
+
+**Tools**: R · R Markdown · Git · GNU Make  
+
+<hr>
+
+This collaborative project aims to identify a broad spectrum of druggable key signaling pathways in various AML mouse models and subsequently in AML patient samples. 
+The outcomes have the potential to pave the way for personalized AML treatments by targeting specific signaling pathways, thereby revolutionizing clinical interventions for this challenging disease.
+
+## Outcomes
+### [R-package] [`omics4drug`](https://yen-kim.github.io/omics4drug/){target="_blank"}
+
+<a href="https://yen-kim.github.io/omics4drug/" target="_blank">
+<img align="right" alt="logo" width="150" src="https://github.com/le-huynh/omics4drug/blob/main/man/figures/logo.png?raw=true" />
+</a>  
+
+> Nguyen, T. K. Y., & **Le-Huynh, T.-L.** (2025). omics4drug v0.1.0: An R toolkit to facilitate Mass Spectrometry-based Proteomics and Phosphoproteomics data analysis (Version v0.1.0) [Computer software]. Zenodo. [https://doi.org/10.5281/zenodo.17117624](https://doi.org/10.5281/zenodo.17117624){target="_blank"}
+
+[`omics4drug`](https://yen-kim.github.io/omics4drug/){target="_blank"} is designed for the analysis and visualization of Mass Spectrometry-based phosphoproteomics and proteomics data in drug discovery. 
+The package provides functions for quality control, normalization, 
+pathway enrichment analysis, and drug-target prediction.  
+
+Explore the package at [https://yen-kim.github.io/omics4drug/](https://yen-kim.github.io/omics4drug/){target="_blank"}
+
+### [R-package] [`cellviability`](https://github.com/yen-kim/cellviability){target="_blank"}
+
+<a href="https://github.com/yen-kim/cellviability" target="_blank">
+<img align="right" alt="logo" width="150" src="https://github.com/yen-kim/cellviability/blob/master/man/figures/logo.png?raw=true" />
+</a>  
+
+> Nguyen, Y. T.-K., **Le-Huynh, T.-L.**, & Theilgaard-Monch, K. (2026). cellviability (Version v0.1.3) [Computer software]. Zenodo. [https://doi.org/10.5281/zenodo.21820265](https://doi.org/10.5281/zenodo.21820265){target="_blank"}
+
+[`cellviability`](https://github.com/yen-kim/cellviability){target="_blank"} is designed to facilitate the analysis of cell-based drug screening experiments. 
+The package provides functions for fitting dose-response models, estimating IC50 values, visualizing regression curves, comparing treatment groups, and evaluating drug synergy using commonly used pharmacological models.  
+
+Explore the package at [https://github.com/yen-kim/cellviability](https://github.com/yen-kim/cellviability){target="_blank"}
+
+

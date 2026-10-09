@@ -1,0 +1,1767 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>Le-Huynh Truc-Ly</title>
+<link>https://lehuynh.rbind.io/blog.html</link>
+<atom:link href="https://lehuynh.rbind.io/blog.xml" rel="self" type="application/rss+xml"/>
+<description></description>
+<generator>quarto-1.10.18</generator>
+<lastBuildDate>Fri, 09 Oct 2026 03:30:02 GMT</lastBuildDate>
+<item>
+  <title>bookmark collection</title>
+  <link>https://lehuynh.rbind.io/blog/bookmark-collection.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>A collection of interesting links featuring open-access books, tutorials, and articles on data analysis, data visualization, and reproducible workflow.</p>
+<hr>
+<section id="r" class="level4">
+<h4 class="anchored" data-anchor-id="r">R+</h4>
+<ul>
+<li><a href="https://www.bigbookofr.com/" target="_blank">Big Book of R</a> by <em>Oscar Baruffa</em>.<br>
+</li>
+<li><a href="https://r4ds.had.co.nz/index.html" target="_blank">R for Data Science</a> by <em>Hadley Wickham</em> and <em>Garrett Grolemund</em>.<br>
+</li>
+<li><a href="https://r-pkgs.org" target="_blank">R Packages</a> by <em>Hadley Wickham</em> and <em>Jenny Bryan</em>.</li>
+</ul>
+</section>
+<section id="git-and-github" class="level4">
+<h4 class="anchored" data-anchor-id="git-and-github">Git and GitHub</h4>
+<ul>
+<li><a href="https://happygitwithr.com" target="_blank">Happy Git with R</a> by <em>Jenny Bryan</em>.<br>
+</li>
+<li><a href="https://daczarne.github.io/notes_on_git_and_github/index.html" target="_blank">Notes on Git and GitHub</a> by <em>Daniel Czarnievicz</em>.</li>
+</ul>
+</section>
+<section id="bayesian-data-analysis" class="level4">
+<h4 class="anchored" data-anchor-id="bayesian-data-analysis">Bayesian data analysis</h4>
+<ul>
+<li><a href="https://sites.google.com/site/doingbayesiandataanalysis/" target="_blank">Doing Bayesian Data Analysis</a> by <em>John Kruschke</em>.
+<ul>
+<li><a href="https://rpruim.github.io/Kruschke-Notes/" target="_blank">(Re)Doing Bayesain Data Analysis</a> by <em>R Pruim</em>.<br>
+</li>
+<li><a href="https://solomon.quarto.pub/dbda2/" target="_blank">Doing Bayesian Data Analysis in brms and the tidyverse</a> by <em>A Solomon Kurz</em>.<br>
+</li>
+</ul></li>
+<li><a href="http://xcelab.net/rm/statistical-rethinking/" target="_blank">Statistical Rethinking</a> by <em>Richard McElreath</em>.
+<ul>
+<li><a href="https://solomon.quarto.pub/sr/" target="_blank">Statistical rethinking with brms, ggplot2, and the tidyverse</a> by <em>A Solomon Kurz</em>.</li>
+</ul></li>
+</ul>
+</section>
+<section id="data-visualization" class="level4">
+<h4 class="anchored" data-anchor-id="data-visualization">Data visualization</h4>
+<ul>
+<li><a href="https://clauswilke.com/dataviz/" target="_blank">Fundamentals of Data Visualization</a> by <em>Claus O. Wilke</em>.<br>
+</li>
+<li><a href="https://socviz.co/" target="_blank">Data Visualization</a> by <em>Kieran Healy</em>.</li>
+</ul>
+</section>
+<section id="reproducible-reports" class="level4">
+<h4 class="anchored" data-anchor-id="reproducible-reports">Reproducible reports</h4>
+<ul>
+<li><a href="https://riffomonas.org/reproducible_research/" target="_blank">Reproducible Research Tutorial Series</a> and <a href="https://www.youtube.com/c/RiffomonasProject" target="_blank">YouTube channel</a> by <em>Riffomonas</em>.<br>
+</li>
+<li><a href="https://kbroman.org/steps2rr/" target="_blank">initial steps toward reproducible research</a> by <em>Karl Broman</em>.</li>
+</ul>
+</section>
+<section id="other" class="level4">
+<h4 class="anchored" data-anchor-id="other">Other</h4>
+<ul>
+<li><a href="https://www.anabellelaurent.com/slides/rladies_pagedown/cvwithpagedown#1" target="_blank">Write your CV with R Pagedown</a> by <em>Anabelle Laurent</em>.<br>
+</li>
+<li><a href="https://samanthacsik.github.io/RLadiesSB-quarto-websites/" target="_blank">Creating your personal website using Quarto</a> by <em>Sam Shanny-Csik</em>.<br>
+</li>
+<li><a href="https://ourcodingclub.github.io/tutorials/rmarkdown-dissertation/" target="_blank">Write your dissertation in Rmarkdown</a> by <em>Anna Chirumbolo</em>.<br>
+</li>
+<li><a href="https://ourcodingclub.github.io" target="_blank">Coding Club</a><br>
+</li>
+<li><a href="https://hemingwayapp.com" target="_blank">Hemingway Editor</a><br>
+</li>
+<li>download <a href="https://www.zotero.org/styles" target="_blank">csl file</a></li>
+</ul>
+
+
+</section>
+
+ ]]></description>
+  <category>other</category>
+  <guid>https://lehuynh.rbind.io/blog/bookmark-collection.html</guid>
+  <pubDate>Fri, 09 Oct 2026 03:30:02 GMT</pubDate>
+  <media:content url="https://lehuynh.rbind.io/static/img/source.png" medium="image" type="image/png" height="149" width="144"/>
+</item>
+<item>
+  <title>lehuynh: Now Available on CRAN!</title>
+  <link>https://lehuynh.rbind.io/blog/lehuynh_CRAN.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p><a href="https://le-huynh.github.io/lehuynh/" target="_blank"> <img align="right" alt="logo" width="150" src="https://github.com/le-huynh/lehuynh/blob/master/man/figures/logo.png?raw=true"> </a></p>
+<p><a href="https://CRAN.R-project.org/package=lehuynh" target="_blank"> <img align="left" alt="cran" style="margin-right: 5px;" src="https://www.r-pkg.org/badges/version/lehuynh"> </a></p>
+<p><a href="https://github.com/le-huynh/lehuynh/actions/workflows/R-CMD-check.yaml" target="_blank"> <img align="left" alt="r-cmd-check" style="margin-right: 5px;" src="https://github.com/le-huynh/lehuynh/actions/workflows/R-CMD-check.yaml/badge.svg"> </a></p>
+<p><a href="https://lifecycle.r-lib.org/articles/stages.html#stable" target="_blank"> <img align="left" alt="lifecycle" style="margin-right: 5px;" src="https://img.shields.io/badge/lifecycle-stable-brightgreen.svg"> </a></p>
+<p><a href="https://doi.org/10.5281/zenodo.11522849" target="_blank"> <img align="left" alt="doi" src="https://zenodo.org/badge/DOI/10.5281/zenodo.11522849.svg"> </a></p>
+<p><br></p>
+<p>→ <a href="https://github.com/le-huynh/lehuynh" target="_blank">GitHub repository</a><br>
+→ <a href="https://le-huynh.github.io/lehuynh/" target="_blank"> Package Website</a></p>
+<p>I am thrilled to announce that my personal R package, <a href="https://le-huynh.github.io/lehuynh/" target="_blank"><code>lehuynh</code></a>, is now officially available on CRAN!</p>
+<p><a href="https://le-huynh.github.io/lehuynh/" target="_blank"><code>lehuynh</code></a> is a collection of miscellaneous R functions and templates that I’ve found particularly useful over time. It includes:</p>
+<ul>
+<li>Functions for graphics, data importation, data transformation, and general utilities.</li>
+<li>Templates for exploratory analysis, Bayesian modeling, and crafting scientific manuscripts.</li>
+</ul>
+<section id="a-learning-journey" class="level3">
+<h3 class="anchored" data-anchor-id="a-learning-journey">A Learning Journey</h3>
+<p>Publishing <a href="https://le-huynh.github.io/lehuynh/" target="_blank"><code>lehuynh</code></a> on CRAN has been an incredibly educational experience. Throughout the process, I learned a lot about package development, from structuring the package correctly to ensuring compliance with CRAN’s submission guidelines.</p>
+<p>Big thanks to the <a href="https://cran.r-project.org/CRAN_team.htm" target="_blank">CRAN team</a> for their invaluable feedback. Their suggestions were instrumental in refining and improving my package. After incorporating their feedback, <a href="https://le-huynh.github.io/lehuynh/" target="_blank"><code>lehuynh</code></a> has become much better and more robust.</p>
+<p>I also want to acknowledge the numerous references and resources that guided me through the preparation and submission process. These resources saved me a significant amount of time and effort. If you’re considering submitting your own package to CRAN, I highly recommend leveraging the wealth of knowledge available in the R community.</p>
+<ul>
+<li><a href="https://r-pkgs.org/release.html" target="_blank">Releasing to CRAN</a>, <em>R Packages</em> by Hadley Wickham and Jenny Bryan<br>
+</li>
+<li><a href="https://github.com/DavisVaughan/extrachecks" target="_blank">extrachecks</a> by Davis Vaughan and contributors</li>
+</ul>
+</section>
+<section id="more-than-just-a-collection-of-code" class="level3">
+<h3 class="anchored" data-anchor-id="more-than-just-a-collection-of-code">More Than Just a Collection of Code</h3>
+<p>For me, <a href="https://le-huynh.github.io/lehuynh/" target="_blank"><code>lehuynh</code></a> is more than just a collection of useful code and templates. It’s a personal project that has allowed me to experiment and learn new things. Whether it’s writing templates or understanding the intricacies of publishing on platforms like CRAN and Zenodo, <a href="https://le-huynh.github.io/lehuynh/" target="_blank"><code>lehuynh</code></a> has been my playground for exploration and growth.</p>
+</section>
+<section id="installation" class="level3">
+<h3 class="anchored" data-anchor-id="installation">Installation</h3>
+<p>I hope you find <a href="https://le-huynh.github.io/lehuynh/" target="_blank"><code>lehuynh</code></a> as useful as I have. You can install the package directly from CRAN using the following command:</p>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb1" style="background: #f1f3f5;"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb1-1"><span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">install.packages</span>(<span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"lehuynh"</span>)</span></code></pre></div></div>
+<p>To get the latest in-development features, install the development version from GitHub:</p>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb2" style="background: #f1f3f5;"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb2-1"><span class="cf" style="color: #003B4F;
+background-color: null;
+font-weight: bold;
+font-style: inherit;">if</span>(<span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">!</span><span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">requireNamespace</span>(<span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"devtools"</span>, <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">quietly =</span> <span class="cn" style="color: #8f5902;
+background-color: null;
+font-style: inherit;">TRUE</span>)) {</span>
+<span id="cb2-2"> <span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">install.packages</span>(<span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"devtools"</span>)</span>
+<span id="cb2-3">}</span>
+<span id="cb2-4">devtools<span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">::</span><span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">install_github</span>(<span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"le-huynh/lehuynh"</span>)</span></code></pre></div></div>
+<p>Additionally, this package is accessible for download via Zenodo at <a href="https://doi.org/10.5281/zenodo.11522849" target="_blank">10.5281/zenodo.11522849</a>.</p>
+<p>For a comprehensive overview of the package’s functions, check out the package website at<br>
+<a href="https://le-huynh.github.io/lehuynh/" target="_blank">le-huynh.github.io/lehuynh/</a>.</p>
+<p>Now, my beer is ready. Cheers!</p>
+
+
+</section>
+
+ ]]></description>
+  <category>R-package</category>
+  <category>R</category>
+  <guid>https://lehuynh.rbind.io/blog/lehuynh_CRAN.html</guid>
+  <pubDate>Fri, 09 Oct 2026 03:30:02 GMT</pubDate>
+  <media:content url="https://lehuynh.rbind.io/r_code/package_lehuynh/lehuynh.png" medium="image" type="image/png" height="167" width="144"/>
+</item>
+<item>
+  <title>Targeted elevation mapping with grayscale contrast using R</title>
+  <link>https://lehuynh.rbind.io/blog/viz-map-elevation/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>This blog post serves as a step-by-step guide to generating stunning elevation maps in R. The elevation map highlights a specific area of interest in vibrant color against a grayscale background of neighboring landscapes. Using <strong>Vietnam</strong> as featured example, this post will showcase the power of R in visualizing elevation data.<br>
+The complete code for this visualization is available on <a href="https://github.com/le-huynh/rtistry_gallery/blob/main/code/map_elevation.R" target="_blank">Github</a>.</p>
+<p><img width="950px" class="center-block" src="https://lehuynh.rbind.io/blog/viz-map-elevation/map_elevation.png"></p>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb1" style="background: #f1f3f5;"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb1-1"><span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">library</span>(tidyverse)</span>
+<span id="cb1-2"><span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">library</span>(here)</span>
+<span id="cb1-3"><span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">library</span>(elevatr)</span>
+<span id="cb1-4"><span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">library</span>(raster)</span>
+<span id="cb1-5"><span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">library</span>(sf)</span>
+<span id="cb1-6"><span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">library</span>(scales)</span></code></pre></div></div>
+<section id="step-1-specify-the-boundaries-of-the-map-drawing-rectangle" class="level3">
+<h3 class="anchored" data-anchor-id="step-1-specify-the-boundaries-of-the-map-drawing-rectangle">Step 1: Specify the boundaries of the map drawing rectangle</h3>
+<p>Set the plot boundaries using coordinate data.<br>
+The coordinate can be obtained from several websites, for example, <a href="http://bboxfinder.com/" target="_blank">bboxfinder.com</a>.</p>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb2" style="background: #f1f3f5;"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb2-1">bounds_data <span class="ot" style="color: #003B4F;
+background-color: null;
+font-style: inherit;">&lt;-</span> <span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">data.frame</span>(<span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">x =</span> <span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">c</span>(<span class="fl" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">100.854490</span>, <span class="fl" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">116.147458</span>), <span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;"># longitude</span></span>
+<span id="cb2-2">                          <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">y =</span> <span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">c</span>(<span class="fl" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">6.945000</span>, <span class="fl" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">23.812699</span>) <span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;"># latitude</span></span>
+<span id="cb2-3">                          )</span></code></pre></div></div>
+</section>
+<section id="step-2-get-the-elevation-of-background-raster" class="level3">
+<h3 class="anchored" data-anchor-id="step-2-get-the-elevation-of-background-raster">Step 2: Get the elevation of background raster</h3>
+<p><strong>Note:</strong> Change the <code>zoom</code> level if getting <code>Error: cannot allocate vector of size XXX Mb</code>.</p>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb3" style="background: #f1f3f5;"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb3-1"><span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;"># set projection</span></span>
+<span id="cb3-2">proj <span class="ot" style="color: #003B4F;
+background-color: null;
+font-style: inherit;">&lt;-</span> <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"+proj=longlat +ellps=WGS84 +datum=WGS84 +no_defs"</span></span>
+<span id="cb3-3"></span>
+<span id="cb3-4"><span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;"># get elevation raster</span></span>
+<span id="cb3-5">background_raster <span class="ot" style="color: #003B4F;
+background-color: null;
+font-style: inherit;">&lt;-</span> elevatr<span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">::</span><span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">get_elev_raster</span>(<span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">locations =</span> bounds_data,</span>
+<span id="cb3-6">                                              <span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;"># projection</span></span>
+<span id="cb3-7">                                              <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">prj =</span> proj,</span>
+<span id="cb3-8">                                              <span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;"># set the zoom level to return; the value ranges from 1 to 14</span></span>
+<span id="cb3-9">                                              <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">z =</span> <span class="dv" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">6</span>,</span>
+<span id="cb3-10">                                              <span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;"># determine clipping of returned DEM</span></span>
+<span id="cb3-11">                                              <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">clip =</span> <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"locations"</span>)</span></code></pre></div></div>
+</section>
+<section id="step-3-read-the-polygonal-file-to-outline-the-boundary-of-vietnam" class="level3">
+<h3 class="anchored" data-anchor-id="step-3-read-the-polygonal-file-to-outline-the-boundary-of-vietnam">Step 3: Read the polygonal file to outline the boundary of Vietnam</h3>
+<p>The polygonal data can be downloaded from several websites, for example, <a href="https://www.diva-gis.org/gdata" target="_blank">diva-gis</a>.</p>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb4" style="background: #f1f3f5;"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb4-1"><span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;"># corresponding file format: SHAPEFILE (.shp)</span></span>
+<span id="cb4-2">terrain_extent <span class="ot" style="color: #003B4F;
+background-color: null;
+font-style: inherit;">&lt;-</span> sf<span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">::</span><span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">st_read</span>(here<span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">::</span><span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">here</span>(<span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"data/VNM_gis/VNM_adm0.shp"</span>))</span></code></pre></div></div>
+</section>
+<section id="step-4-retain-the-boundary-of-vietnam-to-display-the-terrain-raster" class="level3">
+<h3 class="anchored" data-anchor-id="step-4-retain-the-boundary-of-vietnam-to-display-the-terrain-raster">Step 4: Retain the boundary of Vietnam to display the terrain raster</h3>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb5" style="background: #f1f3f5;"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb5-1">terrain_raster <span class="ot" style="color: #003B4F;
+background-color: null;
+font-style: inherit;">&lt;-</span> raster<span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">::</span><span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">mask</span>(background_raster, terrain_extent)</span></code></pre></div></div>
+</section>
+<section id="step-5-modify-rasterlayer-data-to-be-compatible-with-ggplot2" class="level3">
+<h3 class="anchored" data-anchor-id="step-5-modify-rasterlayer-data-to-be-compatible-with-ggplot2">Step 5: Modify RasterLayer data to be compatible with <em>ggplot2</em></h3>
+<ul>
+<li>Convert the RasterLayer into a data.frame format</li>
+<li>Adjust the value range of the layer (elevation)</li>
+</ul>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb6" style="background: #f1f3f5;"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb6-1"><span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;"># background part</span></span>
+<span id="cb6-2"><span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">names</span>(background_raster) <span class="ot" style="color: #003B4F;
+background-color: null;
+font-style: inherit;">&lt;-</span> <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"layer"</span></span>
+<span id="cb6-3">background_raster_df <span class="ot" style="color: #003B4F;
+background-color: null;
+font-style: inherit;">&lt;-</span> <span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">as.data.frame</span>(background_raster, <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">xy =</span> <span class="cn" style="color: #8f5902;
+background-color: null;
+font-style: inherit;">TRUE</span>) <span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">%&gt;%</span></span>
+<span id="cb6-4">                                <span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">mutate</span>(<span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">alpha =</span> <span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">rescale</span>(layer, <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">to =</span> <span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">c</span>(<span class="fl" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">0.25</span>, <span class="fl" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">0.75</span>)))</span>
+<span id="cb6-5"></span>
+<span id="cb6-6"><span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;"># terrain part</span></span>
+<span id="cb6-7"><span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">names</span>(terrain_raster) <span class="ot" style="color: #003B4F;
+background-color: null;
+font-style: inherit;">&lt;-</span> <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"layer"</span></span>
+<span id="cb6-8">terrain_raster_df <span class="ot" style="color: #003B4F;
+background-color: null;
+font-style: inherit;">&lt;-</span> <span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">as.data.frame</span>(terrain_raster, <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">xy =</span> <span class="cn" style="color: #8f5902;
+background-color: null;
+font-style: inherit;">TRUE</span>) <span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">%&gt;%</span></span>
+<span id="cb6-9">                                <span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">mutate</span>(<span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">alpha =</span> <span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">ifelse</span>(<span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">is.na</span>(layer), <span class="dv" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">0</span>, <span class="dv" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">1</span>))</span></code></pre></div></div>
+</section>
+<section id="step-6-create-the-map-using-ggplot2" class="level3">
+<h3 class="anchored" data-anchor-id="step-6-create-the-map-using-ggplot2">Step 6: Create the map using ‘ggplot2’</h3>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb7" style="background: #f1f3f5;"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb7-1"><span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;"># set scale value to control size of text, point, legend, etc. to fit figure size</span></span>
+<span id="cb7-2">scale_value <span class="ot" style="color: #003B4F;
+background-color: null;
+font-style: inherit;">&lt;-</span> <span class="dv" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">2</span></span>
+<span id="cb7-3"></span>
+<span id="cb7-4"><span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;"># initial ggplot</span></span>
+<span id="cb7-5">gmap <span class="ot" style="color: #003B4F;
+background-color: null;
+font-style: inherit;">&lt;-</span> <span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">ggplot</span>() <span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">+</span></span>
+<span id="cb7-6">        <span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;"># plot background layer</span></span>
+<span id="cb7-7">        <span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">geom_raster</span>(<span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">data =</span> background_raster_df,</span>
+<span id="cb7-8">                    <span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">aes</span>(<span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">x =</span> x, <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">y =</span> y, <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">alpha =</span> alpha)) <span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">+</span></span>
+<span id="cb7-9">        <span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;"># plot terrain layer</span></span>
+<span id="cb7-10">        <span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">geom_raster</span>(<span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">data =</span> terrain_raster_df,</span>
+<span id="cb7-11">                    <span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">aes</span>(<span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">x =</span> x, <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">y =</span> y, <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">fill =</span> layer, <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">alpha =</span> alpha)) <span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">+</span></span>
+<span id="cb7-12">        <span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">scale_fill_gradientn</span>(<span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">colours =</span> <span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">terrain.colors</span>(<span class="dv" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">100</span>, <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">rev =</span> <span class="cn" style="color: #8f5902;
+background-color: null;
+font-style: inherit;">TRUE</span>),</span>
+<span id="cb7-13">                             <span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;"># set the legend title for elevation using the 'name' parameter</span></span>
+<span id="cb7-14">                             <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">name =</span> <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"Elevation (m)"</span>) <span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">+</span></span>
+<span id="cb7-15">        <span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;"># project this plot as a map rather than a standard figure</span></span>
+<span id="cb7-16">        <span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">coord_quickmap</span>() <span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">+</span></span>
+<span id="cb7-17">        <span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;"># modify axis titles</span></span>
+<span id="cb7-18">        <span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">labs</span>(<span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">x =</span> <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">""</span>, <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">y =</span> <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">""</span>) <span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">+</span></span>
+<span id="cb7-19">        <span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;"># define axes limits</span></span>
+<span id="cb7-20">        <span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;"># use `expand` parameter to remove the gaps between the rectangular map and axes</span></span>
+<span id="cb7-21">        <span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">scale_x_continuous</span>(<span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">limits =</span> <span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">c</span>(<span class="fl" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">100.854490</span>, <span class="fl" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">116.147458</span>), <span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;"># longitude</span></span>
+<span id="cb7-22">                           <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">expand =</span> <span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">c</span>(<span class="dv" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">0</span>, <span class="dv" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">0</span>),</span>
+<span id="cb7-23">                           <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">breaks =</span> <span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">c</span>(<span class="dv" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">102</span>, <span class="dv" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">106</span>, <span class="dv" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">110</span>, <span class="dv" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">114</span>),</span>
+<span id="cb7-24">                           <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">labels =</span> <span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">c</span>(<span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"102\u00B0E"</span>,</span>
+<span id="cb7-25">                                      <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"106\u00B0E"</span>,</span>
+<span id="cb7-26">                                      <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"110\u00B0E"</span>,</span>
+<span id="cb7-27">                                      <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"114\u00B0E"</span>)) <span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">+</span></span>
+<span id="cb7-28">        <span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">scale_y_continuous</span>(<span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">limits =</span> <span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">c</span>(<span class="fl" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">6.945000</span>, <span class="fl" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">23.812699</span>), <span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;"># latitude</span></span>
+<span id="cb7-29">                           <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">expand =</span> <span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">c</span>(<span class="dv" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">0</span>, <span class="dv" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">0</span>),</span>
+<span id="cb7-30">                           <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">breaks =</span> <span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">c</span>(<span class="dv" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">10</span>, <span class="dv" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">15</span>, <span class="dv" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">20</span>),</span>
+<span id="cb7-31">                           <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">labels =</span> <span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">c</span>(<span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"10\u00B0N"</span>,</span>
+<span id="cb7-32">                                      <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"15\u00B0N"</span>,</span>
+<span id="cb7-33">                                      <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"20\u00B0N"</span>)) <span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">+</span></span>
+<span id="cb7-34">        <span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;"># remove legend of alpha</span></span>
+<span id="cb7-35">        <span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">scale_alpha</span>(<span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">guide =</span> <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"none"</span>) <span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">+</span></span>
+<span id="cb7-36">        <span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;"># modify theme</span></span>
+<span id="cb7-37">        <span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">theme_minimal</span>() <span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">+</span></span>
+<span id="cb7-38">        <span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">theme</span>(<span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">panel.grid =</span> <span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">element_blank</span>(),</span>
+<span id="cb7-39">              <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">panel.background =</span> <span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">element_blank</span>(),</span>
+<span id="cb7-40">              <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">axis.text =</span> <span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">element_text</span>(<span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">size =</span> <span class="dv" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">7</span> <span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">*</span> scale_value,</span>
+<span id="cb7-41">                                       <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">color =</span> <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"black"</span>),</span>
+<span id="cb7-42">              <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">legend.position =</span> <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"top"</span>,</span>
+<span id="cb7-43">              <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">legend.key.width =</span> <span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">unit</span>(<span class="dv" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">1</span> <span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">*</span> scale_value, <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"cm"</span>),</span>
+<span id="cb7-44">              <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">legend.key.height =</span> <span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">unit</span>(<span class="fl" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">0.2</span> <span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">*</span> scale_value, <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"cm"</span>),</span>
+<span id="cb7-45">              <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">legend.text =</span> <span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">element_text</span>(<span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">size =</span> <span class="dv" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">6</span> <span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">*</span> scale_value),</span>
+<span id="cb7-46">              <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">legend.title =</span> <span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">element_text</span>(<span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">size =</span> <span class="dv" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">7</span> <span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">*</span> scale_value))</span></code></pre></div></div>
+</section>
+<section id="step-7-incorporate-cities-and-islands-into-the-map" class="level3">
+<h3 class="anchored" data-anchor-id="step-7-incorporate-cities-and-islands-into-the-map">Step 7: Incorporate cities and islands into the map</h3>
+<p>Generate a dataframe containing coordinate data and site names.</p>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb8" style="background: #f1f3f5;"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb8-1">site_df <span class="ot" style="color: #003B4F;
+background-color: null;
+font-style: inherit;">&lt;-</span> <span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">data.frame</span>(<span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">site_name =</span> <span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">c</span>(<span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"Ha Noi"</span>,</span>
+<span id="cb8-2">                                    <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"Ho Chi Minh City"</span>,</span>
+<span id="cb8-3">                                    <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"Paracel Islands </span><span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">\n</span><span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">(Hoang Sa, VIETNAM)"</span>,</span>
+<span id="cb8-4">                                    <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"Spratly Islands </span><span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">\n</span><span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">(Truong Sa, VIETNAM)"</span>),</span>
+<span id="cb8-5">                      <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">site_latitude =</span> <span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">c</span>(<span class="fl" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">21.028511</span>, <span class="fl" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">10.823020</span>, <span class="fl" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">16.83517</span>, <span class="fl" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">8.64464</span>),</span>
+<span id="cb8-6">                      <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">site_longitude =</span> <span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">c</span>(<span class="fl" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">105.804817</span>, <span class="fl" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">106.629650</span>, <span class="fl" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">112.33873</span>, <span class="fl" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">111.91969</span>))</span></code></pre></div></div>
+<p>Incorporate cities and islands into the map using <em>ggplot2</em></p>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb9" style="background: #f1f3f5;"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb9-1">gmap <span class="ot" style="color: #003B4F;
+background-color: null;
+font-style: inherit;">&lt;-</span> gmap <span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">+</span></span>
+<span id="cb9-2">        <span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;"># add the areas of islands as large circles on the map</span></span>
+<span id="cb9-3">        <span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">geom_point</span>(<span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">data =</span> site_df <span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">%&gt;%</span> <span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">filter</span>(<span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">str_detect</span>(site_name, <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"Islands"</span>)),</span>
+<span id="cb9-4">                   <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">mapping =</span> <span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">aes</span>(<span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">x =</span> site_longitude,</span>
+<span id="cb9-5">                                 <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">y =</span> site_latitude),</span>
+<span id="cb9-6">                   <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">size =</span> <span class="dv" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">8</span> <span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">*</span> scale_value,</span>
+<span id="cb9-7">                   <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">color =</span> <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"coral"</span>,</span>
+<span id="cb9-8">                   <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">alpha =</span> <span class="fl" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">0.3</span>) <span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">+</span></span>
+<span id="cb9-9">        <span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;"># add the cities and primary islands as points</span></span>
+<span id="cb9-10">        <span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">geom_point</span>(<span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">mapping =</span> <span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">aes</span>(<span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">x =</span> site_longitude,</span>
+<span id="cb9-11">                                 <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">y =</span> site_latitude),</span>
+<span id="cb9-12">                   <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">data =</span> site_df,</span>
+<span id="cb9-13">                   <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">size =</span> <span class="dv" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">2</span> <span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">*</span> scale_value,</span>
+<span id="cb9-14">                   <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">colour =</span> <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"coral1"</span>) <span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">+</span></span>
+<span id="cb9-15">        <span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;"># add names of cities and islands as text labels</span></span>
+<span id="cb9-16">        <span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">geom_text</span>(<span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">mapping =</span> <span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">aes</span>(<span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">x =</span> site_longitude,</span>
+<span id="cb9-17">                                <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">y =</span> site_latitude <span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">+</span> <span class="fl" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">0.5</span>,</span>
+<span id="cb9-18">                                <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">label =</span> site_name),</span>
+<span id="cb9-19">                  <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">data =</span> site_df,</span>
+<span id="cb9-20">                  <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">size =</span> <span class="fl" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">2.5</span> <span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">*</span> scale_value)</span></code></pre></div></div>
+</section>
+<section id="step-8-add-the-map-title" class="level3">
+<h3 class="anchored" data-anchor-id="step-8-add-the-map-title">Step 8: Add the map title</h3>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb10" style="background: #f1f3f5;"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb10-1">gmap <span class="ot" style="color: #003B4F;
+background-color: null;
+font-style: inherit;">&lt;-</span> gmap <span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">+</span></span>
+<span id="cb10-2">        <span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">geom_text</span>(<span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">mapping =</span> <span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">aes</span>(<span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">x =</span> <span class="fl" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">112.1</span>, <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">y =</span> <span class="dv" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">23</span>, <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">label =</span> <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"MAP OF VIETNAM"</span>),</span>
+<span id="cb10-3">                  <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">size =</span> <span class="dv" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">4</span> <span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">*</span> scale_value,</span>
+<span id="cb10-4">                  <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">color =</span> <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"white"</span>)</span></code></pre></div></div>
+</section>
+<section id="references" class="level3">
+<h3 class="anchored" data-anchor-id="references">References</h3>
+<ul>
+<li><a href="https://rstudio-pubs-static.s3.amazonaws.com/577022_ffcecfafa86f4d239b8ea00b452b1d45.html" target="_blank">Using R for Everything: 使用 ggplot2 绘制 RasterLayer 地图</a> by Chen Han</li>
+<li><a href="https://rpubs.com/ials2un/elevationdata" target="_blank">Elevation data in R</a> by Ivan Lizarazo</li>
+</ul>
+
+
+</section>
+
+ ]]></description>
+  <category>R</category>
+  <category>map</category>
+  <guid>https://lehuynh.rbind.io/blog/viz-map-elevation/</guid>
+  <pubDate>Fri, 09 Oct 2026 03:30:02 GMT</pubDate>
+  <media:content url="https://lehuynh.rbind.io/blog/viz-map-elevation/map_elevation_shadow.png" medium="image" type="image/png" height="158" width="144"/>
+</item>
+<item>
+  <title>Highlighting regions in terrain maps using ggmap and ggplot2</title>
+  <link>https://lehuynh.rbind.io/blog/viz-map-terrain/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>This blog post serves as a quick tutorial for creating terrain map in R using <a href="https://github.com/dkahle/ggmap" target="_blank"><em>ggmap</em></a> and <a href="https://ggplot2.tidyverse.org/" target="_blank"><em>ggplot2</em></a>. The terrain map accentuates a designated region amid the surrounding landscape. Using <strong>Vietnam</strong> as an illustrative example, the post underscores the effectiveness of R in visualizing map.<br>
+The complete code for this visualization is available on <a href="https://github.com/le-huynh/rtistry_gallery/blob/main/code/map_terrain.R" target="_blank">Github</a>.</p>
+<p><img width="700px" class="center-block" src="https://lehuynh.rbind.io/blog/viz-map-terrain/map_terrain.png"></p>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb1" style="background: #f1f3f5;"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb1-1"><span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">library</span>(tidyverse)</span>
+<span id="cb1-2"><span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">library</span>(ggmap)</span>
+<span id="cb1-3"><span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">library</span>(sf)</span></code></pre></div></div>
+<section id="step-1-specify-the-boundaries-of-the-map-drawing-rectangle" class="level3">
+<h3 class="anchored" data-anchor-id="step-1-specify-the-boundaries-of-the-map-drawing-rectangle">Step 1: Specify the boundaries of the map drawing rectangle</h3>
+<p>Set the plot boundaries using coordinate data.<br>
+The coordinate can be obtained from several websites, for example, <a href="http://bboxfinder.com/" target="_blank">bboxfinder.com</a>.</p>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb2" style="background: #f1f3f5;"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb2-1">longitude <span class="ot" style="color: #003B4F;
+background-color: null;
+font-style: inherit;">&lt;-</span> <span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">c</span>(<span class="fl" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">100.854490</span>, <span class="fl" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">116.147458</span>)</span>
+<span id="cb2-2">latitude <span class="ot" style="color: #003B4F;
+background-color: null;
+font-style: inherit;">&lt;-</span> <span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">c</span>(<span class="fl" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">6.945000</span>, <span class="fl" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">23.812699</span>)</span></code></pre></div></div>
+</section>
+<section id="step-2-get-the-stamen-map-of-the-plot" class="level3">
+<h3 class="anchored" data-anchor-id="step-2-get-the-stamen-map-of-the-plot">Step 2: Get the stamen map of the plot</h3>
+<p>In this post, a Stamen map hosted by <a href="https://stadiamaps.com/" target="_blank">Stadia Maps</a> is used as an example. To utilize Stadia Maps with <em>ggmap</em>, an API key is necessary. A free API key for non-commercial purposes can be obtained without requiring a credit card for sign-up. Quick tips for obtaining the API key can be found <a href="https://lehuynh.rbind.io/blog/tips-api-stadia-map/" target="_blank">here</a>.</p>
+<ul>
+<li>Enable Stadia Maps services in R using API key:</li>
+</ul>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb3" style="background: #f1f3f5;"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb3-1">ggmap<span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">::</span><span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">register_stadiamaps</span>(<span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">key =</span> <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"YOUR-API-KEY"</span>)</span></code></pre></div></div>
+<div class="dark-green-bg">
+<strong>Note:</strong> The API key is a <strong>PRIVATE</strong> access key and should be handled with caution. Avoid sharing it online, like in a public GitHub repository, or storing it in a shared R script file.
+</div>
+<p><br></p>
+<ul>
+<li>Getting the background map:</li>
+</ul>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb4" style="background: #f1f3f5;"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb4-1">background_map <span class="ot" style="color: #003B4F;
+background-color: null;
+font-style: inherit;">&lt;-</span> ggmap<span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">::</span><span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">get_stadiamap</span>(<span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">bbox =</span> <span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">c</span>(longitude[<span class="dv" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">1</span>],</span>
+<span id="cb4-2">                                                latitude[<span class="dv" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">1</span>],</span>
+<span id="cb4-3">                                                longitude[<span class="dv" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">2</span>],</span>
+<span id="cb4-4">                                                latitude[<span class="dv" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">2</span>]),</span>
+<span id="cb4-5">                                       <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">maptype =</span> <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"stamen_terrain_background"</span>,</span>
+<span id="cb4-6">                                       <span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;"># increase `zoom` to get higher resolution</span></span>
+<span id="cb4-7">                                       <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">zoom =</span> <span class="dv" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">7</span>)</span></code></pre></div></div>
+</section>
+<section id="step-3-read-the-polygonal-file-to-outline-the-boundary-of-vietnam" class="level3">
+<h3 class="anchored" data-anchor-id="step-3-read-the-polygonal-file-to-outline-the-boundary-of-vietnam">Step 3: Read the polygonal file to outline the boundary of Vietnam</h3>
+<p>The polygonal data can be downloaded from several websites, for example, <a href="https://www.diva-gis.org/gdata" target="_blank">diva-gis</a>.</p>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb5" style="background: #f1f3f5;"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb5-1">target_extent <span class="ot" style="color: #003B4F;
+background-color: null;
+font-style: inherit;">&lt;-</span> sf<span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">::</span><span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">st_read</span>(<span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"data/VNM_gis/VNM_adm0.shp"</span>)</span></code></pre></div></div>
+</section>
+<section id="step-4-convert-shapefile-to-be-compatible-with-ggplot2" class="level3">
+<h3 class="anchored" data-anchor-id="step-4-convert-shapefile-to-be-compatible-with-ggplot2">Step 4: Convert shapefile to be compatible with <em>ggplot2</em></h3>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb6" style="background: #f1f3f5;"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb6-1">target_shape <span class="ot" style="color: #003B4F;
+background-color: null;
+font-style: inherit;">&lt;-</span> <span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;"># convert coordinates into correct Coordinate Reference System (CRS)</span></span>
+<span id="cb6-2">                <span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">st_transform</span>(target_extent, <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">crs =</span> <span class="dv" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">4326</span>) <span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">%&gt;%</span></span>
+<span id="cb6-3">                <span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;"># convert data type to be compatible with 'ggplot2' and 'ggmap'</span></span>
+<span id="cb6-4">                <span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">as_Spatial</span>()</span></code></pre></div></div>
+</section>
+<section id="step-5-create-the-map-using-ggplot2" class="level3">
+<h3 class="anchored" data-anchor-id="step-5-create-the-map-using-ggplot2">Step 5: Create the map using <em>ggplot2</em></h3>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb7" style="background: #f1f3f5;"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb7-1">map <span class="ot" style="color: #003B4F;
+background-color: null;
+font-style: inherit;">&lt;-</span> <span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">ggmap</span>(background_map) <span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">+</span></span>
+<span id="cb7-2">        <span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">geom_polygon</span>(<span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">data =</span> target_shape,</span>
+<span id="cb7-3">                     <span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">aes</span>(<span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">x =</span> long, <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">y =</span> lat, <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">group =</span> group),</span>
+<span id="cb7-4">                     <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">colour =</span> <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">'white'</span>,</span>
+<span id="cb7-5">                     <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">fill =</span> <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">'gray87'</span>,</span>
+<span id="cb7-6">                     <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">alpha =</span> <span class="fl" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">0.65</span>,</span>
+<span id="cb7-7">                     <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">size =</span> <span class="fl" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">0.5</span>) <span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">+</span></span>
+<span id="cb7-8">        <span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">theme</span>(<span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">axis.title =</span> <span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">element_blank</span>(),</span>
+<span id="cb7-9">              <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">axis.text =</span> <span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">element_blank</span>(),</span>
+<span id="cb7-10">              <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">axis.ticks =</span> <span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">element_blank</span>(),</span>
+<span id="cb7-11">              <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">plot.margin =</span> <span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">margin</span>(<span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">t =</span> <span class="fl" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">0.1</span>,</span>
+<span id="cb7-12">                                   <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">r =</span> <span class="fl" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">0.1</span>,</span>
+<span id="cb7-13">                                   <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">b =</span> <span class="fl" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">0.1</span>,</span>
+<span id="cb7-14">                                   <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">l =</span> <span class="fl" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">0.1</span>,</span>
+<span id="cb7-15">                                   <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">unit =</span> <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"in"</span>))</span></code></pre></div></div>
+</section>
+<section id="step-6-incorporate-cities-and-islands-into-the-map" class="level3">
+<h3 class="anchored" data-anchor-id="step-6-incorporate-cities-and-islands-into-the-map">Step 6: Incorporate cities and islands into the map</h3>
+<p>Generate a dataframe containing coordinate data and site names.</p>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb8" style="background: #f1f3f5;"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb8-1">site_df <span class="ot" style="color: #003B4F;
+background-color: null;
+font-style: inherit;">&lt;-</span> <span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">data.frame</span>(<span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">site_name =</span> <span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">c</span>(<span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"Ha Noi"</span>,</span>
+<span id="cb8-2">                                    <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"Ho Chi Minh City"</span>,</span>
+<span id="cb8-3">                                    <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"Paracel Islands </span><span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">\n</span><span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">(Hoang Sa, VIETNAM)"</span>,</span>
+<span id="cb8-4">                                    <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"Spratly Islands </span><span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">\n</span><span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">(Truong Sa, VIETNAM)"</span>),</span>
+<span id="cb8-5">                      <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">site_latitude =</span> <span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">c</span>(<span class="fl" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">21.028511</span>, <span class="fl" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">10.823020</span>, <span class="fl" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">16.83517</span>, <span class="fl" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">8.64464</span>),</span>
+<span id="cb8-6">                      <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">site_longitude =</span> <span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">c</span>(<span class="fl" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">105.804817</span>, <span class="fl" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">106.629650</span>, <span class="fl" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">112.33873</span>, <span class="fl" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">111.91969</span>))</span></code></pre></div></div>
+<p>Incorporate cities and islands into the map using <em>ggplot2</em></p>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb9" style="background: #f1f3f5;"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb9-1">map <span class="ot" style="color: #003B4F;
+background-color: null;
+font-style: inherit;">&lt;-</span> map <span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">+</span></span>
+<span id="cb9-2">        <span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;"># add the areas of islands as large circles on the map</span></span>
+<span id="cb9-3">        <span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">geom_point</span>(<span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">data =</span> site_df <span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">%&gt;%</span> <span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">filter</span>(<span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">str_detect</span>(site_name, <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"Islands"</span>)),</span>
+<span id="cb9-4">                   <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">mapping =</span> <span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">aes</span>(<span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">x =</span> site_longitude,</span>
+<span id="cb9-5">                                 <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">y =</span> site_latitude),</span>
+<span id="cb9-6">                   <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">size =</span> <span class="dv" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">16</span>,</span>
+<span id="cb9-7">                   <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">color =</span> <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"coral"</span>,</span>
+<span id="cb9-8">                   <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">alpha =</span> <span class="fl" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">0.3</span>) <span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">+</span></span>
+<span id="cb9-9">        <span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;"># add the cities and primary islands as points</span></span>
+<span id="cb9-10">        <span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">geom_point</span>(<span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">mapping =</span> <span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">aes</span>(<span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">x =</span> site_longitude,</span>
+<span id="cb9-11">                                 <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">y =</span> site_latitude),</span>
+<span id="cb9-12">                   <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">data =</span> site_df,</span>
+<span id="cb9-13">                   <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">size =</span> <span class="dv" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">4</span>,</span>
+<span id="cb9-14">                   <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">colour =</span> <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"coral1"</span>) <span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">+</span></span>
+<span id="cb9-15">        <span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;"># add names of cities and islands as text labels</span></span>
+<span id="cb9-16">        <span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">geom_text</span>(<span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">mapping =</span> <span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">aes</span>(<span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">x =</span> site_longitude,</span>
+<span id="cb9-17">                                <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">y =</span> site_latitude <span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">+</span> <span class="fl" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">0.5</span>,</span>
+<span id="cb9-18">                                <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">label =</span> site_name),</span>
+<span id="cb9-19">                  <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">data =</span> site_df,</span>
+<span id="cb9-20">                  <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">size =</span> <span class="dv" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">5</span>)</span></code></pre></div></div>
+</section>
+<section id="step-7-add-the-map-title" class="level3">
+<h3 class="anchored" data-anchor-id="step-7-add-the-map-title">Step 7: Add the map title</h3>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb10" style="background: #f1f3f5;"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb10-1">map <span class="ot" style="color: #003B4F;
+background-color: null;
+font-style: inherit;">&lt;-</span> map <span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">+</span></span>
+<span id="cb10-2">        <span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">geom_text</span>(<span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">mapping =</span> <span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">aes</span>(<span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">x =</span> <span class="fl" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">112.1</span>, <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">y =</span> <span class="dv" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">23</span>, <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">label =</span> <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"MAP OF VIETNAM"</span>),</span>
+<span id="cb10-3">                  <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">size =</span> <span class="dv" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">10</span>,</span>
+<span id="cb10-4">                  <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">color =</span> <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"black"</span>)</span></code></pre></div></div>
+</section>
+<section id="further-information" class="level3">
+<h3 class="anchored" data-anchor-id="further-information">Further information</h3>
+<ul>
+<li><a href="https://docs.stadiamaps.com/themes/" target="_blank">Map Style Library</a> by Stadia Maps Documentation</li>
+<li><a href="https://www.rdocumentation.org/packages/ggmap/versions/4.0.0" target="_blank"><em>ggmap</em> Documentation</a></li>
+</ul>
+
+
+</section>
+
+ ]]></description>
+  <category>R</category>
+  <category>map</category>
+  <guid>https://lehuynh.rbind.io/blog/viz-map-terrain/</guid>
+  <pubDate>Fri, 09 Oct 2026 03:30:02 GMT</pubDate>
+  <media:content url="https://lehuynh.rbind.io/blog/viz-map-terrain/map-terrain-shadow.png" medium="image" type="image/png" height="151" width="144"/>
+</item>
+<item>
+  <title>CSV parse error</title>
+  <link>https://lehuynh.rbind.io/blog/error-csv-parse-error.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<section id="error" class="level3">
+<h3 class="anchored" data-anchor-id="error">Error</h3>
+<p>I got the following error when using <code>arrow::read_csv_arrow()</code> or <code>arrow::open_dataset()</code>.</p>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb1" style="background: #f1f3f5;"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb1-1"><span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"Error: Invalid: CSV parse error: Row #20241208: Expected 111 columns, got 110: </span></span>
+<span id="cb1-2"><span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"</span>col1<span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">","</span>col1<span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">","</span>col3<span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">","</span>col4<span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">","</span>col5<span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">","</span> ...<span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"</span></span></code></pre></div></div>
+</section>
+<section id="reason" class="level3">
+<h3 class="anchored" data-anchor-id="reason">Reason</h3>
+<p>At row 20241208, there might be unexpected characters in one or more columns that interfere with detecting the delimiter of the CSV file. These could include <code>""</code>, <code>\"</code>, a blank space, or a combination of punctuation marks.</p>
+</section>
+<section id="solution" class="level3">
+<h3 class="anchored" data-anchor-id="solution">Solution</h3>
+<p>I have not found a perfect solution for this error. The approach may vary depending on the goal after importing the data into R. In my case, the CSV file was very large, and I wanted to convert it into multiple Parquet files for storage and efficient querying later. However, the file could not be converted unless it was read correctly.<br>
+Here are the steps I followed:</p>
+<section id="step-1-optional" class="level4">
+<h4 class="anchored" data-anchor-id="step-1-optional">Step 1 (Optional)</h4>
+<p>Extract row 20241208 to identify the problematic characters.<br>
+Big thanks to <a href="https://huynhvu.com/" target="_blank">Dr.&nbsp;Huynh Vu</a> for helping with the <a href="https://github.com/le-huynh/note_big_data/blob/main/test_get_parquet/find_error_parse_csv.py" target="_blank">Python code</a>. If you’re into Python and data stuff, you should totally check out <a href="https://huynhvu.com/" target="_blank">his blog</a> —he’s got tons of great tips and tricks!</p>
+</section>
+<section id="step-2" class="level4">
+<h4 class="anchored" data-anchor-id="step-2">Step 2</h4>
+<p>Use <code>data.table::fread()</code> to read the CSV file into R, and replace the problematic characters if necessary. This function does not fail due to parsing errors. The downside is that your computer’s RAM must be large enough to handle <code>fread()</code> for in-memory data import. But what if your computer’s RAM isn’t sufficient? No worries at all! You can read the data in chunks, and guess what? The awesome team behind <code>data.table</code> made sure that <code>fread()</code> can do that too.</p>
+<p>In my case, I read the data chunk by chunk and converted each one to Parquet format. It took longer than loading the whole file in one go with <code>fread()</code>, but since my RAM could not handle the entire file at once, this was a pretty good workaround.</p>
+<p><strong>Note:</strong> A nifty <a href="https://le-huynh.github.io/chva.extras/reference/get_parquet_by_chunk.html" target="_blank">function</a> I wrote to make the process easier.</p>
+</section>
+</section>
+<section id="references" class="level3">
+<h3 class="anchored" data-anchor-id="references">References</h3>
+<p><a href="https://umatter.github.io/BigData/" target="_blank">Big Data Analytics</a> by Ulrich Matter.</p>
+
+
+</section>
+
+ ]]></description>
+  <category>error</category>
+  <category>R</category>
+  <guid>https://lehuynh.rbind.io/blog/error-csv-parse-error.html</guid>
+  <pubDate>Fri, 09 Oct 2026 03:30:02 GMT</pubDate>
+  <media:content url="https://lehuynh.rbind.io/static/img/error.png" medium="image" type="image/png" height="123" width="144"/>
+</item>
+<item>
+  <title>Getting Stadia Maps API for ggmap Rpackage</title>
+  <link>https://lehuynh.rbind.io/blog/tips-api-stadia-map.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>The <code>ggmap</code> R package is a powerful tool for creating stunning map visualizations in R, making mapping tasks more accessible and efficient. To enable Stadia Maps services in R, an API key is required. A free API key for non-commercial use can be obtained without requiring a credit card for sign-up.</p>
+<section id="obtain-api-key" class="level3">
+<h3 class="anchored" data-anchor-id="obtain-api-key">Obtain API key</h3>
+<ol type="1">
+<li><p>Sign up for Stadia Maps at <a href="https://client.stadiamaps.com/signup/" target="_blank">https://client.stadiamaps.com/signup/</a></p></li>
+<li><p>Navigate to the client dashboard at <a href="https://client.stadiamaps.com/dashboard/" target="_blank">https://client.stadiamaps.com/dashboard/</a></p></li>
+<li><p>Click on <strong>Create a Property</strong> → insert <strong>Property Name</strong> → click on <strong>Create</strong></p></li>
+<li><p>Under <strong>Authentication Configuration</strong>, select <strong>Add API key</strong></p></li>
+</ol>
+</section>
+<section id="set-api-key-for-r-session" class="level3">
+<h3 class="anchored" data-anchor-id="set-api-key-for-r-session">Set API key for R session</h3>
+<ol start="5" type="1">
+<li>Copy the provided API key and execute the following code in the console</li>
+</ol>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb1" style="background: #f1f3f5;"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb1-1">ggmap<span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">::</span><span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">register_stadiamaps</span>(<span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">key =</span> <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"YOUR-API-KEY"</span>, <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">write =</span> <span class="cn" style="color: #8f5902;
+background-color: null;
+font-style: inherit;">FALSE</span>)</span></code></pre></div></div>
+<p>When setting the API key: - Using <code>write = FALSE</code> to configure the key for the current R session only. The API key needs to be provided again when restarting R. - Using <code>write = TRUE</code> to set the API key permanently across R sessions.</p>
+<div class="dark-green-bg">
+<strong>Note:</strong> The API key is a <strong>PRIVATE</strong> access key and should be handled with caution. Avoid sharing it online, like in a public GitHub repository, or storing it in a shared R script file.
+</div>
+<p><br></p>
+<ol start="6" type="1">
+<li>If the API key is shared inadvertently, access <a href="https://client.stadiamaps.com/" target="_blank">https://client.stadiamaps.com/</a> → delete the existing API key → generate a new one</li>
+</ol>
+</section>
+<section id="further-information" class="level3">
+<h3 class="anchored" data-anchor-id="further-information">Further information</h3>
+<ul>
+<li><a href="https://docs.stadiamaps.com/authentication/#api-keys" target="_blank">Authentication</a> by Stadia Maps Documentation</li>
+<li><a href="https://www.rdocumentation.org/packages/ggmap/versions/4.0.0" target="_blank"><em>ggmap</em> Documentation</a></li>
+</ul>
+
+
+</section>
+
+ ]]></description>
+  <category>tips</category>
+  <category>R</category>
+  <category>map</category>
+  <guid>https://lehuynh.rbind.io/blog/tips-api-stadia-map.html</guid>
+  <pubDate>Fri, 09 Oct 2026 03:30:02 GMT</pubDate>
+  <media:content url="https://lehuynh.rbind.io/static/img/tips.png" medium="image" type="image/png" height="100" width="144"/>
+</item>
+<item>
+  <title>Download a single folder from a GitHub repository</title>
+  <link>https://lehuynh.rbind.io/blog/tips-download-specific-folder-github.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<ol type="1">
+<li>Go to the GitHub repo you would like to download the folder.</li>
+</ol>
+<p>For example: <a href="https://github.com/le-huynh/writing_journal_article_in_rmarkdown" target="_blank">https://github.com/le-huynh/writing_journal_article_in_rmarkdown</a></p>
+<ol start="2" type="1">
+<li>Replace <code>.com</code> with <code>.dev</code> in the URL to access the repository using <a href="https://github.com/github/dev" target="_blank">github.dev</a> web-based editor.</li>
+</ol>
+<p>For example: <a href="https://github.dev/le-huynh/writing_journal_article_in_rmarkdown" target="_blank">https://github.dev/le-huynh/writing_journal_article_in_rmarkdown</a></p>
+<ol start="3" type="1">
+<li><p>Within the <code>EXPLORER</code> panel (located on the left-hand side or accessed via <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>E</kbd>), right-click on the specific file or folder you need and choose the option <code>Download...</code>.</p></li>
+<li><p>When prompted with the <code>Select Folder</code> dialog box, pick the directory on your computer where you’d like the chosen file or folder to be saved.</p></li>
+</ol>
+
+
+
+ ]]></description>
+  <category>tips</category>
+  <guid>https://lehuynh.rbind.io/blog/tips-download-specific-folder-github.html</guid>
+  <pubDate>Fri, 09 Oct 2026 03:30:02 GMT</pubDate>
+  <media:content url="https://lehuynh.rbind.io/static/img/tips.png" medium="image" type="image/png" height="100" width="144"/>
+</item>
+<item>
+  <title>Undefined global variables</title>
+  <link>https://lehuynh.rbind.io/blog/tips-Rpackage-undefined-global-variables.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<section id="note" class="level3">
+<h3 class="anchored" data-anchor-id="note">Note</h3>
+<p>I am creating a new function in my Rpackage. After running <code>devtools::check()</code>, I get this NOTE:</p>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb1" style="background: #f1f3f5;"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb1-1">checking R code <span class="cf" style="color: #003B4F;
+background-color: null;
+font-weight: bold;
+font-style: inherit;">for</span> possible problems ... NOTE</span>
+<span id="cb1-2">  function_name1<span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">:</span> no visible binding <span class="cf" style="color: #003B4F;
+background-color: null;
+font-weight: bold;
+font-style: inherit;">for</span> global variable <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">'value1'</span></span>
+<span id="cb1-3">  function_name2<span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">:</span> no visible binding <span class="cf" style="color: #003B4F;
+background-color: null;
+font-weight: bold;
+font-style: inherit;">for</span> global variable <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">'value2'</span></span>
+<span id="cb1-4">  Undefined global variables<span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">:</span></span>
+<span id="cb1-5">    value1 value2</span></code></pre></div></div>
+</section>
+<section id="solution" class="level3">
+<h3 class="anchored" data-anchor-id="solution">Solution</h3>
+<p>Create a file <code>globals.R</code> in the <code>R</code> folder, listing undefined global variables:</p>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb2" style="background: #f1f3f5;"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb2-1">utils<span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">::</span><span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">globalVariables</span>(<span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">c</span>(<span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"value1"</span>, <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"value2"</span>))</span></code></pre></div></div>
+
+
+</section>
+
+ ]]></description>
+  <category>tips</category>
+  <category>R</category>
+  <category>R-package</category>
+  <guid>https://lehuynh.rbind.io/blog/tips-Rpackage-undefined-global-variables.html</guid>
+  <pubDate>Fri, 09 Oct 2026 03:30:02 GMT</pubDate>
+  <media:content url="https://lehuynh.rbind.io/static/img/tips.png" medium="image" type="image/png" height="100" width="144"/>
+</item>
+<item>
+  <title>Warning: ’‘::’’ or ’‘:::’’ imports not declared from: package_name</title>
+  <link>https://lehuynh.rbind.io/blog/warning-imports-not-declared-from-package-name.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<section id="warning" class="level3">
+<h3 class="anchored" data-anchor-id="warning">Warning</h3>
+<p>I am creating a new function in my Rpackage. After running <code>devtools::check()</code>, I get this WARNING:</p>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb1" style="background: #f1f3f5;"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb1-1">checking dependencies <span class="cf" style="color: #003B4F;
+background-color: null;
+font-weight: bold;
+font-style: inherit;">in</span> R code ... WARNING</span>
+<span id="cb1-2"><span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">'::'</span> or <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">':::'</span> imports not declared from<span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">:</span></span>
+<span id="cb1-3">  ‘dplyr’ </span></code></pre></div></div>
+</section>
+<section id="solution" class="level3">
+<h3 class="anchored" data-anchor-id="solution">Solution</h3>
+<p>Add <code>dplyr</code> to <code>Imports</code> in the <code>DESCRIPTION</code> file.</p>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb2" style="background: #f1f3f5;"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb2-1">usethis<span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">::</span><span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">use_package</span>(<span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"dplyr"</span>)</span>
+<span id="cb2-2"><span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">#&gt; Adding dplyr to Imports</span></span>
+<span id="cb2-3"><span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">#&gt; Refer to functions with dplyr::fun()</span></span></code></pre></div></div>
+</section>
+<section id="further-information" class="level3">
+<h3 class="anchored" data-anchor-id="further-information">Further information</h3>
+<p><a href="https://r-pkgs.org/description.html#dependencies" target="_blank">Dependencies: What does your package need?</a>, <em>R Packages</em> by Hadley Wickham and Jenny Bryan</p>
+
+
+</section>
+
+ ]]></description>
+  <category>warning</category>
+  <category>R</category>
+  <category>R-package</category>
+  <guid>https://lehuynh.rbind.io/blog/warning-imports-not-declared-from-package-name.html</guid>
+  <pubDate>Fri, 09 Oct 2026 03:30:02 GMT</pubDate>
+  <media:content url="https://lehuynh.rbind.io/static/img/warning_red.png" medium="image" type="image/png" height="102" width="144"/>
+</item>
+<item>
+  <title>Hugo-creative-portfolio-theme: content page left 1/3 blank for desktop</title>
+  <link>https://lehuynh.rbind.io/blog/tips-hugo-creative-portfolio-theme-fit-screen/</link>
+  <description><![CDATA[ 
+
+
+
+
+<section id="problem" class="level3">
+<h3 class="anchored" data-anchor-id="problem">Problem</h3>
+<p>Hugo theme <a href="https://themes.gohugo.io/themes/hugo-creative-portfolio-theme/" target="_blank"><code>Creative Portfolio</code></a> has a wonderfully clean and elegant style. However, when viewed on a desktop screen, there appears to be a one-third blank space on the right-hand side. I’d like the content to fill the entire available space.</p>
+<div class="cell" data-layout-align="center">
+<div class="cell-output-display">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://lehuynh.rbind.io/blog/tips-hugo-creative-portfolio-theme-fit-screen/hugo-creative-portfolio-theme-fit-full-page.png" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:100.0%" alt="tbd"></p>
+</figure>
+</div>
+</div>
+</div>
+</section>
+<section id="solution" class="level3">
+<h3 class="anchored" data-anchor-id="solution">Solution</h3>
+<p>It was <a href="https://github.com/kishaningithub/hugo-creative-portfolio-theme/issues/25" target="_blank">confirmed</a> that the one-third blank space was intentionally designed that way. To modify the display settings:</p>
+<ol type="1">
+<li>Locate the file <code>theme/layouts/_default/single.html</code>.</li>
+<li>Navigate to line 5 and adjust the code from <code>&lt;div class="col-lg-8"&gt;</code> to <code>&lt;div class="col-lg-X"&gt;</code>, where X represents the column size. For a full-page display, use <strong>X = 12</strong>. You can also experiment with different numbers for X to suit your preference. X = 11 in the screenshot below.</li>
+</ol>
+<div class="cell" data-layout-align="center">
+<div class="cell-output-display">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://lehuynh.rbind.io/blog/tips-hugo-creative-portfolio-theme-fit-screen/hugo-creative-portfolio-theme-fit-full-page-result.png" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:100.0%" alt="tbd"></p>
+</figure>
+</div>
+</div>
+</div>
+</section>
+<section id="tips" class="level3">
+<h3 class="anchored" data-anchor-id="tips">Tips</h3>
+<p>If you can’t find a solution using common keyword searches, consider navigating to the theme’s GitHub repository page. Sometimes, the answer can be found by exploring the theme’s <code>Issues</code> page.</p>
+
+
+</section>
+
+ ]]></description>
+  <category>tips</category>
+  <guid>https://lehuynh.rbind.io/blog/tips-hugo-creative-portfolio-theme-fit-screen/</guid>
+  <pubDate>Fri, 09 Oct 2026 03:30:02 GMT</pubDate>
+  <media:content url="https://lehuynh.rbind.io/static/img/tips.png" medium="image" type="image/png" height="100" width="144"/>
+</item>
+<item>
+  <title>Customizing snippets for crafting efficiency</title>
+  <link>https://lehuynh.rbind.io/blog/tips-r-snippet/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>Code snippets are pre-defined pieces of code that can be inserted into a script or console with a simple shortcut. RStudio provides built-in snippets for general functionalities. Moreover, you have the flexibility to modify these built-in snippets or introduce your personalized user-defined snippets. These customizable components cater to individual needs, greatly enhancing coding efficiency.</p>
+<figure class="figure">
+<img class="center-block figure-img" width="950px" src="https://lehuynh.rbind.io/blog/tips-r-snippet/built-in-snippet-sapply.png">
+<figcaption align="center">
+An example of RStudio built-in nippet
+</figcaption>
+</figure>
+<section id="create-your-own-snippets" class="level3">
+<h3 class="anchored" data-anchor-id="create-your-own-snippets">Create your own snippets</h3>
+<p>(or edit built-in snippets if you want)</p>
+<ol type="1">
+<li><strong>Tools</strong> → <strong>Global Options</strong> → <strong>Code</strong> → <strong>Edit Snippets</strong></li>
+</ol>
+<p><img class="center-block" width="950px" src="https://lehuynh.rbind.io/blog/tips-r-snippet/snippet-guide-01.png"></p>
+<ol start="2" type="1">
+<li>In the <strong>Edit Snippets</strong> window, select a language → edit built-in snippets or add your own snippets → <strong>Save</strong>.<br>
+<em>Note:</em> Define custom snippets using the <code>snippet</code> keyword and indent the contents using the <strong>Tab</strong> key.</li>
+</ol>
+<p><img class="center-block" width="950px" src="https://lehuynh.rbind.io/blog/tips-r-snippet/snippet-guide-02.png"></p>
+<ol start="3" type="1">
+<li>Try out your snippet and get a beer. Cheers!</li>
+</ol>
+<p><img class="center-block" width="950px" src="https://lehuynh.rbind.io/blog/tips-r-snippet/snippet-guide-03.png"></p>
+</section>
+<section id="further-information" class="level3">
+<h3 class="anchored" data-anchor-id="further-information">Further information</h3>
+<p><a href="https://rstudio.github.io/rstudio-extensions/rstudio_snippets.html" target="_blank">RStudio Snippets</a></p>
+
+
+</section>
+
+ ]]></description>
+  <category>tips</category>
+  <category>R</category>
+  <guid>https://lehuynh.rbind.io/blog/tips-r-snippet/</guid>
+  <pubDate>Fri, 09 Oct 2026 03:30:02 GMT</pubDate>
+  <media:content url="https://lehuynh.rbind.io/static/img/tips.png" medium="image" type="image/png" height="100" width="144"/>
+</item>
+</channel>
+</rss>
