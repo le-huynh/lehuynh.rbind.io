@@ -2,6 +2,9 @@ project:
   type: website
   output-dir: docs
 
+execute:
+  freeze: auto
+
 website:
   title: "Le-Huynh Truc-Ly"
   site-url: https://lehuynh.rbind.io/
@@ -21,7 +24,7 @@ website:
         text: blog
       - href: publications.qmd
         text: publications
-      - href: Le-Huynh_Truc-Ly_CV.pdf
+      - href: Le-Huynh_Truc-Ly_CV1.pdf
         text: CV
         target: _blank
       - text: get in touch!

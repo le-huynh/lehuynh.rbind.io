@@ -10,7 +10,7 @@
 <atom:link href="https://lehuynh.rbind.io/projects.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.10.18</generator>
-<lastBuildDate>Fri, 09 Oct 2026 04:56:58 GMT</lastBuildDate>
+<lastBuildDate>Sat, 10 Oct 2026 17:17:32 GMT</lastBuildDate>
 <item>
   <title>Climate and Health in Virginia</title>
   <link>https://lehuynh.rbind.io/project/proj_chva/</link>
@@ -72,7 +72,7 @@ Climate-health studies often rely on data from a single high-quality weather sta
 
  ]]></description>
   <guid>https://lehuynh.rbind.io/project/proj_chva/</guid>
-  <pubDate>Fri, 09 Oct 2026 04:56:58 GMT</pubDate>
+  <pubDate>Sat, 10 Oct 2026 17:17:32 GMT</pubDate>
   <media:content url="https://lehuynh.rbind.io/project/proj_chva/va_health_region.png" medium="image" type="image/png" height="82" width="144"/>
 </item>
 <item>
@@ -104,7 +104,7 @@ Climate-health studies often rely on data from a single high-quality weather sta
 
  ]]></description>
   <guid>https://lehuynh.rbind.io/project/proj_greenspace/</guid>
-  <pubDate>Fri, 09 Oct 2026 04:56:58 GMT</pubDate>
+  <pubDate>Sat, 10 Oct 2026 17:17:32 GMT</pubDate>
   <media:content url="https://lehuynh.rbind.io/project/proj_greenspace/ric_msa.png" medium="image" type="image/png" height="82" width="144"/>
 </item>
 <item>
@@ -140,7 +140,7 @@ The trajectory of global biodiversity governance, culminating in the 2022 Kunmin
 
  ]]></description>
   <guid>https://lehuynh.rbind.io/project/proj_kmgbf_01/</guid>
-  <pubDate>Fri, 09 Oct 2026 04:56:58 GMT</pubDate>
+  <pubDate>Sat, 10 Oct 2026 17:17:32 GMT</pubDate>
   <media:content url="https://lehuynh.rbind.io/project/proj_kmgbf_01/fig_02.png" medium="image" type="image/png" height="77" width="144"/>
 </item>
 <item>
@@ -185,7 +185,7 @@ Neuropsychiatric systemic lupus erythematosus (NPSLE) varies in presentation and
 
  ]]></description>
   <guid>https://lehuynh.rbind.io/project/proj_npsle/</guid>
-  <pubDate>Fri, 09 Oct 2026 04:56:58 GMT</pubDate>
+  <pubDate>Sat, 10 Oct 2026 17:17:32 GMT</pubDate>
   <media:content url="https://lehuynh.rbind.io/project/proj_npsle/proj_npsle_cutoff.png" medium="image" type="image/png" height="144" width="144"/>
 </item>
 <item>
@@ -216,7 +216,7 @@ Neuropsychiatric systemic lupus erythematosus (NPSLE) varies in presentation and
 
  ]]></description>
   <guid>https://lehuynh.rbind.io/project/proj_cyano/</guid>
-  <pubDate>Fri, 09 Oct 2026 04:56:58 GMT</pubDate>
+  <pubDate>Sat, 10 Oct 2026 17:17:32 GMT</pubDate>
   <media:content url="https://lehuynh.rbind.io/project/proj_cyano/proj_cyano_who.png" medium="image" type="image/png" height="121" width="144"/>
 </item>
 <item>
@@ -260,7 +260,7 @@ Neuropsychiatric systemic lupus erythematosus (NPSLE) varies in presentation and
 
  ]]></description>
   <guid>https://lehuynh.rbind.io/project/proj_aml/</guid>
-  <pubDate>Fri, 09 Oct 2026 04:56:58 GMT</pubDate>
+  <pubDate>Sat, 10 Oct 2026 17:17:32 GMT</pubDate>
   <media:content url="https://lehuynh.rbind.io/project/proj_aml/proj_aml_volcano.png" medium="image" type="image/png" height="154" width="144"/>
 </item>
 <item>
@@ -294,7 +294,7 @@ Neuropsychiatric systemic lupus erythematosus (NPSLE) varies in presentation and
 
  ]]></description>
   <guid>https://lehuynh.rbind.io/project/cheatsheet_vi_translation/</guid>
-  <pubDate>Fri, 09 Oct 2026 04:56:59 GMT</pubDate>
+  <pubDate>Sat, 10 Oct 2026 17:17:32 GMT</pubDate>
   <media:content url="https://lehuynh.rbind.io/project/cheatsheet_vi_translation/proj_cheatsheet_cover.png" medium="image" type="image/png" height="83" width="144"/>
 </item>
 </channel>
