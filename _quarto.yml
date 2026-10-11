@@ -1,6 +1,6 @@
 project:
   type: website
-  output-dir: docs
+  output-dir: _site
 
 execute:
   freeze: auto
@@ -24,7 +24,7 @@ website:
         text: blog
       - href: publications.qmd
         text: publications
-      - href: Le-Huynh_Truc-Ly_CV.pdf
+      - href: Le-Huynh_Truc-Ly_CV1.pdf
         text: CV
         target: _blank
       - text: get in touch!
