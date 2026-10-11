@@ -24,13 +24,16 @@ order: 2
 <br>
 
 → <a href="https://github.com/yen-kim/omics4drug" target="_blank">GitHub repository</a>  
-→ <a href="https://yen-kim.github.io/omics4drug/" target="_blank">Package Website</a>  
+→ <a href="https://yen-kim.github.io/omics4drug/" target="_blank">Package documentation</a>  
 
 
 `omics4drug` is designed for the analysis and visualization of 
 Mass Spectrometry-based phosphoproteomics and proteomics data in drug discovery. 
 The package provides functions for quality control, normalization, 
 pathway enrichment analysis, and drug-target prediction.  
+
+
+> Nguyen, T. K. Y., & **Le-Huynh, T.-L.** (2025). omics4drug: An R toolkit to facilitate Mass Spectrometry-based Proteomics and Phosphoproteomics data analysis (Version v0.1.0) [Computer software]. Zenodo. [https://doi.org/10.5281/zenodo.17117624](https://doi.org/10.5281/zenodo.17117624){target=_blank}
 
 <hr>
 

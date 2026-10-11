@@ -33,8 +33,7 @@ toc: true
 
 - [**omics4drug**](https://yen-kim.github.io/omics4drug/){target=_blank}: R toolkit for mass spectrometry-based proteomics and phosphoproteomics analysis, supporting quality control, normalization, pathway enrichment, and drug-target prediction. Nguyen, T.-K. Y., **Le-Huynh, T.-L.** (2025) (Version v0.1.0) [Computer software]. Zenodo. [https://doi.org/10.5281/zenodo.17117624](https://doi.org/10.5281/zenodo.17117624){target=_blank}
 
-- **cellviability**: R toolkit for analysis of cell-based drug screening experiments, including dose-response modelling, IC50
-estimation, and drug combination synergy analysis. Nguyen, Y. T.-K., **Le-Huynh, T.-L.**, Theilgaard-Monch, K. (2026) (Version v0.1.3) [Computer software]. Zenodo. [https://doi.org/10.5281/zenodo.21820265](https://doi.org/10.5281/zenodo.21820265){target=_blank}
+- [**cellviability**](https://github.com/yen-kim/cellviability){target=_blank}: R toolkit for analysis of cell-based drug screening experiments, including dose-response modelling, IC50 estimation, and drug combination synergy analysis. Nguyen, Y. T.-K., **Le-Huynh, T.-L.**, Theilgaard-Monch, K. (2026) (Version v0.1.3) [Computer software]. Zenodo. [https://doi.org/10.5281/zenodo.21820265](https://doi.org/10.5281/zenodo.21820265){target=_blank}
 
 - [**lehuynh**](https://le-huynh.github.io/lehuynh/){target=_blank}: Personal R package, including functions and templates for exploratory analysis, Bayesian modeling, and crafting scientific manuscripts. **Le-Huynh, T.-L.**. (2023) (Version v0.1.1) [Computer software]. Zenodo. [https://doi.org/10.5281/zenodo.11522849](https://doi.org/10.5281/zenodo.11522849){target=_blank} | [CRAN](https://cran.r-project.org/web/packages/lehuynh/index.html){target=_blank}
 

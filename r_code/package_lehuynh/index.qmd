@@ -28,12 +28,14 @@ order: 2
 <br>
 
 → <a href="https://github.com/le-huynh/lehuynh" target="_blank">GitHub repository</a>  
-→ <a href="https://le-huynh.github.io/lehuynh/" target="_blank"> Package Website</a>  
+→ <a href="https://le-huynh.github.io/lehuynh/" target="_blank"> Package documentation</a>  
 
 `lehuynh` is an R package comprising a collection of miscellaneous R functions and templates that I find particularly useful. 
 This package includes:  
 - **Functions** pertaining to graphics, data importation, data transformation, and general utilities.  
 - **Templates** designed for Exploratory Analysis, Bayesian modeling, and crafting scientific manuscripts.  
+
+> Le-Huynh Truc-Ly. (2024). lehuynh: Personal R package (Version v0.1.1) [Computer software]. Zenodo. [https://doi.org/10.5281/zenodo.11522849](https://doi.org/10.5281/zenodo.11522849){target=_blank}
 
 <hr>
 
@@ -58,6 +60,8 @@ devtools::install_github("le-huynh/lehuynh")
 Additionally, this package is accessible for download via Zenodo at <a href="https://doi.org/10.5281/zenodo.11522849" target="_blank">10.5281/zenodo.11522849</a>.
 
 ### Functions
+See [Package index](https://le-huynh.github.io/lehuynh/reference/index.html){target=_blank} for full list of functions.  
+
 - `ggsave_elsevier( )`: Save a plot using `ggplot2::ggsave( )`. Plot size follows instructions of Elsevier journals
 - `import_data( )`: Imports multiple data files of the same format from a specified directory. The output is a named list of imported objects
 - `import_excel( )`: Imports an Excel file with multiple sheets and returns a named list of imported sheets

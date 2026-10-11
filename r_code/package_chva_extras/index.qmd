@@ -24,12 +24,15 @@ order: 1
 <br>
 
 → <a href="https://github.com/le-huynh/chva.extras" target="_blank">GitHub repository</a>  
-→ <a href="https://le-huynh.github.io/chva.extras/" target="_blank">Package Website</a>  
+→ <a href="https://le-huynh.github.io/chva.extras/" target="_blank">Package documentation</a>  
 
 
 `chva.extras` is a collection of supplementary functions and templates designed 
 to support climate and health research in Virginia, including tools for data manipulation, 
 analysis, and visualization, tailored to handle large datasets.  
+
+
+> **Le-Huynh, T.-L.**, Davis, R. E., Novicoff, W. M., & DeGuzman, P. B. (2025). chva.extras: Supplementary Tools for Climate and Health Research in VA (Version v0.1.0) [Computer software]. Zenodo. [https://doi.org/10.5281/zenodo.14910967](https://doi.org/10.5281/zenodo.14910967){target=_blank}
 
 <hr>
 
