@@ -10,7 +10,7 @@
 <atom:link href="https://lehuynh.rbind.io/projects.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.10.18</generator>
-<lastBuildDate>Sun, 11 Oct 2026 18:56:53 GMT</lastBuildDate>
+<lastBuildDate>Sun, 11 Oct 2026 19:54:41 GMT</lastBuildDate>
 <item>
   <title>Climate and Health in Virginia</title>
   <link>https://lehuynh.rbind.io/project/proj_chva/</link>
@@ -21,14 +21,13 @@
 
 <p><em>Funded by Environmental Institute, University of Virginia, US</em></p>
 <p><code>2024 - Present</code></p>
-<p><strong>Topics</strong>: Geospatial health modelling · Environmental epidemiology · Climate health · Health equity · Big data analytics · Meta-analysis · Case time-series · Distributed lag non-linear models (DLNMs)</p>
-<p><strong>My contributions</strong>: Conceptualization · Data curation · Data analysis · Data visualization · Cartography · Software development · Code management · Writing scientific manuscripts</p>
+<p><strong>Topics</strong>: Geospatial health modelling · Environmental epidemiology · Climate health · Health equity · Big data analytics · Meta-analysis · Case time-series design · Distributed lag non-linear models (DLNMs)</p>
+<p><strong>My contributions</strong>: Conceptualization · Data curation · Data analysis · Data visualization · Cartography · Software development · Code management · Scientific writing</p>
 <p><strong>Skills used</strong>: Geospatial health modeling · Big data analytics · R · RMarkdown · Git · GNU Make · R package development</p>
 <p>→ <a href="https://environment.virginia.edu/our-work/climate-related-diseases-and-disparities" target="_blank">Official project page</a></p>
 <hr>
-<p>This project investigates the climate-related diseases and disparities in Virginia.</p>
-<p>It focuses on whether health impacts associated with climate conditions differ by age, race, ethnicity, and gender. The study integrates de-identified patient-level health data from the All-Payer Claims Database (<a href="https://www.vhi.org/apcd/">APCD</a>) with climate and air quality data, as well as social and demographic information from the CDC Social Vulnerability Index, state agencies, and U.S. Census datasets.</p>
-<p>By bringing these data sources together, the project aims to identify factors that contribute to unequal health risks during climate-related events such as extreme heat. The findings will support more targeted public health communication and improve understanding of how different populations respond to climate extremes, helping inform preparedness for future climate-related risks.</p>
+<p>How do climate-related health risks vary across populations, and what factors contribute to these disparities? This project examines relationships between climate conditions, health outcomes, and social vulnerability across Virginia, focusing on identifying populations that may be disproportionately affected by climate extremes.</p>
+<p>The research integrates de-identified patient-level health records from the <a href="https://www.vhi.org/apcd/" target="_blank">Virginia All-Payer Claims Database (APCD)</a> with climate and air quality data, demographic information, and social vulnerability indicators. My work includes data integration, geospatial analysis, statistical modeling, and the development of reproducible analytical workflows using R. The project aims to identify factors associated with unequal health risks during climate-related events, such as extreme heat, and to generate evidence that can inform targeted public health communication, climate adaptation strategies, and more equitable public health preparedness.</p>
 <section id="outcomes" class="level1">
 <h1>Outcomes</h1>
 <section id="publications" class="level2">
@@ -72,7 +71,7 @@ Climate-health studies often rely on data from a single high-quality weather sta
 
  ]]></description>
   <guid>https://lehuynh.rbind.io/project/proj_chva/</guid>
-  <pubDate>Sun, 11 Oct 2026 18:56:53 GMT</pubDate>
+  <pubDate>Sun, 11 Oct 2026 19:54:41 GMT</pubDate>
   <media:content url="https://lehuynh.rbind.io/project/proj_chva/va_health_region.png" medium="image" type="image/png" height="82" width="144"/>
 </item>
 <item>
@@ -85,8 +84,8 @@ Climate-health studies often rely on data from a single high-quality weather sta
 
 <p><em>Funded by Environmental Institute, University of Virginia, USA</em></p>
 <p><code>2025 - Present</code></p>
-<p><strong>Topics</strong>: Geospatial health modelling · Environmental epidemiology · Climate health · Health equity · Big data analytics · Meta-analysis · Case time-series · Distributed lag non-linear models (DLNMs)</p>
-<p><strong>My contributions</strong>: Conceptualization · Data curation · Data analysis · Data visualization · Cartography · Software development · Code management · Writing scientific manuscripts</p>
+<p><strong>Topics</strong>: Geospatial health modelling · Environmental epidemiology · Climate health · Health equity · Big data analytics · Meta-analysis · Case time-series design · Distributed lag non-linear models (DLNMs)</p>
+<p><strong>My contributions</strong>: Conceptualization · Data curation · Data analysis · Data visualization · Cartography · Software development · Code management · Scientific writing</p>
 <p><strong>Skills used</strong>: Geospatial health modeling · Big data analytics · R · RMarkdown · Git · GNU Make · R package development</p>
 <p>→ <a href="https://environment.virginia.edu/Green-Mitigate-Heat" target="_blank">Official project page</a></p>
 <hr>
@@ -104,7 +103,7 @@ Climate-health studies often rely on data from a single high-quality weather sta
 
  ]]></description>
   <guid>https://lehuynh.rbind.io/project/proj_greenspace/</guid>
-  <pubDate>Sun, 11 Oct 2026 18:56:53 GMT</pubDate>
+  <pubDate>Sun, 11 Oct 2026 19:54:41 GMT</pubDate>
   <media:content url="https://lehuynh.rbind.io/project/proj_greenspace/ric_msa.png" medium="image" type="image/png" height="82" width="144"/>
 </item>
 <item>
@@ -140,7 +139,7 @@ The trajectory of global biodiversity governance, culminating in the 2022 Kunmin
 
  ]]></description>
   <guid>https://lehuynh.rbind.io/project/proj_kmgbf_01/</guid>
-  <pubDate>Sun, 11 Oct 2026 18:56:53 GMT</pubDate>
+  <pubDate>Sun, 11 Oct 2026 19:54:41 GMT</pubDate>
   <media:content url="https://lehuynh.rbind.io/project/proj_kmgbf_01/fig_02.png" medium="image" type="image/png" height="77" width="144"/>
 </item>
 <item>
@@ -185,7 +184,7 @@ Neuropsychiatric systemic lupus erythematosus (NPSLE) varies in presentation and
 
  ]]></description>
   <guid>https://lehuynh.rbind.io/project/proj_npsle/</guid>
-  <pubDate>Sun, 11 Oct 2026 18:56:53 GMT</pubDate>
+  <pubDate>Sun, 11 Oct 2026 19:54:41 GMT</pubDate>
   <media:content url="https://lehuynh.rbind.io/project/proj_npsle/proj_npsle_cutoff.png" medium="image" type="image/png" height="144" width="144"/>
 </item>
 <item>
@@ -199,7 +198,7 @@ Neuropsychiatric systemic lupus erythematosus (NPSLE) varies in presentation and
 <p><em>Funded by Planetary Health Research Fellowship (Nagasaki University, Japan) and Grant-in-Aid for Scientific Research (Japan Society for the Promotion of Science)</em></p>
 <p><code>2020 - 2023</code></p>
 <p><strong>Topics</strong>: Bayesian statistical modelling · Harmful cyanobacteria · Zero-inflated data · Environmental science</p>
-<p><strong>My contributions</strong>: Conceptualization · Data collection · Data curation · Data analysis · Data visualization · Cartography · Software development · Code management · Writing and editing article manuscripts</p>
+<p><strong>My contributions</strong>: Conceptualization · Data collection · Data curation · Data analysis · Data visualization · Cartography · Software development · Code management · Scientific writing</p>
 <p><strong>Skills used</strong>: Bayesian modeling · R · JAGS · Stan · RMarkdown · LaTeX · Git · GNU Make · Parallel computing</p>
 <p>→ <a href="https://github.com/le-huynh/cyano_bayesian_model" target="_blank">GitHub repository</a><br>
 → <a href="https://nagasaki-u.repo.nii.ac.jp/records/28153" target="_blank">Dissertation</a></p>
@@ -216,7 +215,7 @@ Neuropsychiatric systemic lupus erythematosus (NPSLE) varies in presentation and
 
  ]]></description>
   <guid>https://lehuynh.rbind.io/project/proj_cyano/</guid>
-  <pubDate>Sun, 11 Oct 2026 18:56:53 GMT</pubDate>
+  <pubDate>Sun, 11 Oct 2026 19:54:41 GMT</pubDate>
   <media:content url="https://lehuynh.rbind.io/project/proj_cyano/proj_cyano_who.png" medium="image" type="image/png" height="121" width="144"/>
 </item>
 <item>
@@ -260,7 +259,7 @@ Neuropsychiatric systemic lupus erythematosus (NPSLE) varies in presentation and
 
  ]]></description>
   <guid>https://lehuynh.rbind.io/project/proj_aml/</guid>
-  <pubDate>Sun, 11 Oct 2026 18:56:53 GMT</pubDate>
+  <pubDate>Sun, 11 Oct 2026 19:54:41 GMT</pubDate>
   <media:content url="https://lehuynh.rbind.io/project/proj_aml/proj_aml_volcano.png" medium="image" type="image/png" height="154" width="144"/>
 </item>
 <item>
@@ -294,7 +293,7 @@ Neuropsychiatric systemic lupus erythematosus (NPSLE) varies in presentation and
 
  ]]></description>
   <guid>https://lehuynh.rbind.io/project/cheatsheet_vi_translation/</guid>
-  <pubDate>Sun, 11 Oct 2026 18:56:53 GMT</pubDate>
+  <pubDate>Sun, 11 Oct 2026 19:54:41 GMT</pubDate>
   <media:content url="https://lehuynh.rbind.io/project/cheatsheet_vi_translation/proj_cheatsheet_cover.png" medium="image" type="image/png" height="83" width="144"/>
 </item>
 </channel>

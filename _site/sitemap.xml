@@ -17,88 +17,92 @@
     <lastmod>2024-04-13T00:42:50.292Z</lastmod>
   </url>
   <url>
-    <loc>https://lehuynh.rbind.io/r_code/package_lehuynh/index.html</loc>
-    <lastmod>2026-10-11T18:39:12.694Z</lastmod>
-  </url>
-  <url>
-    <loc>https://lehuynh.rbind.io/project/proj_npsle/index.html</loc>
-    <lastmod>2026-10-09T03:13:36.799Z</lastmod>
-  </url>
-  <url>
-    <loc>https://lehuynh.rbind.io/project/proj_greenspace/index.html</loc>
-    <lastmod>2026-10-09T03:12:30.918Z</lastmod>
-  </url>
-  <url>
-    <loc>https://lehuynh.rbind.io/project/proj_chva/index.html</loc>
-    <lastmod>2026-10-09T03:12:34.663Z</lastmod>
-  </url>
-  <url>
-    <loc>https://lehuynh.rbind.io/project/cheatsheet_vi_translation/index.html</loc>
-    <lastmod>2026-10-09T01:03:49.728Z</lastmod>
-  </url>
-  <url>
-    <loc>https://lehuynh.rbind.io/blog/viz-map-elevation/index.html</loc>
-    <lastmod>2026-10-06T19:17:06.277Z</lastmod>
-  </url>
-  <url>
-    <loc>https://lehuynh.rbind.io/blog/tips-hugo-creative-portfolio-theme-fit-screen/index.html</loc>
-    <lastmod>2026-10-06T19:01:16.699Z</lastmod>
-  </url>
-  <url>
-    <loc>https://lehuynh.rbind.io/blog/tips-Rpackage-undefined-global-variables.html</loc>
-    <lastmod>2026-10-06T15:51:26.920Z</lastmod>
-  </url>
-  <url>
-    <loc>https://lehuynh.rbind.io/blog/tips-api-stadia-map.html</loc>
-    <lastmod>2026-10-06T15:47:07.441Z</lastmod>
-  </url>
-  <url>
-    <loc>https://lehuynh.rbind.io/blog/error-csv-parse-error.html</loc>
-    <lastmod>2026-10-06T15:08:24.221Z</lastmod>
-  </url>
-  <url>
-    <loc>https://lehuynh.rbind.io/blog/bookmark-collection.html</loc>
-    <lastmod>2026-10-07T21:58:36.758Z</lastmod>
-  </url>
-  <url>
-    <loc>https://lehuynh.rbind.io/blog/lehuynh_CRAN.html</loc>
-    <lastmod>2026-10-06T15:23:49.571Z</lastmod>
-  </url>
-  <url>
-    <loc>https://lehuynh.rbind.io/blog/tips-download-specific-folder-github.html</loc>
-    <lastmod>2026-10-06T15:45:48.674Z</lastmod>
-  </url>
-  <url>
-    <loc>https://lehuynh.rbind.io/blog/warning-imports-not-declared-from-package-name.html</loc>
-    <lastmod>2026-10-06T15:53:52.940Z</lastmod>
-  </url>
-  <url>
-    <loc>https://lehuynh.rbind.io/blog/tips-r-snippet/index.html</loc>
-    <lastmod>2026-10-06T19:09:57.732Z</lastmod>
-  </url>
-  <url>
-    <loc>https://lehuynh.rbind.io/blog/viz-map-terrain/index.html</loc>
-    <lastmod>2026-10-06T19:25:51.406Z</lastmod>
-  </url>
-  <url>
-    <loc>https://lehuynh.rbind.io/project/proj_aml/index.html</loc>
-    <lastmod>2026-10-09T01:40:50.853Z</lastmod>
-  </url>
-  <url>
-    <loc>https://lehuynh.rbind.io/project/proj_cyano/index.html</loc>
-    <lastmod>2026-10-09T02:39:57.676Z</lastmod>
-  </url>
-  <url>
-    <loc>https://lehuynh.rbind.io/project/proj_kmgbf_01/index.html</loc>
-    <lastmod>2026-10-09T02:54:26.878Z</lastmod>
+    <loc>https://lehuynh.rbind.io/r_code/package_omics4drug/index.html</loc>
+    <lastmod>2026-10-11T18:31:34.192Z</lastmod>
   </url>
   <url>
     <loc>https://lehuynh.rbind.io/r_code/package_chva_extras/index.html</loc>
     <lastmod>2026-10-11T18:31:43.256Z</lastmod>
   </url>
   <url>
-    <loc>https://lehuynh.rbind.io/r_code/package_omics4drug/index.html</loc>
-    <lastmod>2026-10-11T18:31:34.192Z</lastmod>
+    <loc>https://lehuynh.rbind.io/project/proj_kmgbf_01/index.html</loc>
+    <lastmod>2026-10-09T02:54:26.878Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lehuynh.rbind.io/project/proj_cyano/index.html</loc>
+    <lastmod>2026-10-11T19:41:22.705Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lehuynh.rbind.io/project/proj_aml/index.html</loc>
+    <lastmod>2026-10-09T01:40:50.853Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lehuynh.rbind.io/blog/viz-map-terrain/index.html</loc>
+    <lastmod>2026-10-06T19:25:51.406Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lehuynh.rbind.io/blog/tips-r-snippet/index.html</loc>
+    <lastmod>2026-10-06T19:09:57.732Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lehuynh.rbind.io/blog/warning-imports-not-declared-from-package-name.html</loc>
+    <lastmod>2026-10-06T15:53:52.940Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lehuynh.rbind.io/blog/tips-download-specific-folder-github.html</loc>
+    <lastmod>2026-10-06T15:45:48.674Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lehuynh.rbind.io/blog/lehuynh_CRAN.html</loc>
+    <lastmod>2026-10-06T15:23:49.571Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lehuynh.rbind.io/blog/bookmark-collection.html</loc>
+    <lastmod>2026-10-07T21:58:36.758Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lehuynh.rbind.io/blog/error-csv-parse-error.html</loc>
+    <lastmod>2026-10-06T15:08:24.221Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lehuynh.rbind.io/blog/tips-api-stadia-map.html</loc>
+    <lastmod>2026-10-06T15:47:07.441Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lehuynh.rbind.io/blog/tips-Rpackage-undefined-global-variables.html</loc>
+    <lastmod>2026-10-06T15:51:26.920Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lehuynh.rbind.io/blog/tips-hugo-creative-portfolio-theme-fit-screen/index.html</loc>
+    <lastmod>2026-10-06T19:01:16.699Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lehuynh.rbind.io/blog/viz-map-elevation/index.html</loc>
+    <lastmod>2026-10-06T19:17:06.277Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lehuynh.rbind.io/project/cheatsheet_vi_translation/index.html</loc>
+    <lastmod>2026-10-09T01:03:49.728Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lehuynh.rbind.io/project/proj_chva/index.html</loc>
+    <lastmod>2026-10-11T19:54:03.340Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lehuynh.rbind.io/project/proj_greenspace/index.html</loc>
+    <lastmod>2026-10-11T19:41:50.921Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lehuynh.rbind.io/project/proj_npsle/index.html</loc>
+    <lastmod>2026-10-09T03:13:36.799Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lehuynh.rbind.io/r_code/package_lehuynh/index.html</loc>
+    <lastmod>2026-10-11T18:39:12.694Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lehuynh.rbind.io/r_code/package_cellviability/index.html</loc>
+    <lastmod>2026-10-11T18:55:23.421Z</lastmod>
   </url>
   <url>
     <loc>https://lehuynh.rbind.io/top/proj_outline.html</loc>
@@ -111,9 +115,5 @@
   <url>
     <loc>https://lehuynh.rbind.io/publications.html</loc>
     <lastmod>2026-10-11T18:59:27.239Z</lastmod>
-  </url>
-  <url>
-    <loc>https://lehuynh.rbind.io/r_code/package_cellviability/index.html</loc>
-    <lastmod>2026-10-11T18:55:23.421Z</lastmod>
   </url>
 </urlset>

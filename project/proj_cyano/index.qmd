@@ -11,7 +11,7 @@ order: 2
 
 **Topics**: Bayesian statistical modelling · Harmful cyanobacteria · Zero-inflated data · Environmental science  
 
-**My contributions**: Conceptualization · Data collection · Data curation · Data analysis · Data visualization · Cartography · Software development · Code management · Writing and editing article manuscripts  
+**My contributions**: Conceptualization · Data collection · Data curation · Data analysis · Data visualization · Cartography · Software development · Code management · Scientific writing  
 
 **Skills used**: Bayesian modeling · R · JAGS · Stan · RMarkdown · LaTeX · Git · GNU Make · Parallel computing  
 

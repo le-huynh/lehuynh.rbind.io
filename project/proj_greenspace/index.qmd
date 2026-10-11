@@ -9,9 +9,9 @@ order: 1
 
 `2025 - Present`
 
-**Topics**: Geospatial health modelling · Environmental epidemiology · Climate health · Health equity · Big data analytics · Meta-analysis · Case time-series · Distributed lag non-linear models (DLNMs)  
+**Topics**: Geospatial health modelling · Environmental epidemiology · Climate health · Health equity · Big data analytics · Meta-analysis · Case time-series design · Distributed lag non-linear models (DLNMs)  
 
-**My contributions**: Conceptualization · Data curation · Data analysis · Data visualization · Cartography · Software development · Code management · Writing scientific manuscripts  
+**My contributions**: Conceptualization · Data curation · Data analysis · Data visualization · Cartography · Software development · Code management · Scientific writing  
 
 **Skills used**: Geospatial health modeling · Big data analytics · R · RMarkdown · Git · GNU Make · R package development  
 

@@ -24,7 +24,7 @@ website:
         text: blog
       - href: publications.qmd
         text: publications
-      - href: Le-Huynh_Truc-Ly_CV1.pdf
+      - href: Le-Huynh_Truc-Ly_CV.pdf
         text: CV
         target: _blank
       - text: get in touch!
