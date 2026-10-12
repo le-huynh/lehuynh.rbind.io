@@ -1,6 +1,6 @@
 ---
 title: "cellviability"
-description: "An R toolkit for analyzing cell viability experiments"
+description: "Analyzing cell viability experiments"
 image: ../../r_code/package_cellviability/cellviability.png
 order: 2
 ---

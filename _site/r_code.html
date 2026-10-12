@@ -78,7 +78,7 @@ ul.task-list li input[type="checkbox"] {
 <script>
 
   window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-listing .list');
+    const listingTargetEl = window.document.querySelector('#listing-r-packages .list');
     if (!listingTargetEl) {
       // No listing discovered, do not attach.
       return; 
@@ -91,7 +91,7 @@ ul.task-list li input[type="checkbox"] {
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
+    window['quarto-listings']['listing-r-packages'] = new List('listing-r-packages', options);
 
     if (window['quarto-listing-loaded']) {
       window['quarto-listing-loaded']();
@@ -219,14 +219,14 @@ window.Quarto = {
 <!-- content -->
 <header id="title-block-header" class="quarto-title-block default page-columns page-full">
   <div class="quarto-title-banner page-columns page-full">
-    <div class="quarto-title column-page">
+    <div class="quarto-title column-page-left">
       <h1 class="title">R-code</h1>
             <p class="subtitle lead">r packages, reproducible code, and other little things i’ve built</p>
                       </div>
   </div>
     
   
-  <div class="quarto-title-meta column-page">
+  <div class="quarto-title-meta column-page-left">
 
       
     
@@ -237,21 +237,26 @@ window.Quarto = {
   </header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
-        
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#r-packages" id="toc-r-packages" class="nav-link active" data-scroll-target="#r-packages">R packages</a></li>
+  <li><a href="#reproducible-research-code" id="toc-reproducible-research-code" class="nav-link" data-scroll-target="#reproducible-research-code">Reproducible research code</a></li>
+  </ul>
+</nav>
     </div>
 <!-- main -->
-<main class="content quarto-banner-title-block column-page" id="quarto-document-content">
+<main class="content quarto-banner-title-block column-page-left" id="quarto-document-content">
 
 
 
 
 
-
-
-
-
-<div class="quarto-listing quarto-listing-container-grid" id="listing-listing">
+<section id="r-packages" class="level2">
+<h2 class="anchored" data-anchor-id="r-packages">R packages</h2>
+<div id="listing-r-packages" class="quarto-listing quarto-listing-container-grid">
 <div class="list grid quarto-listing-cols-3">
 <div class="g-col-1" data-index="0" data-listing-file-modified-sort="1791743503256" data-listing-reading-time-sort="2" data-listing-word-count-sort="279">
 <a href="./r_code/package_chva_extras/index.html" class="quarto-grid-link">
@@ -295,7 +300,7 @@ lehuynh
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="2" data-listing-file-modified-sort="1791743494192" data-listing-reading-time-sort="2" data-listing-word-count-sort="368">
+<div class="g-col-1" data-index="2" data-listing-file-modified-sort="1791847117964" data-listing-reading-time-sort="2" data-listing-word-count-sort="368">
 <a href="./r_code/package_omics4drug/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -306,7 +311,7 @@ lehuynh
 omics4drug
 </h5>
 <div class="card-text listing-description delink">
-<p>An R toolkit for Mass Spectrometry-based Proteomics and Phosphoproteomics data analysis</p>
+<p>Mass Spectrometry-based Proteomics and Phosphoproteomics data analysis</p>
 </div>
 <div class="card-attribution card-text-small start">
 <div class="listing-author">
@@ -316,7 +321,7 @@ omics4drug
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="3" data-listing-file-modified-sort="1791744923421" data-listing-reading-time-sort="1" data-listing-word-count-sort="163">
+<div class="g-col-1" data-index="3" data-listing-file-modified-sort="1791847092841" data-listing-reading-time-sort="1" data-listing-word-count-sort="163">
 <a href="./r_code/package_cellviability/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -327,7 +332,7 @@ omics4drug
 cellviability
 </h5>
 <div class="card-text listing-description delink">
-<p>An R toolkit for analyzing cell viability experiments</p>
+<p>Analyzing cell viability experiments</p>
 </div>
 <div class="card-attribution card-text-small start">
 <div class="listing-author">
@@ -339,7 +344,22 @@ cellviability
 </div>
 </div>
 <div class="listing-no-matching d-none">No matching items</div>
-</div></main> <!-- /main -->
+</div>
+</section>
+<section id="reproducible-research-code" class="level2">
+<h2 class="anchored" data-anchor-id="reproducible-research-code">Reproducible research code</h2>
+<ul>
+<li><p><strong>Le‑Huynh, T.‑L.</strong>, Novicoff, W. M., DeGuzman, P. B., Davis, R. E. (2026). Reproducible code for “Assessing the Importance of Spatial Scale in Climate-Health Models: the Effect of Temperature on Emergency Department Visits in Richmond, Virginia” (Version v1.0.0) [Computer software]. Zenodo. <a href="https://doi.org/10.5281/zenodo.20076108" target="_blank">https://doi.org/10.5281/zenodo.20076108</a> <a href="https://github.com/le-huynh/2026_LeHuynh_multiscale" class="btn" target="_blank"><i class="bi bi-github"></i> GitHub repo</a></p></li>
+<li><p>Nguyen, V. T. H., <strong>Le‑Huynh, T.‑L.</strong>. (2026). Reproducible code for “Local-global linkages in biodiversity governance: The regime complex of the convention on biological diversity agenda for nature pledges” (Version v1.0.0) [Computer software]. Zenodo. <a href="https://doi.org/10.5281/zenodo.20495877" target="_blank">https://doi.org/10.5281/zenodo.20495877</a> <a href="https://github.com/le-huynh/2025_VanNguyen_ESP" class="btn" target="_blank"><i class="bi bi-github"></i> GitHub repo</a></p></li>
+<li><p><strong>Le-Huynh, T.-L.</strong>. (2023). Bayesian predictive model for toxic cyanobacteria occurrence from eutrophication and climate data (Version v1.0.0) [Computer software]. Zenodo. <a href="https://doi.org/10.5281/zenodo.20472023" target="_blank">https://doi.org/10.5281/zenodo.20472023</a> <a href="https://github.com/le-huynh/2023_LeHuynh_cyano_bayesian_model" class="btn" target="_blank"><i class="bi bi-github"></i> GitHub repo</a></p></li>
+<li><p><strong>Le-Huynh, T.-L.</strong>. (2023). Reproducible code for “Measurement of anti-suprabasin antibodies, multiple cytokines and chemokines as potential predictive biomarkers for neuropsychiatric systemic lupus erythematosus” (Version v1.0.0) [Computer software]. GitHub. <a href="https://github.com/le-huynh/2022_Hoang_SBSN_ClinImmunol" class="btn" target="_blank"><i class="bi bi-github"></i> GitHub repo</a></p></li>
+</ul>
+
+
+
+</section>
+
+</main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     const icon = "";

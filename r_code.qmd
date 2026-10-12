@@ -2,6 +2,7 @@
 title: "R-code"
 subtitle: "r packages, reproducible code, and other little things i’ve built" 
 listing:
+  id: r-packages
   contents: r_code
   image-height: auto
   feed: true
@@ -15,3 +16,18 @@ listing:
 page-layout: full
 title-block-banner: true
 ---
+
+## R packages
+
+::: {#r-packages}
+:::
+
+
+## Reproducible research code
+- **Le‑Huynh, T.‑L.**, Novicoff, W. M., DeGuzman, P. B., Davis, R. E. (2026). Reproducible code for "Assessing the Importance of Spatial Scale in Climate-Health Models: the Effect of Temperature on Emergency Department Visits in Richmond, Virginia" (Version v1.0.0) [Computer software]. Zenodo. [https://doi.org/10.5281/zenodo.20076108](https://doi.org/10.5281/zenodo.20076108){target=_blank} [<i class="bi bi-github"></i> GitHub repo](https://github.com/le-huynh/2026_LeHuynh_multiscale){.btn target=_blank}
+
+- Nguyen, V. T. H., **Le‑Huynh, T.‑L.**. (2026). Reproducible code for "Local-global linkages in biodiversity governance: The regime complex of the convention on biological diversity agenda for nature pledges" (Version v1.0.0) [Computer software]. Zenodo. [https://doi.org/10.5281/zenodo.20495877](https://doi.org/10.5281/zenodo.20495877){target=_blank} [<i class="bi bi-github"></i> GitHub repo](https://github.com/le-huynh/2025_VanNguyen_ESP){.btn target=_blank}
+
+- **Le-Huynh, T.-L.**. (2023). Bayesian predictive model for toxic cyanobacteria occurrence from eutrophication and climate data (Version v1.0.0) [Computer software]. Zenodo. [https://doi.org/10.5281/zenodo.20472023](https://doi.org/10.5281/zenodo.20472023){target=_blank} [<i class="bi bi-github"></i> GitHub repo](https://github.com/le-huynh/2023_LeHuynh_cyano_bayesian_model){.btn target=_blank}
+
+- **Le-Huynh, T.-L.**. (2023). Reproducible code for "Measurement of anti-suprabasin antibodies, multiple cytokines and chemokines as potential predictive biomarkers for neuropsychiatric systemic lupus erythematosus" (Version v1.0.0) [Computer software]. GitHub. [<i class="bi bi-github"></i> GitHub repo](https://github.com/le-huynh/2022_Hoang_SBSN_ClinImmunol){.btn target=_blank}

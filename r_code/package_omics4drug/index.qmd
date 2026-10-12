@@ -1,6 +1,6 @@
 ---
 title: "omics4drug"
-description: "An R toolkit for Mass Spectrometry-based Proteomics and Phosphoproteomics data analysis"
+description: "Mass Spectrometry-based Proteomics and Phosphoproteomics data analysis"
 image: ../../r_code/package_omics4drug/omics4drug.png
 order: 2
 ---

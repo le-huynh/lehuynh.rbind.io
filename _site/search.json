@@ -4,7 +4,21 @@
     "href": "r_code.html",
     "title": "R-code",
     "section": "",
-    "text": "chva.extras\n\n\nSupplementary Tools for Climate and Health Research in Virginia\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nlehuynh\n\n\nPersonal R package\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nomics4drug\n\n\nAn R toolkit for Mass Spectrometry-based Proteomics and Phosphoproteomics data analysis\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\ncellviability\n\n\nAn R toolkit for analyzing cell viability experiments\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Supplementary Tools for Climate and Health Research in Virginia\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPersonal R package\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMass Spectrometry-based Proteomics and Phosphoproteomics data analysis\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAnalyzing cell viability experiments\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "r_code.html#r-packages",
+    "href": "r_code.html#r-packages",
+    "title": "R-code",
+    "section": "",
+    "text": "Supplementary Tools for Climate and Health Research in Virginia\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPersonal R package\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMass Spectrometry-based Proteomics and Phosphoproteomics data analysis\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAnalyzing cell viability experiments\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "r_code.html#reproducible-research-code",
+    "href": "r_code.html#reproducible-research-code",
+    "title": "R-code",
+    "section": "Reproducible research code",
+    "text": "Reproducible research code\n\nLe‑Huynh, T.‑L., Novicoff, W. M., DeGuzman, P. B., Davis, R. E. (2026). Reproducible code for “Assessing the Importance of Spatial Scale in Climate-Health Models: the Effect of Temperature on Emergency Department Visits in Richmond, Virginia” (Version v1.0.0) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.20076108  GitHub repo\nNguyen, V. T. H., Le‑Huynh, T.‑L.. (2026). Reproducible code for “Local-global linkages in biodiversity governance: The regime complex of the convention on biological diversity agenda for nature pledges” (Version v1.0.0) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.20495877  GitHub repo\nLe-Huynh, T.-L.. (2023). Bayesian predictive model for toxic cyanobacteria occurrence from eutrophication and climate data (Version v1.0.0) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.20472023  GitHub repo\nLe-Huynh, T.-L.. (2023). Reproducible code for “Measurement of anti-suprabasin antibodies, multiple cytokines and chemokines as potential predictive biomarkers for neuropsychiatric systemic lupus erythematosus” (Version v1.0.0) [Computer software]. GitHub.  GitHub repo"
   },
   {
     "objectID": "projects.html",
