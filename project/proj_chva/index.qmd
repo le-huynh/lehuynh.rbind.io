@@ -9,11 +9,11 @@ order: 1
 
 `2024 - Present`
 
-**Topics**: Geospatial health modelling · Environmental epidemiology · Climate health · Health equity · Big data analytics · Meta-analysis · Case time-series design · Distributed lag non-linear models (DLNMs)  
+**Topics**: Environmental epidemiology · Climate health · Health equity  
 
 **My contributions**: Conceptualization · Data curation · Data analysis · Data visualization · Cartography · Software development · Code management · Scientific writing  
 
-**Skills used**: Geospatial health modeling · Big data analytics · R · RMarkdown · Git · GNU Make · R package development  
+**Skills used**: Geospatial health modeling · Case time-series design · Distributed lag non-linear models (DLNMs) · Meta-analysis · Big data analytics · R · RMarkdown · Git · GNU Make · R package development  
 
 
 → <a href="https://environment.virginia.edu/our-work/climate-related-diseases-and-disparities" target="_blank">Official project page</a>  
@@ -60,3 +60,7 @@ Explore the package at [https://le-huynh.github.io/chva.extras/](https://le-huyn
 - **Le‑Huynh, T.‑L.**, Davis, R. E., Novicoff, W. M., Enfield, K. B., Are Fireworks Associated with Respiratory Emergency Department Visits in Virginia? [Poster presentation], *2026 UVA Postdoctoral Research Symposium*, Charlottesville, Virginia, USA, April 2026.
 - Ha, J., Hosseini, P., Davis, R., **Le‑Huynh, T.‑L.**, Novicoff, W., Delaar, G., Yoo, J., & Sa. H., Urban green space and emergency department visits during heat waves [Oral presentation], *Council of Educators in Landscape Architecture*, Portland, Oregon, USA, March 2026.
 - **Le‑Huynh, T.‑L.**, Novicoff, W., DeGuzman, P., Davis, R., Exploring climate-health disparities in Virginia: Toward AI-driven solutions [Poster presentation], *Environmental Futures Forum 2025*, Charlottesville, Virginia, USA, October 2025.
+
+---
+
+[← Back to all projects](../../projects.qmd)

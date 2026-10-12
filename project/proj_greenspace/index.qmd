@@ -9,11 +9,11 @@ order: 1
 
 `2025 - Present`
 
-**Topics**: Geospatial health modelling · Environmental epidemiology · Climate health · Health equity · Big data analytics · Meta-analysis · Case time-series design · Distributed lag non-linear models (DLNMs)  
+**Topics**: Environmental epidemiology · Climate health · Health equity  
 
 **My contributions**: Conceptualization · Data curation · Data analysis · Data visualization · Cartography · Software development · Code management · Scientific writing  
 
-**Skills used**: Geospatial health modeling · Big data analytics · R · RMarkdown · Git · GNU Make · R package development  
+**Skills used**: Geospatial health modeling · Case time-series design · Distributed lag non-linear models (DLNMs) · Meta-analysis · Big data analytics · R · RMarkdown · Git · GNU Make · R package development  
 
 → <a href="https://environment.virginia.edu/Green-Mitigate-Heat" target="_blank">Official project page</a>  
 
@@ -31,3 +31,7 @@ By highlighting both vulnerable communities and the types of green spaces that o
 ## Presentations
 
 > Ha, J., Hosseini, P., Davis, R., **Le‑Huynh, T.‑L.**, Novicoff, W., Delaar, G., Yoo, J., & Sa. H., Urban green space and emergency department visits during heat waves [Oral presentation], *Council of Educators in Landscape Architecture*, Portland, Oregon, USA, March 2026.
+
+---
+
+[← Back to all projects](../../projects.qmd)

@@ -2,14 +2,14 @@
 #title: ""
 image: static/ly_cropped.jpg
 toc: false
+css: styles.scss
 about: 
   template: jolla
   image-shape: round
   image-width: 15em
 ---
 
-::: {#bio}
-::: {#landing-icons}
+
 <!-- Social section -->
 
 [<img align="center" alt="Email" style="margin-right: 5px;" src="https://img.shields.io/badge/Email-EA4335.svg?logo=gmail&logoColor=white" />](mailto:trucly.lehuynh@gmail.com)
@@ -27,23 +27,45 @@ href="https://github.com/le-huynh" target="_blank">
 </a>
 <a 
 href="https://lehuynh.rbind.io/Le-Huynh_Truc-Ly_CV.pdf" target="_blank">
-<img align="center" alt="Resume" style="margin-right: 5px;" src="https://img.shields.io/badge/Resume-%199900.svg?logo=files&logoColor=white" />
+<img align="center" alt="CV" style="margin-right: 5px;" src="https://img.shields.io/badge/CV-%199900.svg?logo=files&logoColor=white" />
 </a>
 <a 
 href="https://lehuynh.rbind.io/blog/" target="_blank">
 <img align="center" alt="Blog" src="https://img.shields.io/badge/Blog-FFA500?logo=rss&logoColor=white" />
 </a>
-:::
-
 
 # Hello! Xin Chào!
 
-I’m Le-Huynh Truc-Ly, an environmental health researcher who loves using data, statistics, and R to understand environmental exposures and their impacts on human health.
-I use R to automate research workflows, create cool visuals, and build open-source software because life’s too short for repetitive tasks, and science should be open.
-When I’m not hanging out with dataframes, I’m sketching, cooking, or finding creative ways to keep my hands busy.
-This site is a collection of my research, projects, random thoughts, and technical notes from my coding journey. 
+I’m Le-Huynh Truc-Ly, an environmental health researcher using data, statistics, and R to understand how environmental exposures impact human health. 
+I use R to build open-source tools, automate research workflows, and turn complex data into clear visuals because science should be open, and life is too short for repetitive tasks!  
+When I’m not hanging out with dataframes, you’ll find me sketching or cooking.
+This site is a home for my research, projects, random thoughts, and technical notes from my coding journey. 
 Most posts are personal notes to my future self, who I’m sure has forgotten many things.
-
 *P.S. Hey, future me! Debugging code again? Read this site before setting your computer on fire!*
 
+::: {.stat-grid}
+::: {.stat-card}
+[5+]{.stat-number}
+
+[countries worked & collaborated with across Asia, Europe, & US]{.stat-label}
 :::
+
+::: {.stat-card}
+[6+]{.stat-number}
+
+[years applying data science to environmental & health research]{.stat-label}
+:::
+
+::: {.stat-card}
+[7+]{.stat-number}
+
+[R packages & open reproducible research workflows]{.stat-label}
+:::
+
+::: {.stat-card}
+[8+]{.stat-number}
+
+[interdisciplinary research projects delivered]{.stat-label}
+:::
+:::
+

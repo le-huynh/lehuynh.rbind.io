@@ -38,3 +38,6 @@ Git & GitHub
 
 :::
 
+---
+
+[← Back to all projects](../../projects.qmd)

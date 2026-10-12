@@ -35,4 +35,6 @@ In the context of climate change, where harmful cyanobacterial blooms may occur 
 
 ![](cyano_figs.png)
 
+---
 
+[← Back to all projects](../../projects.qmd)

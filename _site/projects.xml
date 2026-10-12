@@ -10,7 +10,7 @@
 <atom:link href="https://lehuynh.rbind.io/projects.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.10.18</generator>
-<lastBuildDate>Sun, 11 Oct 2026 19:54:41 GMT</lastBuildDate>
+<lastBuildDate>Mon, 12 Oct 2026 23:01:57 GMT</lastBuildDate>
 <item>
   <title>Climate and Health in Virginia</title>
   <link>https://lehuynh.rbind.io/project/proj_chva/</link>
@@ -21,9 +21,9 @@
 
 <p><em>Funded by Environmental Institute, University of Virginia, US</em></p>
 <p><code>2024 - Present</code></p>
-<p><strong>Topics</strong>: Geospatial health modelling · Environmental epidemiology · Climate health · Health equity · Big data analytics · Meta-analysis · Case time-series design · Distributed lag non-linear models (DLNMs)</p>
+<p><strong>Topics</strong>: Environmental epidemiology · Climate health · Health equity</p>
 <p><strong>My contributions</strong>: Conceptualization · Data curation · Data analysis · Data visualization · Cartography · Software development · Code management · Scientific writing</p>
-<p><strong>Skills used</strong>: Geospatial health modeling · Big data analytics · R · RMarkdown · Git · GNU Make · R package development</p>
+<p><strong>Skills used</strong>: Geospatial health modeling · Case time-series design · Distributed lag non-linear models (DLNMs) · Meta-analysis · Big data analytics · R · RMarkdown · Git · GNU Make · R package development</p>
 <p>→ <a href="https://environment.virginia.edu/our-work/climate-related-diseases-and-disparities" target="_blank">Official project page</a></p>
 <hr>
 <p>How do climate-related health risks vary across populations, and what factors contribute to these disparities? This project examines relationships between climate conditions, health outcomes, and social vulnerability across Virginia, focusing on identifying populations that may be disproportionately affected by climate extremes.</p>
@@ -64,6 +64,8 @@ Climate-health studies often rely on data from a single high-quality weather sta
 <li>Ha, J., Hosseini, P., Davis, R., <strong>Le‑Huynh, T.‑L.</strong>, Novicoff, W., Delaar, G., Yoo, J., &amp; Sa. H., Urban green space and emergency department visits during heat waves [Oral presentation], <em>Council of Educators in Landscape Architecture</em>, Portland, Oregon, USA, March 2026.</li>
 <li><strong>Le‑Huynh, T.‑L.</strong>, Novicoff, W., DeGuzman, P., Davis, R., Exploring climate-health disparities in Virginia: Toward AI-driven solutions [Poster presentation], <em>Environmental Futures Forum 2025</em>, Charlottesville, Virginia, USA, October 2025.</li>
 </ul>
+<hr>
+<p><a href="../../projects.html">← Back to all projects</a></p>
 
 
 </section>
@@ -71,7 +73,7 @@ Climate-health studies often rely on data from a single high-quality weather sta
 
  ]]></description>
   <guid>https://lehuynh.rbind.io/project/proj_chva/</guid>
-  <pubDate>Sun, 11 Oct 2026 19:54:41 GMT</pubDate>
+  <pubDate>Mon, 12 Oct 2026 23:01:57 GMT</pubDate>
   <media:content url="https://lehuynh.rbind.io/project/proj_chva/va_health_region.png" medium="image" type="image/png" height="82" width="144"/>
 </item>
 <item>
@@ -84,9 +86,9 @@ Climate-health studies often rely on data from a single high-quality weather sta
 
 <p><em>Funded by Environmental Institute, University of Virginia, USA</em></p>
 <p><code>2025 - Present</code></p>
-<p><strong>Topics</strong>: Geospatial health modelling · Environmental epidemiology · Climate health · Health equity · Big data analytics · Meta-analysis · Case time-series design · Distributed lag non-linear models (DLNMs)</p>
+<p><strong>Topics</strong>: Environmental epidemiology · Climate health · Health equity</p>
 <p><strong>My contributions</strong>: Conceptualization · Data curation · Data analysis · Data visualization · Cartography · Software development · Code management · Scientific writing</p>
-<p><strong>Skills used</strong>: Geospatial health modeling · Big data analytics · R · RMarkdown · Git · GNU Make · R package development</p>
+<p><strong>Skills used</strong>: Geospatial health modeling · Case time-series design · Distributed lag non-linear models (DLNMs) · Meta-analysis · Big data analytics · R · RMarkdown · Git · GNU Make · R package development</p>
 <p>→ <a href="https://environment.virginia.edu/Green-Mitigate-Heat" target="_blank">Official project page</a></p>
 <hr>
 <p>This project investigates whether urban green spaces can reduce health risks during periods of extreme heat. The study analyzes emergency department visits in Richmond MSA, Virginia to assess whether residents of greener neighborhoods experience fewer heat-related health emergencies.</p>
@@ -97,13 +99,15 @@ Climate-health studies often rely on data from a single high-quality weather sta
 <blockquote class="blockquote">
 <p>Ha, J., Hosseini, P., Davis, R., <strong>Le‑Huynh, T.‑L.</strong>, Novicoff, W., Delaar, G., Yoo, J., &amp; Sa. H., Urban green space and emergency department visits during heat waves [Oral presentation], <em>Council of Educators in Landscape Architecture</em>, Portland, Oregon, USA, March 2026.</p>
 </blockquote>
+<hr>
+<p><a href="../../projects.html">← Back to all projects</a></p>
 
 
 </section>
 
  ]]></description>
   <guid>https://lehuynh.rbind.io/project/proj_greenspace/</guid>
-  <pubDate>Sun, 11 Oct 2026 19:54:41 GMT</pubDate>
+  <pubDate>Mon, 12 Oct 2026 23:01:57 GMT</pubDate>
   <media:content url="https://lehuynh.rbind.io/project/proj_greenspace/ric_msa.png" medium="image" type="image/png" height="82" width="144"/>
 </item>
 <item>
@@ -133,13 +137,15 @@ The trajectory of global biodiversity governance, culminating in the 2022 Kunmin
 <p>Nguyen, V. T. H., <strong>Le‑Huynh, T.‑L.</strong>. (2026). Reproducible code for “Local-global linkages in biodiversity governance: The regime complex of the convention on biological diversity agenda for nature pledges” (Version v1.0.0) [Computer software]. Zenodo. <a href="https://doi.org/10.5281/zenodo.20495877" target="_blank">https://doi.org/10.5281/zenodo.20495877</a></p>
 </blockquote>
 <p><img src="https://lehuynh.rbind.io/project/proj_kmgbf_01/fig_full.png" class="img-fluid"></p>
+<hr>
+<p><a href="../../projects.html">← Back to all projects</a></p>
 
 
 </section>
 
  ]]></description>
   <guid>https://lehuynh.rbind.io/project/proj_kmgbf_01/</guid>
-  <pubDate>Sun, 11 Oct 2026 19:54:41 GMT</pubDate>
+  <pubDate>Mon, 12 Oct 2026 23:01:57 GMT</pubDate>
   <media:content url="https://lehuynh.rbind.io/project/proj_kmgbf_01/fig_02.png" medium="image" type="image/png" height="77" width="144"/>
 </item>
 <item>
@@ -178,13 +184,15 @@ Neuropsychiatric systemic lupus erythematosus (NPSLE) varies in presentation and
 </blockquote>
 <p><br></p>
 <p><img src="https://lehuynh.rbind.io/project/proj_npsle/proj_npsle_full.png" class="img-fluid"></p>
+<hr>
+<p><a href="../../projects.html">← Back to all projects</a></p>
 
 
 </section>
 
  ]]></description>
   <guid>https://lehuynh.rbind.io/project/proj_npsle/</guid>
-  <pubDate>Sun, 11 Oct 2026 19:54:41 GMT</pubDate>
+  <pubDate>Mon, 12 Oct 2026 23:01:57 GMT</pubDate>
   <media:content url="https://lehuynh.rbind.io/project/proj_npsle/proj_npsle_cutoff.png" medium="image" type="image/png" height="144" width="144"/>
 </item>
 <item>
@@ -210,12 +218,14 @@ Neuropsychiatric systemic lupus erythematosus (NPSLE) varies in presentation and
 </blockquote>
 <p><br></p>
 <p><img src="https://lehuynh.rbind.io/project/proj_cyano/cyano_figs.png" class="img-fluid"></p>
+<hr>
+<p><a href="../../projects.html">← Back to all projects</a></p>
 
 
 
  ]]></description>
   <guid>https://lehuynh.rbind.io/project/proj_cyano/</guid>
-  <pubDate>Sun, 11 Oct 2026 19:54:41 GMT</pubDate>
+  <pubDate>Mon, 12 Oct 2026 23:01:57 GMT</pubDate>
   <media:content url="https://lehuynh.rbind.io/project/proj_cyano/proj_cyano_who.png" medium="image" type="image/png" height="121" width="144"/>
 </item>
 <item>
@@ -252,6 +262,8 @@ Neuropsychiatric systemic lupus erythematosus (NPSLE) varies in presentation and
 </blockquote>
 <p><a href="https://github.com/yen-kim/cellviability" target="_blank"><code>cellviability</code></a> is designed to facilitate the analysis of cell-based drug screening experiments. The package provides functions for fitting dose-response models, estimating IC50 values, visualizing regression curves, comparing treatment groups, and evaluating drug synergy using commonly used pharmacological models.</p>
 <p>Explore the package at <a href="https://github.com/yen-kim/cellviability" target="_blank">https://github.com/yen-kim/cellviability</a></p>
+<hr>
+<p><a href="../../projects.html">← Back to all projects</a></p>
 
 
 </section>
@@ -259,7 +271,7 @@ Neuropsychiatric systemic lupus erythematosus (NPSLE) varies in presentation and
 
  ]]></description>
   <guid>https://lehuynh.rbind.io/project/proj_aml/</guid>
-  <pubDate>Sun, 11 Oct 2026 19:54:41 GMT</pubDate>
+  <pubDate>Mon, 12 Oct 2026 23:01:57 GMT</pubDate>
   <media:content url="https://lehuynh.rbind.io/project/proj_aml/proj_aml_volcano.png" medium="image" type="image/png" height="154" width="144"/>
 </item>
 <item>
@@ -288,12 +300,14 @@ Neuropsychiatric systemic lupus erythematosus (NPSLE) varies in presentation and
 <p>Git &amp; GitHub</p>
 </div>
 </div>
+<hr>
+<p><a href="../../projects.html">← Back to all projects</a></p>
 
 
 
  ]]></description>
   <guid>https://lehuynh.rbind.io/project/cheatsheet_vi_translation/</guid>
-  <pubDate>Sun, 11 Oct 2026 19:54:41 GMT</pubDate>
+  <pubDate>Mon, 12 Oct 2026 23:01:57 GMT</pubDate>
   <media:content url="https://lehuynh.rbind.io/project/cheatsheet_vi_translation/proj_cheatsheet_cover.png" medium="image" type="image/png" height="83" width="144"/>
 </item>
 </channel>

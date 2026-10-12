@@ -48,4 +48,6 @@ The package provides functions for fitting dose-response models, estimating IC50
 
 Explore the package at [https://github.com/yen-kim/cellviability](https://github.com/yen-kim/cellviability){target="_blank"}
 
+---
 
+[← Back to all projects](../../projects.qmd)

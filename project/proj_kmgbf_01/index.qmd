@@ -43,3 +43,6 @@ Strengthening alignment across levels and empowering middle-out actors are essen
 
 ![](fig_full.png)
 
+---
+
+[← Back to all projects](../../projects.qmd)

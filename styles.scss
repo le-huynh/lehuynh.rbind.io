@@ -232,7 +232,8 @@ a {
 // listing card styling
 .card {
   background-color: $cream;
-  //border-radius: 5.25em;
+  //border-top: 4px solid #C87557; /* Accent top border */
+  border-radius: 12px;
 }
 
 .callout.callout-style-default .callout-body {
@@ -301,3 +302,54 @@ div.quarto-about-jolla .about-link {
   background-color: $terracotta;
   color: white;
 }
+
+
+
+/* Container for the 4 stat cards in a single row */
+.stat-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+  gap: 1.25rem;
+  margin: 2.5rem 0;
+}
+
+/* Styling for each stat card */
+.stat-card {
+  background-color: #ffffff;
+  border-radius: 12px;
+  padding: 1.5rem 1rem;
+  text-align: center;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.05);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border-top: 4px solid #C87557; /* Accent top border */
+}
+
+/* Large stat numbers */
+.stat-number {
+  font-size: 2.2rem;
+  font-weight: 700;
+  color: #C87557; /* Adjust accent color if needed */
+  display: block;
+  line-height: 1.2;
+  margin-bottom: 0.5rem;
+}
+
+/* Label text under numbers */
+.stat-label {
+  font-size: 0.85rem;
+  color: #4a4a4a;
+  display: block;
+  line-height: 1.3;
+}
+
+/* Container for the 3 service cards */
+.service-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 1.5rem;
+  margin: 2rem 0;
+}
+
