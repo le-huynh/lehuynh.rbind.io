@@ -43,3 +43,6 @@ knitr::include_graphics("hugo-creative-portfolio-theme-fit-full-page-result.png"
 If you can't find a solution using common keyword searches, consider navigating to the theme's GitHub repository page. 
 Sometimes, the answer can be found by exploring the theme's `Issues` page.
 
+---
+
+[← Back to all blog posts](../../blog.qmd)

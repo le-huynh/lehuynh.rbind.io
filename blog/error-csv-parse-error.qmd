@@ -53,9 +53,6 @@ but since my RAM could not handle the entire file at once, this was a pretty goo
 ### References
 <a href="https://umatter.github.io/BigData/" target="_blank">Big Data Analytics</a> by Ulrich Matter.
 
+---
 
-
-
-
-
-
+[← Back to all blog posts](/blog.qmd)

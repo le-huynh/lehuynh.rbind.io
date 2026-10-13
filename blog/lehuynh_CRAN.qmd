@@ -86,3 +86,6 @@ For a comprehensive overview of the package's functions, check out the package w
 
 Now, my beer is ready. Cheers!
 
+---
+
+[← Back to all blog posts](/blog.qmd)

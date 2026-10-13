@@ -92,3 +92,6 @@ for full list of functions.
 For a comprehensive overview of the package's functions, check out the package website at  
 <a href="https://yen-kim.github.io/omics4drug/" target="_blank">yen-kim.github.io/omics4drug</a>.
 
+---
+
+[← Back to all R packages](../../r_code.qmd)

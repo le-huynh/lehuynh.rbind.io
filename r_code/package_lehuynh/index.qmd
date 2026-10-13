@@ -82,3 +82,6 @@ See [Package index](https://le-huynh.github.io/lehuynh/reference/index.html){tar
 For a comprehensive overview of the package's functions, check out the package website at  
 <a href="https://le-huynh.github.io/lehuynh/" target="_blank">le-huynh.github.io/lehuynh/</a>.
 
+---
+
+[← Back to all R packages](../../r_code.qmd)

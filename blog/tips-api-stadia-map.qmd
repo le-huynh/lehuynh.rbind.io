@@ -40,3 +40,6 @@ Avoid sharing it online, like in a public GitHub repository, or storing it in a 
 - [Authentication](https://docs.stadiamaps.com/authentication/#api-keys){target=_blank} by Stadia Maps Documentation
 - [*ggmap* Documentation](https://www.rdocumentation.org/packages/ggmap/versions/4.0.0){target=_blank}
 
+---
+
+[← Back to all blog posts](/blog.qmd)

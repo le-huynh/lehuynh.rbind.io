@@ -29,4 +29,6 @@ usethis::use_package("dplyr")
 [Dependencies: What does your package need?](https://r-pkgs.org/description.html#dependencies){target=_blank}, 
 _R Packages_ by  Hadley Wickham and Jenny Bryan  
 
+---
 
+[← Back to all blog posts](/blog.qmd)

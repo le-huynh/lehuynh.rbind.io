@@ -10,7 +10,7 @@
 <atom:link href="https://lehuynh.rbind.io/blog.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.10.18</generator>
-<lastBuildDate>Mon, 12 Oct 2026 23:34:18 GMT</lastBuildDate>
+<lastBuildDate>Tue, 13 Oct 2026 23:37:28 GMT</lastBuildDate>
 <item>
   <title>bookmark collection</title>
   <link>https://lehuynh.rbind.io/blog/bookmark-collection.html</link>
@@ -86,6 +86,8 @@
 </li>
 <li>download <a href="https://www.zotero.org/styles" target="_blank">csl file</a></li>
 </ul>
+<hr>
+<p><a href="../blog.html">← Back to all blog posts</a></p>
 
 
 </section>
@@ -93,7 +95,7 @@
  ]]></description>
   <category>other</category>
   <guid>https://lehuynh.rbind.io/blog/bookmark-collection.html</guid>
-  <pubDate>Mon, 12 Oct 2026 23:34:18 GMT</pubDate>
+  <pubDate>Tue, 13 Oct 2026 23:37:28 GMT</pubDate>
   <media:content url="https://lehuynh.rbind.io/static/img/source.png" medium="image" type="image/png" height="149" width="144"/>
 </item>
 <item>
@@ -173,6 +175,8 @@ font-style: inherit;">"le-huynh/lehuynh"</span>)</span></code></pre></div></div>
 <p>For a comprehensive overview of the package’s functions, check out the package website at<br>
 <a href="https://le-huynh.github.io/lehuynh/" target="_blank">le-huynh.github.io/lehuynh/</a>.</p>
 <p>Now, my beer is ready. Cheers!</p>
+<hr>
+<p><a href="../blog.html">← Back to all blog posts</a></p>
 
 
 </section>
@@ -181,7 +185,7 @@ font-style: inherit;">"le-huynh/lehuynh"</span>)</span></code></pre></div></div>
   <category>R-package</category>
   <category>R</category>
   <guid>https://lehuynh.rbind.io/blog/lehuynh_CRAN.html</guid>
-  <pubDate>Mon, 12 Oct 2026 23:34:18 GMT</pubDate>
+  <pubDate>Tue, 13 Oct 2026 23:37:28 GMT</pubDate>
   <media:content url="https://lehuynh.rbind.io/r_code/package_lehuynh/lehuynh.png" medium="image" type="image/png" height="167" width="144"/>
 </item>
 <item>
@@ -931,6 +935,8 @@ font-style: inherit;">"white"</span>)</span></code></pre></div></div>
 <li><a href="https://rstudio-pubs-static.s3.amazonaws.com/577022_ffcecfafa86f4d239b8ea00b452b1d45.html" target="_blank">Using R for Everything: 使用 ggplot2 绘制 RasterLayer 地图</a> by Chen Han</li>
 <li><a href="https://rpubs.com/ials2un/elevationdata" target="_blank">Elevation data in R</a> by Ivan Lizarazo</li>
 </ul>
+<hr>
+<p><a href="../../blog.html">← Back to all blog posts</a></p>
 
 
 </section>
@@ -939,7 +945,7 @@ font-style: inherit;">"white"</span>)</span></code></pre></div></div>
   <category>R</category>
   <category>map</category>
   <guid>https://lehuynh.rbind.io/blog/viz-map-elevation/</guid>
-  <pubDate>Mon, 12 Oct 2026 23:34:18 GMT</pubDate>
+  <pubDate>Tue, 13 Oct 2026 23:37:28 GMT</pubDate>
   <media:content url="https://lehuynh.rbind.io/blog/viz-map-elevation/map_elevation_shadow.png" medium="image" type="image/png" height="158" width="144"/>
 </item>
 <item>
@@ -1381,6 +1387,8 @@ font-style: inherit;">"black"</span>)</span></code></pre></div></div>
 <li><a href="https://docs.stadiamaps.com/themes/" target="_blank">Map Style Library</a> by Stadia Maps Documentation</li>
 <li><a href="https://www.rdocumentation.org/packages/ggmap/versions/4.0.0" target="_blank"><em>ggmap</em> Documentation</a></li>
 </ul>
+<hr>
+<p><a href="../../blog.html">← Back to all blog posts</a></p>
 
 
 </section>
@@ -1389,8 +1397,529 @@ font-style: inherit;">"black"</span>)</span></code></pre></div></div>
   <category>R</category>
   <category>map</category>
   <guid>https://lehuynh.rbind.io/blog/viz-map-terrain/</guid>
-  <pubDate>Mon, 12 Oct 2026 23:34:18 GMT</pubDate>
+  <pubDate>Tue, 13 Oct 2026 23:37:28 GMT</pubDate>
   <media:content url="https://lehuynh.rbind.io/blog/viz-map-terrain/map-terrain-shadow.png" medium="image" type="image/png" height="151" width="144"/>
+</item>
+<item>
+  <title>Adding a scale bar and north arrow to ggplot2 maps</title>
+  <link>https://lehuynh.rbind.io/blog/tips-arrow_scale_bar_in_map.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>One of the easiest way to add standard spatial reference elements, like a scale bar and a north arrow, into a map in R is with the <a href="https://paleolimbot.github.io/ggspatial/" target="_blank"><code>ggspatial</code></a> package.</p>
+<p>Here is a quick example mapping the Commonwealth of Virginia, US.</p>
+<section id="step-1-load-the-required-packages" class="level3">
+<h3 class="anchored" data-anchor-id="step-1-load-the-required-packages">Step 1: Load the required packages</h3>
+<div class="cell">
+<div class="code-copy-outer-scaffold"><div class="sourceCode cell-code" id="cb1" style="background: #f1f3f5;"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb1-1"><span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">library</span>(ggplot2)</span>
+<span id="cb1-2"><span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">library</span>(ggspatial)</span></code></pre></div></div>
+</div>
+</section>
+<section id="step-2-plot-the-commonwealth-of-virginia-us" class="level3">
+<h3 class="anchored" data-anchor-id="step-2-plot-the-commonwealth-of-virginia-us">Step 2: Plot the Commonwealth of Virginia, US</h3>
+<div class="cell">
+<div class="code-copy-outer-scaffold"><div class="sourceCode cell-code" id="cb2" style="background: #f1f3f5;"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb2-1">map <span class="ot" style="color: #003B4F;
+background-color: null;
+font-style: inherit;">&lt;-</span> <span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">ggplot</span>() <span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">+</span></span>
+<span id="cb2-2">        <span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">geom_sf</span>() <span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">+</span></span>
+<span id="cb2-3">        <span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;"># sets geographic coordinates (Lat/Long in degrees)</span></span>
+<span id="cb2-4">        <span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">coord_sf</span>(<span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">crs =</span> <span class="dv" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">4326</span>) <span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">+</span></span>
+<span id="cb2-5">        <span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">borders</span>(<span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"county"</span>, <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">regions =</span> <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"Virginia"</span>, <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">colour =</span> <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"deepskyblue2"</span>) <span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">+</span></span>
+<span id="cb2-6">        <span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">labs</span>(<span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">title =</span> <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"Virginia, United States</span><span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">\n</span><span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"</span>) <span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">+</span></span>
+<span id="cb2-7">        <span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">theme_void</span>() <span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">+</span></span>
+<span id="cb2-8">        <span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">theme</span>(<span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">plot.title =</span> <span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">element_text</span>(<span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">hjust =</span> <span class="fl" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">0.5</span>))</span>
+<span id="cb2-9">map</span></code></pre></div></div>
+<div class="cell-output-display">
+<div>
+<figure class="figure">
+<p><img src="https://lehuynh.rbind.io/blog/tips-arrow_scale_bar_in_map_files/figure-html/unnamed-chunk-2-1.png" class="img-fluid figure-img" width="672"></p>
+</figure>
+</div>
+</div>
+</div>
+</section>
+<section id="step-3-add-a-scale-bar" class="level3">
+<h3 class="anchored" data-anchor-id="step-3-add-a-scale-bar">Step 3: Add a scale bar</h3>
+<p>We can add a scale bar using <code>annotation_scale()</code> function from <strong>ggspatial</strong> package.</p>
+<p>Here are a few key arguments for customizing the scale bar:</p>
+<ul>
+<li><code>location</code>: where to place the scale bar (“bl” for bottom-left, “tr” for top-right, “tl” for top-left, or “br” for bottom-right).</li>
+<li><code>style</code>: visual style of the bar, such as “ticks” or “bar”.</li>
+<li><code>unit_category</code>: specify measurement units using “metric” or “imperial”.</li>
+</ul>
+<p><em>Run <code>?ggspatial::annotation_scale</code> in the R console for full parameter details.</em></p>
+<div class="cell">
+<div class="code-copy-outer-scaffold"><div class="sourceCode cell-code" id="cb3" style="background: #f1f3f5;"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb3-1"><span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;"># --- Option 1: Metric scale bar (bottom-left) ---</span></span>
+<span id="cb3-2">map <span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">+</span></span>
+<span id="cb3-3">  ggspatial<span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">::</span><span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">annotation_scale</span>(</span>
+<span id="cb3-4">    <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">location =</span> <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"bl"</span>,           <span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;"># position: bottom-left</span></span>
+<span id="cb3-5">    <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">width_hint =</span> <span class="fl" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">0.2</span>,          <span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;"># proportion of the plot area the scalebar should occupy (20%)</span></span>
+<span id="cb3-6">    <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">unit_category =</span> <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"metric"</span>,  <span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;"># units: "metric" (km/m)</span></span>
+<span id="cb3-7">    <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">style =</span> <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"ticks"</span>,           <span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;"># visual style: "ticks"</span></span>
+<span id="cb3-8">    <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">pad_x =</span> <span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">unit</span>(<span class="fl" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">0.85</span>, <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"cm"</span>),  <span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;"># horizontal padding from the map border</span></span>
+<span id="cb3-9">    <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">pad_y =</span> <span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">unit</span>(<span class="fl" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">0.1</span>, <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"cm"</span>),   <span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;"># vertical padding from the map border</span></span>
+<span id="cb3-10">    <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">line_col =</span> <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"grey30"</span>,       <span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;"># color of the scale line and tick marks</span></span>
+<span id="cb3-11">    <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">text_cex =</span> <span class="fl" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">0.6</span>             <span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;"># text size</span></span>
+<span id="cb3-12">  )</span></code></pre></div></div>
+<div class="cell-output-display">
+<div>
+<figure class="figure">
+<p><img src="https://lehuynh.rbind.io/blog/tips-arrow_scale_bar_in_map_files/figure-html/unnamed-chunk-3-1.png" class="img-fluid figure-img" width="672"></p>
+</figure>
+</div>
+</div>
+<div class="code-copy-outer-scaffold"><div class="sourceCode cell-code" id="cb4" style="background: #f1f3f5;"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb4-1"><span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;"># --- Option 2: Imperial scale bar (bottom-right) ---</span></span>
+<span id="cb4-2">map <span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">+</span></span>
+<span id="cb4-3">  ggspatial<span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">::</span><span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">annotation_scale</span>(</span>
+<span id="cb4-4">    <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">location =</span> <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"br"</span>,           <span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;"># position: bottom-right</span></span>
+<span id="cb4-5">    <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">width_hint =</span> <span class="fl" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">0.3</span>,          <span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;"># proportion of the plot area the scalebar should occupy (30%)</span></span>
+<span id="cb4-6">    <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">unit_category =</span> <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"imperial"</span>,<span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;"># units: "imperial" (mi/ft)</span></span>
+<span id="cb4-7">    <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">style =</span> <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"bar"</span>,             <span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;"># visual style: solid "bar"</span></span>
+<span id="cb4-8">    <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">pad_x =</span> <span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">unit</span>(<span class="fl" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">0.85</span>, <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"cm"</span>),  <span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;"># horizontal padding from the map border</span></span>
+<span id="cb4-9">    <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">pad_y =</span> <span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">unit</span>(<span class="dv" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">0</span>, <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"cm"</span>),     <span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;"># vertical padding from the map border</span></span>
+<span id="cb4-10">    <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">bar_cols =</span> <span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">c</span>(<span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"#BD6E53"</span>, <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"white"</span>), <span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;"># bar color</span></span>
+<span id="cb4-11">    <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">line_col =</span> <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"#BD6E53"</span>,      <span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;"># line color</span></span>
+<span id="cb4-12">    <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">text_col =</span> <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"#BD6E53"</span>,      <span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;"># text color</span></span>
+<span id="cb4-13">    <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">text_cex =</span> <span class="fl" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">0.9</span>             <span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;"># text size</span></span>
+<span id="cb4-14">  )</span></code></pre></div></div>
+<div class="cell-output-display">
+<div>
+<figure class="figure">
+<p><img src="https://lehuynh.rbind.io/blog/tips-arrow_scale_bar_in_map_files/figure-html/unnamed-chunk-3-2.png" class="img-fluid figure-img" width="672"></p>
+</figure>
+</div>
+</div>
+</div>
+</section>
+<section id="step-4-add-a-north-arrow" class="level3">
+<h3 class="anchored" data-anchor-id="step-4-add-a-north-arrow">Step 4: Add a north arrow</h3>
+<p>A scale bar tells the readers <em>how far</em>, but a north arrow tells them <em>which way</em>. We can easily add one using <code>ggspatial::annotation_north_arrow()</code>.</p>
+<p>Here are the main arguments to customize the north arrow:</p>
+<ul>
+<li><code>location</code>: where to place the arrow (“bl” for bottom-left, “tr” for top-right, “tl” for top-left, or “br” for bottom-right).</li>
+<li><code>which_north</code>: sets grid north (“grid”) vs.&nbsp;true geographic north (“true”)</li>
+<li><code>style</code>: chooses the visual design of the arrow. Options include:
+<ul>
+<li><em>north_arrow_fancy_orienteering</em> (a classic, detailed compass rose)</li>
+<li><em>north_arrow_orienteering</em> (a clean, standard compass needle)</li>
+<li><em>north_arrow_minimal</em> (a simple, sleek “N” with an arrow)</li>
+<li><em>north_arrow_nautical</em> (a classic nautical compass rose with multi-directional points)</li>
+</ul></li>
+</ul>
+<p><em>Run <code>?ggspatial::annotation_north_arrow</code> in the R console to explore additional styling features like colors and text parameters.</em></p>
+<div class="cell">
+<div class="code-copy-outer-scaffold"><div class="sourceCode cell-code" id="cb5" style="background: #f1f3f5;"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb5-1"><span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;"># --- Option 1: Fancy orienteering (top-right) ---</span></span>
+<span id="cb5-2">map <span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">+</span></span>
+<span id="cb5-3">  ggspatial<span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">::</span><span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">annotation_north_arrow</span>(</span>
+<span id="cb5-4">    <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">location =</span> <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"tr"</span>,                                      <span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;"># position: top-right</span></span>
+<span id="cb5-5">    <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">which_north =</span> <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"true"</span>,                                 <span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;"># align to true geographic north</span></span>
+<span id="cb5-6">    <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">height =</span> <span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">unit</span>(<span class="fl" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">0.95</span>, <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"cm"</span>),                            <span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;"># height of the symbol</span></span>
+<span id="cb5-7">    <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">width =</span> <span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">unit</span>(<span class="fl" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">0.95</span>, <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"cm"</span>),                             <span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;"># width of the symbol</span></span>
+<span id="cb5-8">    <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">pad_x =</span> <span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">unit</span>(<span class="fl" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">0.5</span>, <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"cm"</span>),                              <span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;"># horizontal spacing from right border</span></span>
+<span id="cb5-9">    <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">pad_y =</span> <span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">unit</span>(<span class="fl" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">0.5</span>, <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"cm"</span>),                              <span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;"># vertical spacing from top border</span></span>
+<span id="cb5-10">    <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">style =</span> ggspatial<span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">::</span>north_arrow_fancy_orienteering     <span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;"># detailed compass rose</span></span>
+<span id="cb5-11">  )</span></code></pre></div></div>
+<div class="cell-output-display">
+<div>
+<figure class="figure">
+<p><img src="https://lehuynh.rbind.io/blog/tips-arrow_scale_bar_in_map_files/figure-html/unnamed-chunk-4-1.png" class="img-fluid figure-img" width="672"></p>
+</figure>
+</div>
+</div>
+<div class="code-copy-outer-scaffold"><div class="sourceCode cell-code" id="cb6" style="background: #f1f3f5;"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb6-1"><span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;"># --- Option 2: Minimal style (bottom-left) ---</span></span>
+<span id="cb6-2">map <span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">+</span></span>
+<span id="cb6-3">  ggspatial<span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">::</span><span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">annotation_north_arrow</span>(</span>
+<span id="cb6-4">    <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">location =</span> <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"bl"</span>,                <span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;"># position: bottom-left</span></span>
+<span id="cb6-5">    <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">which_north =</span> <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"grid"</span>,           <span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;"># north arrow always pointing up</span></span>
+<span id="cb6-6">    <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">style =</span> north_arrow_minimal     <span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;"># simple, sleek "N" with an arrow</span></span>
+<span id="cb6-7">  )</span></code></pre></div></div>
+<div class="cell-output-display">
+<div>
+<figure class="figure">
+<p><img src="https://lehuynh.rbind.io/blog/tips-arrow_scale_bar_in_map_files/figure-html/unnamed-chunk-4-2.png" class="img-fluid figure-img" width="672"></p>
+</figure>
+</div>
+</div>
+<div class="code-copy-outer-scaffold"><div class="sourceCode cell-code" id="cb7" style="background: #f1f3f5;"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb7-1"><span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;"># --- Option 3: Standard orienteering (top-left) ---</span></span>
+<span id="cb7-2">map <span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">+</span></span>
+<span id="cb7-3">  ggspatial<span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">::</span><span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">annotation_north_arrow</span>(</span>
+<span id="cb7-4">    <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">location =</span> <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"tl"</span>,                     <span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;"># position: top-left</span></span>
+<span id="cb7-5">    <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">style =</span> north_arrow_orienteering     <span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;"># standard compass needle</span></span>
+<span id="cb7-6">  )</span></code></pre></div></div>
+<div class="cell-output-display">
+<div>
+<figure class="figure">
+<p><img src="https://lehuynh.rbind.io/blog/tips-arrow_scale_bar_in_map_files/figure-html/unnamed-chunk-4-3.png" class="img-fluid figure-img" width="672"></p>
+</figure>
+</div>
+</div>
+<div class="code-copy-outer-scaffold"><div class="sourceCode cell-code" id="cb8" style="background: #f1f3f5;"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb8-1"><span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;"># --- Option 4: Nautical compass (bottom-right) ---</span></span>
+<span id="cb8-2">map <span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">+</span></span>
+<span id="cb8-3">  ggspatial<span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">::</span><span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">annotation_north_arrow</span>(</span>
+<span id="cb8-4">    <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">location =</span> <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"br"</span>,                 <span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;"># position: bottom-right</span></span>
+<span id="cb8-5">    <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">style =</span> north_arrow_nautical     <span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;"># classic nautical compass rose</span></span>
+<span id="cb8-6">  )</span></code></pre></div></div>
+<div class="cell-output-display">
+<div>
+<figure class="figure">
+<p><img src="https://lehuynh.rbind.io/blog/tips-arrow_scale_bar_in_map_files/figure-html/unnamed-chunk-4-4.png" class="img-fluid figure-img" width="672"></p>
+</figure>
+</div>
+</div>
+</div>
+</section>
+<section id="further-information" class="level3">
+<h3 class="anchored" data-anchor-id="further-information">Further information</h3>
+<ul>
+<li><a href="https://paleolimbot.github.io/ggspatial/" target="_blank"><code>ggspatial</code></a> package</li>
+</ul>
+<hr>
+<p><a href="../blog.html">← Back to all blog posts</a></p>
+
+
+</section>
+
+ ]]></description>
+  <category>tips</category>
+  <category>R</category>
+  <category>map</category>
+  <guid>https://lehuynh.rbind.io/blog/tips-arrow_scale_bar_in_map.html</guid>
+  <pubDate>Tue, 13 Oct 2026 23:37:28 GMT</pubDate>
+  <media:content url="https://lehuynh.rbind.io/static/img/map_arrow_scale_bar.png" medium="image" type="image/png" height="100" width="144"/>
 </item>
 <item>
   <title>CSV parse error</title>
@@ -1445,6 +1974,8 @@ Big thanks to <a href="https://huynhvu.com/" target="_blank">Dr.&nbsp;Huynh Vu</
 <section id="references" class="level3">
 <h3 class="anchored" data-anchor-id="references">References</h3>
 <p><a href="https://umatter.github.io/BigData/" target="_blank">Big Data Analytics</a> by Ulrich Matter.</p>
+<hr>
+<p><a href="../blog.html">← Back to all blog posts</a></p>
 
 
 </section>
@@ -1453,7 +1984,7 @@ Big thanks to <a href="https://huynhvu.com/" target="_blank">Dr.&nbsp;Huynh Vu</
   <category>error</category>
   <category>R</category>
   <guid>https://lehuynh.rbind.io/blog/error-csv-parse-error.html</guid>
-  <pubDate>Mon, 12 Oct 2026 23:34:18 GMT</pubDate>
+  <pubDate>Tue, 13 Oct 2026 23:37:28 GMT</pubDate>
   <media:content url="https://lehuynh.rbind.io/static/img/error.png" medium="image" type="image/png" height="123" width="144"/>
 </item>
 <item>
@@ -1507,6 +2038,8 @@ font-style: inherit;">FALSE</span>)</span></code></pre></div></div>
 <li><a href="https://docs.stadiamaps.com/authentication/#api-keys" target="_blank">Authentication</a> by Stadia Maps Documentation</li>
 <li><a href="https://www.rdocumentation.org/packages/ggmap/versions/4.0.0" target="_blank"><em>ggmap</em> Documentation</a></li>
 </ul>
+<hr>
+<p><a href="../blog.html">← Back to all blog posts</a></p>
 
 
 </section>
@@ -1516,7 +2049,7 @@ font-style: inherit;">FALSE</span>)</span></code></pre></div></div>
   <category>R</category>
   <category>map</category>
   <guid>https://lehuynh.rbind.io/blog/tips-api-stadia-map.html</guid>
-  <pubDate>Mon, 12 Oct 2026 23:34:18 GMT</pubDate>
+  <pubDate>Tue, 13 Oct 2026 23:37:28 GMT</pubDate>
   <media:content url="https://lehuynh.rbind.io/static/img/tips.png" medium="image" type="image/png" height="100" width="144"/>
 </item>
 <item>
@@ -1539,13 +2072,15 @@ font-style: inherit;">FALSE</span>)</span></code></pre></div></div>
 <li><p>Within the <code>EXPLORER</code> panel (located on the left-hand side or accessed via <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>E</kbd>), right-click on the specific file or folder you need and choose the option <code>Download...</code>.</p></li>
 <li><p>When prompted with the <code>Select Folder</code> dialog box, pick the directory on your computer where you’d like the chosen file or folder to be saved.</p></li>
 </ol>
+<hr>
+<p><a href="../blog.html">← Back to all blog posts</a></p>
 
 
 
  ]]></description>
   <category>tips</category>
   <guid>https://lehuynh.rbind.io/blog/tips-download-specific-folder-github.html</guid>
-  <pubDate>Mon, 12 Oct 2026 23:34:18 GMT</pubDate>
+  <pubDate>Tue, 13 Oct 2026 23:37:28 GMT</pubDate>
   <media:content url="https://lehuynh.rbind.io/static/img/tips.png" medium="image" type="image/png" height="100" width="144"/>
 </item>
 <item>
@@ -1598,6 +2133,8 @@ background-color: null;
 font-style: inherit;">"value1"</span>, <span class="st" style="color: #20794D;
 background-color: null;
 font-style: inherit;">"value2"</span>))</span></code></pre></div></div>
+<hr>
+<p><a href="../blog.html">← Back to all blog posts</a></p>
 
 
 </section>
@@ -1607,7 +2144,7 @@ font-style: inherit;">"value2"</span>))</span></code></pre></div></div>
   <category>R</category>
   <category>R-package</category>
   <guid>https://lehuynh.rbind.io/blog/tips-Rpackage-undefined-global-variables.html</guid>
-  <pubDate>Mon, 12 Oct 2026 23:34:18 GMT</pubDate>
+  <pubDate>Tue, 13 Oct 2026 23:37:28 GMT</pubDate>
   <media:content url="https://lehuynh.rbind.io/static/img/tips.png" medium="image" type="image/png" height="100" width="144"/>
 </item>
 <item>
@@ -1654,6 +2191,8 @@ font-style: inherit;">#&gt; Refer to functions with dplyr::fun()</span></span></
 <section id="further-information" class="level3">
 <h3 class="anchored" data-anchor-id="further-information">Further information</h3>
 <p><a href="https://r-pkgs.org/description.html#dependencies" target="_blank">Dependencies: What does your package need?</a>, <em>R Packages</em> by Hadley Wickham and Jenny Bryan</p>
+<hr>
+<p><a href="../blog.html">← Back to all blog posts</a></p>
 
 
 </section>
@@ -1663,7 +2202,7 @@ font-style: inherit;">#&gt; Refer to functions with dplyr::fun()</span></span></
   <category>R</category>
   <category>R-package</category>
   <guid>https://lehuynh.rbind.io/blog/warning-imports-not-declared-from-package-name.html</guid>
-  <pubDate>Mon, 12 Oct 2026 23:34:18 GMT</pubDate>
+  <pubDate>Tue, 13 Oct 2026 23:37:28 GMT</pubDate>
   <media:content url="https://lehuynh.rbind.io/static/img/warning_red.png" medium="image" type="image/png" height="102" width="144"/>
 </item>
 <item>
@@ -1707,6 +2246,8 @@ font-style: inherit;">#&gt; Refer to functions with dplyr::fun()</span></span></
 <section id="tips" class="level3">
 <h3 class="anchored" data-anchor-id="tips">Tips</h3>
 <p>If you can’t find a solution using common keyword searches, consider navigating to the theme’s GitHub repository page. Sometimes, the answer can be found by exploring the theme’s <code>Issues</code> page.</p>
+<hr>
+<p><a href="../../blog.html">← Back to all blog posts</a></p>
 
 
 </section>
@@ -1714,7 +2255,7 @@ font-style: inherit;">#&gt; Refer to functions with dplyr::fun()</span></span></
  ]]></description>
   <category>tips</category>
   <guid>https://lehuynh.rbind.io/blog/tips-hugo-creative-portfolio-theme-fit-screen/</guid>
-  <pubDate>Mon, 12 Oct 2026 23:34:18 GMT</pubDate>
+  <pubDate>Tue, 13 Oct 2026 23:37:28 GMT</pubDate>
   <media:content url="https://lehuynh.rbind.io/static/img/tips.png" medium="image" type="image/png" height="100" width="144"/>
 </item>
 <item>
@@ -1752,6 +2293,8 @@ An example of RStudio built-in nippet
 <section id="further-information" class="level3">
 <h3 class="anchored" data-anchor-id="further-information">Further information</h3>
 <p><a href="https://rstudio.github.io/rstudio-extensions/rstudio_snippets.html" target="_blank">RStudio Snippets</a></p>
+<hr>
+<p><a href="../../blog.html">← Back to all blog posts</a></p>
 
 
 </section>
@@ -1760,7 +2303,7 @@ An example of RStudio built-in nippet
   <category>tips</category>
   <category>R</category>
   <guid>https://lehuynh.rbind.io/blog/tips-r-snippet/</guid>
-  <pubDate>Mon, 12 Oct 2026 23:34:18 GMT</pubDate>
+  <pubDate>Tue, 13 Oct 2026 23:37:28 GMT</pubDate>
   <media:content url="https://lehuynh.rbind.io/static/img/tips.png" medium="image" type="image/png" height="100" width="144"/>
 </item>
 </channel>

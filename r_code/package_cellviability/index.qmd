@@ -53,3 +53,6 @@ This package is also accessible for download via Zenodo at <a href="https://doi.
 - Add IC50 and p-value annotations to plots
 - Evaluate drug-combination synergy (using ZIP, HSA, Bliss, Loewe)
 
+---
+
+[← Back to all R packages](../../r_code.qmd)

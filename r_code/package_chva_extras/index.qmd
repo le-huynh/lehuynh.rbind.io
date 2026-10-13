@@ -82,4 +82,6 @@ See [Package index](https://le-huynh.github.io/chva.extras/reference/index.html)
 For a comprehensive overview of the package's functions, check out the package website at  
 <a href="https://le-huynh.github.io/chva.extras/" target="_blank">le-huynh.github.io/chva.extras/</a>.
 
+---
 
+[← Back to all R packages](../../r_code.qmd)

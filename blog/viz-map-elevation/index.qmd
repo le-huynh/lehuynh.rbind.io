@@ -182,3 +182,7 @@ gmap <- gmap +
 ### References
 - [Using R for Everything: 使用 ggplot2 绘制 RasterLayer 地图](https://rstudio-pubs-static.s3.amazonaws.com/577022_ffcecfafa86f4d239b8ea00b452b1d45.html){target=_blank} by Chen Han
 - [Elevation data in R](https://rpubs.com/ials2un/elevationdata){target=_blank} by Ivan Lizarazo
+
+---
+
+[← Back to all blog posts](../../blog.qmd)

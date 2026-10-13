@@ -20,3 +20,6 @@ For example:
 
 4. When prompted with the `Select Folder` dialog box, pick the directory on your computer where you'd like the chosen file or folder to be saved.
 
+---
+
+[← Back to all blog posts](/blog.qmd)

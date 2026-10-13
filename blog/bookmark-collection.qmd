@@ -46,3 +46,6 @@ and [YouTube channel](https://www.youtube.com/c/RiffomonasProject){target=_blank
 * [Hemingway Editor](https://hemingwayapp.com){target=_blank}  
 * download [csl file](https://www.zotero.org/styles){target=_blank}  
 
+---
+
+[← Back to all blog posts](/blog.qmd)

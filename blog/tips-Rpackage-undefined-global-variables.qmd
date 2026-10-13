@@ -26,3 +26,6 @@ utils::globalVariables(c("value1", "value2"))
 
 ```
 
+---
+
+[← Back to all blog posts](/blog.qmd)

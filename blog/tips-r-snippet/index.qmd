@@ -38,3 +38,6 @@ These customizable components cater to individual needs, greatly enhancing codin
 
 [RStudio Snippets](https://rstudio.github.io/rstudio-extensions/rstudio_snippets.html){target=_blank}
 
+---
+
+[← Back to all blog posts](../../blog.qmd)
