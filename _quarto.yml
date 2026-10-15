@@ -34,7 +34,7 @@ website:
             href: https://www.linkedin.com/in/le-huynh-truc-ly
             target: _blank
           - icon: envelope
-            text: email
+            text: Email
             href: mailto:trucly.lehuynh@gmail.com
           - icon: github
             text: GitHub

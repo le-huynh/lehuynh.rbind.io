@@ -36,7 +36,7 @@ href="https://lehuynh.rbind.io/blog/" target="_blank">
 
 # Hello! Xin Chào!
 
-I’m Le-Huynh Truc-Ly, an environmental health researcher using data, statistics, and R to understand how environmental exposures impact human health. 
+I’m Le-Huynh Truc-Ly, an environmental health researcher using large-scale data, statistics, and R to understand how environmental exposures impact human health. 
 I use R to build open-source tools, automate research workflows, and turn complex data into clear visuals because science should be open, and life is too short for repetitive tasks!  
 When I’m not hanging out with dataframes, you’ll find me sketching or cooking.
 This site is a home for my research, projects, random thoughts, and technical notes from my coding journey. 
@@ -45,15 +45,9 @@ Most posts are personal notes to my future self, who I’m sure has forgotten ma
 
 ::: {.stat-grid}
 ::: {.stat-card}
-[5+]{.stat-number}
+[8+]{.stat-number}
 
-[countries worked & collaborated with across Asia, Europe, & US]{.stat-label}
-:::
-
-::: {.stat-card}
-[6+]{.stat-number}
-
-[years applying data science to environmental & health research]{.stat-label}
+[interdisciplinary research projects delivered]{.stat-label}
 :::
 
 ::: {.stat-card}
@@ -63,9 +57,30 @@ Most posts are personal notes to my future self, who I’m sure has forgotten ma
 :::
 
 ::: {.stat-card}
-[8+]{.stat-number}
+[6+]{.stat-number}
 
-[interdisciplinary research projects delivered]{.stat-label}
+[years applying data science to environmental & health research]{.stat-label}
+:::
+
+::: {.stat-card}
+[5+]{.stat-number}
+
+[countries worked & collaborated with across Asia, Europe, & US]{.stat-label}
 :::
 :::
 
+<hr>
+::: {.service-grid}
+::: {.service-card}
+### Environmental Health
+Climate, heat, air quality, green space, health disparities
+:::
+::: {.service-card}
+### Advanced Analytics
+Bayesian modeling, biostatistics, spatial and temporal analysis
+:::
+::: {.service-card}
+### Research Engineering
+R packages, automation, reproducible big-data pipelines
+:::
+:::

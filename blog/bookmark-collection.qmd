@@ -17,6 +17,7 @@ A collection of interesting links featuring open-access books, tutorials, and ar
 * [Big Book of R](https://www.bigbookofr.com/){target=_blank} by _Oscar Baruffa_.  
 * [R for Data Science](https://r4ds.had.co.nz/index.html){target=_blank} by _Hadley Wickham_ and _Garrett Grolemund_.  
 * [R Packages](https://r-pkgs.org){target=_blank} by _Hadley Wickham_ and _Jenny Bryan_.  
+* [rspatialdata](https://rspatialdata.github.io/){target=_blank} by _Paula Moraga_ and _Laurie Baker_.  
 
 #### Git and GitHub
 * [Happy Git with R](https://happygitwithr.com){target=_blank} by _Jenny Bryan_.  
