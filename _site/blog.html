@@ -239,7 +239,7 @@ window.Quarto = {
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
         
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(12)</span></div><div class="category" data-category="ZXJyb3I=">error <span class="quarto-category-count">(1)</span></div><div class="category" data-category="bWFw">map <span class="quarto-category-count">(4)</span></div><div class="category" data-category="b3RoZXI=">other <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Ug==">R <span class="quarto-category-count">(9)</span></div><div class="category" data-category="Ui1wYWNrYWdl">R-package <span class="quarto-category-count">(3)</span></div><div class="category" data-category="dGlwcw==">tips <span class="quarto-category-count">(6)</span></div><div class="category" data-category="d2FybmluZw==">warning <span class="quarto-category-count">(1)</span></div></div></div>
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(13)</span></div><div class="category" data-category="ZXJyb3I=">error <span class="quarto-category-count">(1)</span></div><div class="category" data-category="bWFw">map <span class="quarto-category-count">(4)</span></div><div class="category" data-category="b3RoZXI=">other <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Ug==">R <span class="quarto-category-count">(10)</span></div><div class="category" data-category="Ui1wYWNrYWdl">R-package <span class="quarto-category-count">(3)</span></div><div class="category" data-category="dGlwcw==">tips <span class="quarto-category-count">(7)</span></div><div class="category" data-category="d2FybmluZw==">warning <span class="quarto-category-count">(1)</span></div></div></div>
 <!-- main -->
 <main class="content quarto-banner-title-block column-page-left" id="quarto-document-content">
 
@@ -253,7 +253,7 @@ window.Quarto = {
 
 <div class="quarto-listing quarto-listing-container-grid" id="listing-listing">
 <div class="list grid quarto-listing-cols-3">
-<div class="g-col-1" data-index="0" data-categories="b3RoZXI=" data-listing-file-modified-sort="1792036463083" data-listing-reading-time-sort="2" data-listing-word-count-sort="231">
+<div class="g-col-1" data-index="0" data-categories="b3RoZXI=" data-listing-file-modified-sort="1792165667353" data-listing-reading-time-sort="2" data-listing-word-count-sort="231">
 <a href="./blog/bookmark-collection.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -588,6 +588,34 @@ Customizing snippets for crafting efficiency
 </div>
 </div></a>
 </div>
+<div class="g-col-1" data-index="12" data-categories="dGlwcyUyQ1I=" data-listing-file-modified-sort="1792209136516" data-listing-reading-time-sort="3" data-listing-word-count-sort="453">
+<a href="./blog/tips-pdftools.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="./static/img/tips.png" class="thumbnail-image card-img" style="height: auto;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+split, merge, extract, repeat: taming PDFs with R
+</h5>
+<div class="listing-categories">
+
+<div class="listing-category" onclick="window.quartoListingCategory('dGlwcw=='); return false;">tips</div>
+
+<div class="listing-category" onclick="window.quartoListingCategory('Ug=='); return false;">R</div>
+
+</div>
+<div class="card-text listing-description delink">
+<p>Using <strong>pdftools</strong> package</p>
+</div>
+<div class="card-attribution card-text-small start">
+<div class="listing-author">
+
+</div>
+</div>
+</div>
+</div></a>
+</div>
 </div>
 <div class="listing-no-matching d-none">No matching items</div>
 </div></main> <!-- /main -->
@@ -678,6 +706,11 @@ Customizing snippets for crafting efficiency
           if (link.dataset.originalHref !== undefined) {
             link.href = link.dataset.originalHref;
           }
+            // target, if specified
+            link.setAttribute("target", "_blank");
+            if (link.getAttribute("rel") === null) {
+              link.setAttribute("rel", "noopener");
+            }
         }
       }
     function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {

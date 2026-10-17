@@ -43,9 +43,9 @@ and [YouTube channel](https://www.youtube.com/c/RiffomonasProject){target=_blank
 * [Write your CV with R Pagedown](https://www.anabellelaurent.com/slides/rladies_pagedown/cvwithpagedown#1){target=_blank} by _Anabelle Laurent_.  
 * [Creating your personal website using Quarto](https://samanthacsik.github.io/RLadiesSB-quarto-websites/){target=_blank} by _Sam Shanny-Csik_.  
 * [Write your dissertation in Rmarkdown](https://ourcodingclub.github.io/tutorials/rmarkdown-dissertation/){target=_blank} by _Anna Chirumbolo_.  
-* [Coding Club](https://ourcodingclub.github.io){target=_blank}  
-* [Hemingway Editor](https://hemingwayapp.com){target=_blank}  
-* download [csl file](https://www.zotero.org/styles){target=_blank}  
+* [Coding Club](https://ourcodingclub.github.io)  
+* [Hemingway Editor](https://hemingwayapp.com)  
+* download [csl file](https://www.zotero.org/styles)  
 
 ---
 

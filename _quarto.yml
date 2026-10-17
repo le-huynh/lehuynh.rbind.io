@@ -53,4 +53,4 @@ format:
       - styles.scss
     mainfont: Nunito
     toc: true
-
+    link-external-newwindow: true

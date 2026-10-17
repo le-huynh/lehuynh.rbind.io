@@ -1,0 +1,79 @@
+---
+title: "split, merge, extract, repeat: taming PDFs with R"
+description: "Using **pdftools** package"
+categories: [tips, R]
+image: ../static/img/tips.png
+order: 3
+execute:
+  eval: false
+  warning: false
+  message: false
+---
+
+Let’s be honest: nobody wakes up excited to work with PDFs.
+
+But sooner or later, we all end up needing to split a 100-page PDF, combine a few PDFs into one, or create a new PDF containing only the pages we actually need.
+
+Meet our hero: **`pdftools`**!
+
+In this post, I’ll share a handy little cheat sheet for my future self (and anyone else who stumbles upon this).
+
+Because life is too short to manually wrestle with PDFs, let’s make R do the heavy lifting!
+
+### Install and load the package
+```{r}
+# install the package (only once!)
+install.packages("pdftools")
+
+# load the package (every time you start a new R session!)
+library(pdftools)
+```
+
+### Combining PDFs (the stapler)
+Got three separate PDF files that should have been one? 
+
+Instead of uploading them to some random free online tool and hoping your files (and metadata) stay private, just use `pdf_combine()` in R.
+
+```{r}
+# list of PDFs you want to merge (in order!)
+files_to_merge <- c("the_fancy_cover.pdf",
+                    "the_actually_important_stuff.pdf",
+                    "well_just_in_case.pdf")
+
+# staple them together
+pdf_combine(files_to_merge, 
+            output = "finally_one_cool_file.pdf")
+```
+
+Yay! Three files, one function, zero sketchy online converters.
+
+### Subsetting PDFs (the scissors)
+Got a 500-page monster PDF but only need pages 17 through 29? 
+
+No need to wrestle with the whole beast. Let `pdf_subset()` come to the rescue!
+
+```{r}
+# get only pages 17 through 29 (password-protected!)
+pdf_subset("giant_monster_file.pdf", 
+           pages = 17:29, 
+           output = "tiny_piece_of_the_monster_01.pdf",
+           password = "string_password_to_open_the_file")
+
+# grab non-consecutive pages (e.g., page 2, 25, and 34)
+pdf_subset("giant_monster_file.pdf", 
+           pages = c(2, 25, 34), 
+           output = "tiny_piece_of_the_monster_02.pdf")
+```
+
+### Quick Cheat Sheet
+| Task | Function | Note |
+| :--- | :--- | :--- |
+| **split file** | `pdf_split(input, output = NULL, password = "")` | split a single pdf into separate files, one for each page |
+| **extract pages** | `pdf_subset(input, pages = 1, output = NULL, password = "")` | create a new pdf with a subset of the input pages |
+| **combine files** | `pdf_combine(input, output = NULL, password = "")` | join several pdf files into one |
+| **compress file** | `pdf_compress(input, output = NULL, linearize = FALSE, password = "")` | compress or linearize a pdf file|
+| **rotate pages** | `pdf_rotate_pages(input, pages, angle = 90, relative = FALSE, output = NULL, password = "")` | rotate selected pages |
+
+### Further information
+[`pdftools` documentation](https://docs.ropensci.org/pdftools/)
+

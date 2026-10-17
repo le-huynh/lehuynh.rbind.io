@@ -10,7 +10,7 @@
 <atom:link href="https://lehuynh.rbind.io/blog.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.10.18</generator>
-<lastBuildDate>Thu, 15 Oct 2026 04:13:24 GMT</lastBuildDate>
+<lastBuildDate>Sat, 17 Oct 2026 03:56:34 GMT</lastBuildDate>
 <item>
   <title>bookmark collection</title>
   <link>https://lehuynh.rbind.io/blog/bookmark-collection.html</link>
@@ -82,11 +82,11 @@
 </li>
 <li><a href="https://ourcodingclub.github.io/tutorials/rmarkdown-dissertation/" target="_blank">Write your dissertation in Rmarkdown</a> by <em>Anna Chirumbolo</em>.<br>
 </li>
-<li><a href="https://ourcodingclub.github.io" target="_blank">Coding Club</a><br>
+<li><a href="https://ourcodingclub.github.io">Coding Club</a><br>
 </li>
-<li><a href="https://hemingwayapp.com" target="_blank">Hemingway Editor</a><br>
+<li><a href="https://hemingwayapp.com">Hemingway Editor</a><br>
 </li>
-<li>download <a href="https://www.zotero.org/styles" target="_blank">csl file</a></li>
+<li>download <a href="https://www.zotero.org/styles">csl file</a></li>
 </ul>
 <hr>
 <p><a href="../blog.html">← Back to all blog posts</a></p>
@@ -97,7 +97,7 @@
  ]]></description>
   <category>other</category>
   <guid>https://lehuynh.rbind.io/blog/bookmark-collection.html</guid>
-  <pubDate>Thu, 15 Oct 2026 04:13:24 GMT</pubDate>
+  <pubDate>Sat, 17 Oct 2026 03:56:34 GMT</pubDate>
   <media:content url="https://lehuynh.rbind.io/static/img/source.png" medium="image" type="image/png" height="149" width="144"/>
 </item>
 <item>
@@ -187,7 +187,7 @@ font-style: inherit;">"le-huynh/lehuynh"</span>)</span></code></pre></div></div>
   <category>R-package</category>
   <category>R</category>
   <guid>https://lehuynh.rbind.io/blog/lehuynh_CRAN.html</guid>
-  <pubDate>Thu, 15 Oct 2026 04:13:24 GMT</pubDate>
+  <pubDate>Sat, 17 Oct 2026 03:56:34 GMT</pubDate>
   <media:content url="https://lehuynh.rbind.io/r_code/package_lehuynh/lehuynh.png" medium="image" type="image/png" height="167" width="144"/>
 </item>
 <item>
@@ -947,7 +947,7 @@ font-style: inherit;">"white"</span>)</span></code></pre></div></div>
   <category>R</category>
   <category>map</category>
   <guid>https://lehuynh.rbind.io/blog/viz-map-elevation/</guid>
-  <pubDate>Thu, 15 Oct 2026 04:13:24 GMT</pubDate>
+  <pubDate>Sat, 17 Oct 2026 03:56:34 GMT</pubDate>
   <media:content url="https://lehuynh.rbind.io/blog/viz-map-elevation/map_elevation_shadow.png" medium="image" type="image/png" height="158" width="144"/>
 </item>
 <item>
@@ -1399,7 +1399,7 @@ font-style: inherit;">"black"</span>)</span></code></pre></div></div>
   <category>R</category>
   <category>map</category>
   <guid>https://lehuynh.rbind.io/blog/viz-map-terrain/</guid>
-  <pubDate>Thu, 15 Oct 2026 04:13:24 GMT</pubDate>
+  <pubDate>Sat, 17 Oct 2026 03:56:34 GMT</pubDate>
   <media:content url="https://lehuynh.rbind.io/blog/viz-map-terrain/map-terrain-shadow.png" medium="image" type="image/png" height="151" width="144"/>
 </item>
 <item>
@@ -1920,7 +1920,7 @@ font-style: inherit;"># classic nautical compass rose</span></span>
   <category>R</category>
   <category>map</category>
   <guid>https://lehuynh.rbind.io/blog/tips-arrow_scale_bar_in_map.html</guid>
-  <pubDate>Thu, 15 Oct 2026 04:13:24 GMT</pubDate>
+  <pubDate>Sat, 17 Oct 2026 03:56:34 GMT</pubDate>
   <media:content url="https://lehuynh.rbind.io/static/img/map_arrow_scale_bar.png" medium="image" type="image/png" height="100" width="144"/>
 </item>
 <item>
@@ -1986,7 +1986,7 @@ Big thanks to <a href="https://huynhvu.com/" target="_blank">Dr.&nbsp;Huynh Vu</
   <category>error</category>
   <category>R</category>
   <guid>https://lehuynh.rbind.io/blog/error-csv-parse-error.html</guid>
-  <pubDate>Thu, 15 Oct 2026 04:13:24 GMT</pubDate>
+  <pubDate>Sat, 17 Oct 2026 03:56:34 GMT</pubDate>
   <media:content url="https://lehuynh.rbind.io/static/img/error.png" medium="image" type="image/png" height="123" width="144"/>
 </item>
 <item>
@@ -2051,7 +2051,7 @@ font-style: inherit;">FALSE</span>)</span></code></pre></div></div>
   <category>R</category>
   <category>map</category>
   <guid>https://lehuynh.rbind.io/blog/tips-api-stadia-map.html</guid>
-  <pubDate>Thu, 15 Oct 2026 04:13:24 GMT</pubDate>
+  <pubDate>Sat, 17 Oct 2026 03:56:34 GMT</pubDate>
   <media:content url="https://lehuynh.rbind.io/static/img/tips.png" medium="image" type="image/png" height="100" width="144"/>
 </item>
 <item>
@@ -2082,7 +2082,7 @@ font-style: inherit;">FALSE</span>)</span></code></pre></div></div>
  ]]></description>
   <category>tips</category>
   <guid>https://lehuynh.rbind.io/blog/tips-download-specific-folder-github.html</guid>
-  <pubDate>Thu, 15 Oct 2026 04:13:24 GMT</pubDate>
+  <pubDate>Sat, 17 Oct 2026 03:56:34 GMT</pubDate>
   <media:content url="https://lehuynh.rbind.io/static/img/tips.png" medium="image" type="image/png" height="100" width="144"/>
 </item>
 <item>
@@ -2146,7 +2146,7 @@ font-style: inherit;">"value2"</span>))</span></code></pre></div></div>
   <category>R</category>
   <category>R-package</category>
   <guid>https://lehuynh.rbind.io/blog/tips-Rpackage-undefined-global-variables.html</guid>
-  <pubDate>Thu, 15 Oct 2026 04:13:24 GMT</pubDate>
+  <pubDate>Sat, 17 Oct 2026 03:56:34 GMT</pubDate>
   <media:content url="https://lehuynh.rbind.io/static/img/tips.png" medium="image" type="image/png" height="100" width="144"/>
 </item>
 <item>
@@ -2204,7 +2204,7 @@ font-style: inherit;">#&gt; Refer to functions with dplyr::fun()</span></span></
   <category>R</category>
   <category>R-package</category>
   <guid>https://lehuynh.rbind.io/blog/warning-imports-not-declared-from-package-name.html</guid>
-  <pubDate>Thu, 15 Oct 2026 04:13:24 GMT</pubDate>
+  <pubDate>Sat, 17 Oct 2026 03:56:34 GMT</pubDate>
   <media:content url="https://lehuynh.rbind.io/static/img/warning_red.png" medium="image" type="image/png" height="102" width="144"/>
 </item>
 <item>
@@ -2257,7 +2257,7 @@ font-style: inherit;">#&gt; Refer to functions with dplyr::fun()</span></span></
  ]]></description>
   <category>tips</category>
   <guid>https://lehuynh.rbind.io/blog/tips-hugo-creative-portfolio-theme-fit-screen/</guid>
-  <pubDate>Thu, 15 Oct 2026 04:13:24 GMT</pubDate>
+  <pubDate>Sat, 17 Oct 2026 03:56:34 GMT</pubDate>
   <media:content url="https://lehuynh.rbind.io/static/img/tips.png" medium="image" type="image/png" height="100" width="144"/>
 </item>
 <item>
@@ -2305,7 +2305,193 @@ An example of RStudio built-in nippet
   <category>tips</category>
   <category>R</category>
   <guid>https://lehuynh.rbind.io/blog/tips-r-snippet/</guid>
-  <pubDate>Thu, 15 Oct 2026 04:13:24 GMT</pubDate>
+  <pubDate>Sat, 17 Oct 2026 03:56:34 GMT</pubDate>
+  <media:content url="https://lehuynh.rbind.io/static/img/tips.png" medium="image" type="image/png" height="100" width="144"/>
+</item>
+<item>
+  <title>split, merge, extract, repeat: taming PDFs with R</title>
+  <link>https://lehuynh.rbind.io/blog/tips-pdftools.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>Let’s be honest: nobody wakes up excited to work with PDFs.</p>
+<p>But sooner or later, we all end up needing to split a 100-page PDF, combine a few PDFs into one, or create a new PDF containing only the pages we actually need.</p>
+<p>Meet our hero: <strong><code>pdftools</code></strong>!</p>
+<p>In this post, I’ll share a handy little cheat sheet for my future self (and anyone else who stumbles upon this).</p>
+<p>Because life is too short to manually wrestle with PDFs, let’s make R do the heavy lifting!</p>
+<section id="install-and-load-the-package" class="level3">
+<h3 class="anchored" data-anchor-id="install-and-load-the-package">Install and load the package</h3>
+<div class="cell">
+<div class="code-copy-outer-scaffold"><div class="sourceCode cell-code" id="cb1" style="background: #f1f3f5;"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb1-1"><span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;"># install the package (only once!)</span></span>
+<span id="cb1-2"><span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">install.packages</span>(<span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"pdftools"</span>)</span>
+<span id="cb1-3"></span>
+<span id="cb1-4"><span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;"># load the package (every time you start a new R session!)</span></span>
+<span id="cb1-5"><span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">library</span>(pdftools)</span></code></pre></div></div>
+</div>
+</section>
+<section id="combining-pdfs-the-stapler" class="level3">
+<h3 class="anchored" data-anchor-id="combining-pdfs-the-stapler">Combining PDFs (the stapler)</h3>
+<p>Got three separate PDF files that should have been one?</p>
+<p>Instead of uploading them to some random free online tool and hoping your files (and metadata) stay private, just use <code>pdf_combine()</code> in R.</p>
+<div class="cell">
+<div class="code-copy-outer-scaffold"><div class="sourceCode cell-code" id="cb2" style="background: #f1f3f5;"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb2-1"><span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;"># list of PDFs you want to merge (in order!)</span></span>
+<span id="cb2-2">files_to_merge <span class="ot" style="color: #003B4F;
+background-color: null;
+font-style: inherit;">&lt;-</span> <span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">c</span>(<span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"the_fancy_cover.pdf"</span>,</span>
+<span id="cb2-3">                    <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"the_actually_important_stuff.pdf"</span>,</span>
+<span id="cb2-4">                    <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"well_just_in_case.pdf"</span>)</span>
+<span id="cb2-5"></span>
+<span id="cb2-6"><span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;"># staple them together</span></span>
+<span id="cb2-7"><span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">pdf_combine</span>(files_to_merge, </span>
+<span id="cb2-8">            <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">output =</span> <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"finally_one_cool_file.pdf"</span>)</span></code></pre></div></div>
+</div>
+<p>Yay! Three files, one function, zero sketchy online converters.</p>
+</section>
+<section id="subsetting-pdfs-the-scissors" class="level3">
+<h3 class="anchored" data-anchor-id="subsetting-pdfs-the-scissors">Subsetting PDFs (the scissors)</h3>
+<p>Got a 500-page monster PDF but only need pages 17 through 29?</p>
+<p>No need to wrestle with the whole beast. Let <code>pdf_subset()</code> come to the rescue!</p>
+<div class="cell">
+<div class="code-copy-outer-scaffold"><div class="sourceCode cell-code" id="cb3" style="background: #f1f3f5;"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb3-1"><span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;"># get only pages 17 through 29 (password-protected!)</span></span>
+<span id="cb3-2"><span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">pdf_subset</span>(<span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"giant_monster_file.pdf"</span>, </span>
+<span id="cb3-3">           <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">pages =</span> <span class="dv" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">17</span><span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">:</span><span class="dv" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">29</span>, </span>
+<span id="cb3-4">           <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">output =</span> <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"tiny_piece_of_the_monster_01.pdf"</span>,</span>
+<span id="cb3-5">           <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">password =</span> <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"string_password_to_open_the_file"</span>)</span>
+<span id="cb3-6"></span>
+<span id="cb3-7"><span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;"># grab non-consecutive pages (e.g., page 2, 25, and 34)</span></span>
+<span id="cb3-8"><span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">pdf_subset</span>(<span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"giant_monster_file.pdf"</span>, </span>
+<span id="cb3-9">           <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">pages =</span> <span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">c</span>(<span class="dv" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">2</span>, <span class="dv" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">25</span>, <span class="dv" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">34</span>), </span>
+<span id="cb3-10">           <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">output =</span> <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"tiny_piece_of_the_monster_02.pdf"</span>)</span></code></pre></div></div>
+</div>
+</section>
+<section id="quick-cheat-sheet" class="level3">
+<h3 class="anchored" data-anchor-id="quick-cheat-sheet">Quick Cheat Sheet</h3>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 33%">
+<col style="width: 33%">
+<col style="width: 33%">
+</colgroup>
+<thead>
+<tr class="header">
+<th style="text-align: left;">Task</th>
+<th style="text-align: left;">Function</th>
+<th style="text-align: left;">Note</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;"><strong>split file</strong></td>
+<td style="text-align: left;"><code>pdf_split(input, output = NULL, password = "")</code></td>
+<td style="text-align: left;">split a single pdf into separate files, one for each page</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;"><strong>extract pages</strong></td>
+<td style="text-align: left;"><code>pdf_subset(input, pages = 1, output = NULL, password = "")</code></td>
+<td style="text-align: left;">create a new pdf with a subset of the input pages</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;"><strong>combine files</strong></td>
+<td style="text-align: left;"><code>pdf_combine(input, output = NULL, password = "")</code></td>
+<td style="text-align: left;">join several pdf files into one</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;"><strong>compress file</strong></td>
+<td style="text-align: left;"><code>pdf_compress(input, output = NULL, linearize = FALSE, password = "")</code></td>
+<td style="text-align: left;">compress or linearize a pdf file</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;"><strong>rotate pages</strong></td>
+<td style="text-align: left;"><code>pdf_rotate_pages(input, pages, angle = 90, relative = FALSE, output = NULL, password = "")</code></td>
+<td style="text-align: left;">rotate selected pages</td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="further-information" class="level3">
+<h3 class="anchored" data-anchor-id="further-information">Further information</h3>
+<p><a href="https://docs.ropensci.org/pdftools/"><code>pdftools</code> documentation</a></p>
+
+
+</section>
+
+ ]]></description>
+  <category>tips</category>
+  <category>R</category>
+  <guid>https://lehuynh.rbind.io/blog/tips-pdftools.html</guid>
+  <pubDate>Sat, 17 Oct 2026 03:56:34 GMT</pubDate>
   <media:content url="https://lehuynh.rbind.io/static/img/tips.png" medium="image" type="image/png" height="100" width="144"/>
 </item>
 </channel>

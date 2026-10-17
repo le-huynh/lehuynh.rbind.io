@@ -257,11 +257,11 @@ gtag('config', 'G-VKCP9ZH816', { 'anonymize_ip': true});
 </li>
 <li><a href="https://ourcodingclub.github.io/tutorials/rmarkdown-dissertation/" target="_blank">Write your dissertation in Rmarkdown</a> by <em>Anna Chirumbolo</em>.<br>
 </li>
-<li><a href="https://ourcodingclub.github.io" target="_blank">Coding Club</a><br>
+<li><a href="https://ourcodingclub.github.io">Coding Club</a><br>
 </li>
-<li><a href="https://hemingwayapp.com" target="_blank">Hemingway Editor</a><br>
+<li><a href="https://hemingwayapp.com">Hemingway Editor</a><br>
 </li>
-<li>download <a href="https://www.zotero.org/styles" target="_blank">csl file</a></li>
+<li>download <a href="https://www.zotero.org/styles">csl file</a></li>
 </ul>
 <hr>
 <p><a href="../blog.html">← Back to all blog posts</a></p>
@@ -357,6 +357,11 @@ gtag('config', 'G-VKCP9ZH816', { 'anonymize_ip': true});
           if (link.dataset.originalHref !== undefined) {
             link.href = link.dataset.originalHref;
           }
+            // target, if specified
+            link.setAttribute("target", "_blank");
+            if (link.getAttribute("rel") === null) {
+              link.setAttribute("rel", "noopener");
+            }
         }
       }
     function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
