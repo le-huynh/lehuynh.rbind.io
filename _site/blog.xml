@@ -10,7 +10,7 @@
 <atom:link href="https://lehuynh.rbind.io/blog.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.10.18</generator>
-<lastBuildDate>Sat, 17 Oct 2026 03:56:34 GMT</lastBuildDate>
+<lastBuildDate>Sun, 18 Oct 2026 17:23:45 GMT</lastBuildDate>
 <item>
   <title>bookmark collection</title>
   <link>https://lehuynh.rbind.io/blog/bookmark-collection.html</link>
@@ -97,98 +97,8 @@
  ]]></description>
   <category>other</category>
   <guid>https://lehuynh.rbind.io/blog/bookmark-collection.html</guid>
-  <pubDate>Sat, 17 Oct 2026 03:56:34 GMT</pubDate>
+  <pubDate>Sun, 18 Oct 2026 17:23:45 GMT</pubDate>
   <media:content url="https://lehuynh.rbind.io/static/img/source.png" medium="image" type="image/png" height="149" width="144"/>
-</item>
-<item>
-  <title>lehuynh: Now Available on CRAN!</title>
-  <link>https://lehuynh.rbind.io/blog/lehuynh_CRAN.html</link>
-  <description><![CDATA[ 
-
-
-
-
-<p><a href="https://le-huynh.github.io/lehuynh/" target="_blank"> <img align="right" alt="logo" width="150" src="https://github.com/le-huynh/lehuynh/blob/master/man/figures/logo.png?raw=true"> </a></p>
-<p><a href="https://CRAN.R-project.org/package=lehuynh" target="_blank"> <img align="left" alt="cran" style="margin-right: 5px;" src="https://www.r-pkg.org/badges/version/lehuynh"> </a></p>
-<p><a href="https://github.com/le-huynh/lehuynh/actions/workflows/R-CMD-check.yaml" target="_blank"> <img align="left" alt="r-cmd-check" style="margin-right: 5px;" src="https://github.com/le-huynh/lehuynh/actions/workflows/R-CMD-check.yaml/badge.svg"> </a></p>
-<p><a href="https://lifecycle.r-lib.org/articles/stages.html#stable" target="_blank"> <img align="left" alt="lifecycle" style="margin-right: 5px;" src="https://img.shields.io/badge/lifecycle-stable-brightgreen.svg"> </a></p>
-<p><a href="https://doi.org/10.5281/zenodo.11522849" target="_blank"> <img align="left" alt="doi" src="https://zenodo.org/badge/DOI/10.5281/zenodo.11522849.svg"> </a></p>
-<p><br></p>
-<p>→ <a href="https://github.com/le-huynh/lehuynh" target="_blank">GitHub repository</a><br>
-→ <a href="https://le-huynh.github.io/lehuynh/" target="_blank"> Package Website</a></p>
-<p>I am thrilled to announce that my personal R package, <a href="https://le-huynh.github.io/lehuynh/" target="_blank"><code>lehuynh</code></a>, is now officially available on CRAN!</p>
-<p><a href="https://le-huynh.github.io/lehuynh/" target="_blank"><code>lehuynh</code></a> is a collection of miscellaneous R functions and templates that I’ve found particularly useful over time. It includes:</p>
-<ul>
-<li>Functions for graphics, data importation, data transformation, and general utilities.</li>
-<li>Templates for exploratory analysis, Bayesian modeling, and crafting scientific manuscripts.</li>
-</ul>
-<section id="a-learning-journey" class="level3">
-<h3 class="anchored" data-anchor-id="a-learning-journey">A Learning Journey</h3>
-<p>Publishing <a href="https://le-huynh.github.io/lehuynh/" target="_blank"><code>lehuynh</code></a> on CRAN has been an incredibly educational experience. Throughout the process, I learned a lot about package development, from structuring the package correctly to ensuring compliance with CRAN’s submission guidelines.</p>
-<p>Big thanks to the <a href="https://cran.r-project.org/CRAN_team.htm" target="_blank">CRAN team</a> for their invaluable feedback. Their suggestions were instrumental in refining and improving my package. After incorporating their feedback, <a href="https://le-huynh.github.io/lehuynh/" target="_blank"><code>lehuynh</code></a> has become much better and more robust.</p>
-<p>I also want to acknowledge the numerous references and resources that guided me through the preparation and submission process. These resources saved me a significant amount of time and effort. If you’re considering submitting your own package to CRAN, I highly recommend leveraging the wealth of knowledge available in the R community.</p>
-<ul>
-<li><a href="https://r-pkgs.org/release.html" target="_blank">Releasing to CRAN</a>, <em>R Packages</em> by Hadley Wickham and Jenny Bryan<br>
-</li>
-<li><a href="https://github.com/DavisVaughan/extrachecks" target="_blank">extrachecks</a> by Davis Vaughan and contributors</li>
-</ul>
-</section>
-<section id="more-than-just-a-collection-of-code" class="level3">
-<h3 class="anchored" data-anchor-id="more-than-just-a-collection-of-code">More Than Just a Collection of Code</h3>
-<p>For me, <a href="https://le-huynh.github.io/lehuynh/" target="_blank"><code>lehuynh</code></a> is more than just a collection of useful code and templates. It’s a personal project that has allowed me to experiment and learn new things. Whether it’s writing templates or understanding the intricacies of publishing on platforms like CRAN and Zenodo, <a href="https://le-huynh.github.io/lehuynh/" target="_blank"><code>lehuynh</code></a> has been my playground for exploration and growth.</p>
-</section>
-<section id="installation" class="level3">
-<h3 class="anchored" data-anchor-id="installation">Installation</h3>
-<p>I hope you find <a href="https://le-huynh.github.io/lehuynh/" target="_blank"><code>lehuynh</code></a> as useful as I have. You can install the package directly from CRAN using the following command:</p>
-<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb1" style="background: #f1f3f5;"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb1-1"><span class="fu" style="color: #4758AB;
-background-color: null;
-font-style: inherit;">install.packages</span>(<span class="st" style="color: #20794D;
-background-color: null;
-font-style: inherit;">"lehuynh"</span>)</span></code></pre></div></div>
-<p>To get the latest in-development features, install the development version from GitHub:</p>
-<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb2" style="background: #f1f3f5;"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb2-1"><span class="cf" style="color: #003B4F;
-background-color: null;
-font-weight: bold;
-font-style: inherit;">if</span>(<span class="sc" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">!</span><span class="fu" style="color: #4758AB;
-background-color: null;
-font-style: inherit;">requireNamespace</span>(<span class="st" style="color: #20794D;
-background-color: null;
-font-style: inherit;">"devtools"</span>, <span class="at" style="color: #657422;
-background-color: null;
-font-style: inherit;">quietly =</span> <span class="cn" style="color: #8f5902;
-background-color: null;
-font-style: inherit;">TRUE</span>)) {</span>
-<span id="cb2-2"> <span class="fu" style="color: #4758AB;
-background-color: null;
-font-style: inherit;">install.packages</span>(<span class="st" style="color: #20794D;
-background-color: null;
-font-style: inherit;">"devtools"</span>)</span>
-<span id="cb2-3">}</span>
-<span id="cb2-4">devtools<span class="sc" style="color: #5E5E5E;
-background-color: null;
-font-style: inherit;">::</span><span class="fu" style="color: #4758AB;
-background-color: null;
-font-style: inherit;">install_github</span>(<span class="st" style="color: #20794D;
-background-color: null;
-font-style: inherit;">"le-huynh/lehuynh"</span>)</span></code></pre></div></div>
-<p>Additionally, this package is accessible for download via Zenodo at <a href="https://doi.org/10.5281/zenodo.11522849" target="_blank">10.5281/zenodo.11522849</a>.</p>
-<p>For a comprehensive overview of the package’s functions, check out the package website at<br>
-<a href="https://le-huynh.github.io/lehuynh/" target="_blank">le-huynh.github.io/lehuynh/</a>.</p>
-<p>Now, my beer is ready. Cheers!</p>
-<hr>
-<p><a href="../blog.html">← Back to all blog posts</a></p>
-
-
-</section>
-
- ]]></description>
-  <category>R-package</category>
-  <category>R</category>
-  <guid>https://lehuynh.rbind.io/blog/lehuynh_CRAN.html</guid>
-  <pubDate>Sat, 17 Oct 2026 03:56:34 GMT</pubDate>
-  <media:content url="https://lehuynh.rbind.io/r_code/package_lehuynh/lehuynh.png" medium="image" type="image/png" height="167" width="144"/>
 </item>
 <item>
   <title>Targeted elevation mapping with grayscale contrast using R</title>
@@ -947,7 +857,7 @@ font-style: inherit;">"white"</span>)</span></code></pre></div></div>
   <category>R</category>
   <category>map</category>
   <guid>https://lehuynh.rbind.io/blog/viz-map-elevation/</guid>
-  <pubDate>Sat, 17 Oct 2026 03:56:34 GMT</pubDate>
+  <pubDate>Sun, 18 Oct 2026 17:23:45 GMT</pubDate>
   <media:content url="https://lehuynh.rbind.io/blog/viz-map-elevation/map_elevation_shadow.png" medium="image" type="image/png" height="158" width="144"/>
 </item>
 <item>
@@ -1399,7 +1309,7 @@ font-style: inherit;">"black"</span>)</span></code></pre></div></div>
   <category>R</category>
   <category>map</category>
   <guid>https://lehuynh.rbind.io/blog/viz-map-terrain/</guid>
-  <pubDate>Sat, 17 Oct 2026 03:56:34 GMT</pubDate>
+  <pubDate>Sun, 18 Oct 2026 17:23:45 GMT</pubDate>
   <media:content url="https://lehuynh.rbind.io/blog/viz-map-terrain/map-terrain-shadow.png" medium="image" type="image/png" height="151" width="144"/>
 </item>
 <item>
@@ -1688,7 +1598,7 @@ font-style: inherit;"># text color</span></span>
 background-color: null;
 font-style: inherit;">text_cex =</span> <span class="fl" style="color: #AD0000;
 background-color: null;
-font-style: inherit;">0.9</span>             <span class="co" style="color: #5E5E5E;
+font-style: inherit;">0.8</span>             <span class="co" style="color: #5E5E5E;
 background-color: null;
 font-style: inherit;"># text size</span></span>
 <span id="cb4-14">  )</span></code></pre></div></div>
@@ -1920,7 +1830,7 @@ font-style: inherit;"># classic nautical compass rose</span></span>
   <category>R</category>
   <category>map</category>
   <guid>https://lehuynh.rbind.io/blog/tips-arrow_scale_bar_in_map.html</guid>
-  <pubDate>Sat, 17 Oct 2026 03:56:34 GMT</pubDate>
+  <pubDate>Sun, 18 Oct 2026 17:23:45 GMT</pubDate>
   <media:content url="https://lehuynh.rbind.io/static/img/map_arrow_scale_bar.png" medium="image" type="image/png" height="100" width="144"/>
 </item>
 <item>
@@ -1986,8 +1896,98 @@ Big thanks to <a href="https://huynhvu.com/" target="_blank">Dr.&nbsp;Huynh Vu</
   <category>error</category>
   <category>R</category>
   <guid>https://lehuynh.rbind.io/blog/error-csv-parse-error.html</guid>
-  <pubDate>Sat, 17 Oct 2026 03:56:34 GMT</pubDate>
+  <pubDate>Sun, 18 Oct 2026 17:23:45 GMT</pubDate>
   <media:content url="https://lehuynh.rbind.io/static/img/error.png" medium="image" type="image/png" height="123" width="144"/>
+</item>
+<item>
+  <title>lehuynh: Available on CRAN!</title>
+  <link>https://lehuynh.rbind.io/blog/lehuynh_CRAN.html</link>
+  <description><![CDATA[ 
+
+
+
+
+<p><a href="https://le-huynh.github.io/lehuynh/" target="_blank"> <img align="right" alt="logo" width="150" src="https://github.com/le-huynh/lehuynh/blob/master/man/figures/logo.png?raw=true"> </a></p>
+<p><a href="https://CRAN.R-project.org/package=lehuynh" target="_blank"> <img align="left" alt="cran" style="margin-right: 5px;" src="https://www.r-pkg.org/badges/version/lehuynh"> </a></p>
+<p><a href="https://github.com/le-huynh/lehuynh/actions/workflows/R-CMD-check.yaml" target="_blank"> <img align="left" alt="r-cmd-check" style="margin-right: 5px;" src="https://github.com/le-huynh/lehuynh/actions/workflows/R-CMD-check.yaml/badge.svg"> </a></p>
+<p><a href="https://lifecycle.r-lib.org/articles/stages.html#stable" target="_blank"> <img align="left" alt="lifecycle" style="margin-right: 5px;" src="https://img.shields.io/badge/lifecycle-stable-brightgreen.svg"> </a></p>
+<p><a href="https://doi.org/10.5281/zenodo.11522849" target="_blank"> <img align="left" alt="doi" src="https://zenodo.org/badge/DOI/10.5281/zenodo.11522849.svg"> </a></p>
+<p><br></p>
+<p>→ <a href="https://github.com/le-huynh/lehuynh" target="_blank">GitHub repository</a><br>
+→ <a href="https://le-huynh.github.io/lehuynh/" target="_blank"> Package documentation</a></p>
+<p>I am thrilled to announce that my personal R package, <a href="https://le-huynh.github.io/lehuynh/" target="_blank"><code>lehuynh</code></a>, is officially available on CRAN!</p>
+<p><a href="https://le-huynh.github.io/lehuynh/" target="_blank"><code>lehuynh</code></a> is a collection of miscellaneous R functions and templates that I’ve found particularly useful over time. It includes:</p>
+<ul>
+<li>Functions for graphics, data importation, data transformation, and general utilities.</li>
+<li>Templates for exploratory analysis, Bayesian modeling, and crafting scientific manuscripts.</li>
+</ul>
+<section id="a-learning-journey" class="level3">
+<h3 class="anchored" data-anchor-id="a-learning-journey">A Learning Journey</h3>
+<p>Publishing <a href="https://le-huynh.github.io/lehuynh/" target="_blank"><code>lehuynh</code></a> on CRAN has been an incredibly educational experience. Throughout the process, I learned a lot about package development, from structuring the package correctly to ensuring compliance with CRAN’s submission guidelines.</p>
+<p>Big thanks to the <a href="https://cran.r-project.org/CRAN_team.htm" target="_blank">CRAN team</a> for their invaluable feedback. Their suggestions were instrumental in refining and improving my package. After incorporating their feedback, <a href="https://le-huynh.github.io/lehuynh/" target="_blank"><code>lehuynh</code></a> has become much better and more robust.</p>
+<p>I also want to acknowledge the numerous references and resources that guided me through the preparation and submission process. These resources saved me a significant amount of time and effort. If you’re considering submitting your own package to CRAN, I highly recommend leveraging the wealth of knowledge available in the R community.</p>
+<ul>
+<li><a href="https://r-pkgs.org/release.html" target="_blank">Releasing to CRAN</a>, <em>R Packages</em> by Hadley Wickham and Jenny Bryan<br>
+</li>
+<li><a href="https://github.com/DavisVaughan/extrachecks" target="_blank">extrachecks</a> by Davis Vaughan and contributors</li>
+</ul>
+</section>
+<section id="more-than-just-a-collection-of-code" class="level3">
+<h3 class="anchored" data-anchor-id="more-than-just-a-collection-of-code">More Than Just a Collection of Code</h3>
+<p>For me, <a href="https://le-huynh.github.io/lehuynh/" target="_blank"><code>lehuynh</code></a> is more than just a collection of useful code and templates. It’s a personal project that has allowed me to experiment and learn new things. Whether it’s writing templates or understanding the intricacies of publishing on platforms like CRAN and Zenodo, <a href="https://le-huynh.github.io/lehuynh/" target="_blank"><code>lehuynh</code></a> has been my playground for exploration and growth.</p>
+</section>
+<section id="installation" class="level3">
+<h3 class="anchored" data-anchor-id="installation">Installation</h3>
+<p>I hope you find <a href="https://le-huynh.github.io/lehuynh/" target="_blank"><code>lehuynh</code></a> as useful as I have. You can install the package directly from CRAN using the following command:</p>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb1" style="background: #f1f3f5;"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb1-1"><span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">install.packages</span>(<span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"lehuynh"</span>)</span></code></pre></div></div>
+<p>To get the latest in-development features, install the development version from GitHub:</p>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb2" style="background: #f1f3f5;"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb2-1"><span class="cf" style="color: #003B4F;
+background-color: null;
+font-weight: bold;
+font-style: inherit;">if</span>(<span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">!</span><span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">requireNamespace</span>(<span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"devtools"</span>, <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">quietly =</span> <span class="cn" style="color: #8f5902;
+background-color: null;
+font-style: inherit;">TRUE</span>)) {</span>
+<span id="cb2-2"> <span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">install.packages</span>(<span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"devtools"</span>)</span>
+<span id="cb2-3">}</span>
+<span id="cb2-4">devtools<span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">::</span><span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">install_github</span>(<span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"le-huynh/lehuynh"</span>)</span></code></pre></div></div>
+<p>Additionally, this package is accessible for download via Zenodo at <a href="https://doi.org/10.5281/zenodo.11522849" target="_blank">10.5281/zenodo.11522849</a>.</p>
+<p>For a comprehensive overview of the package’s functions, check out the package website at<br>
+<a href="https://le-huynh.github.io/lehuynh/" target="_blank">le-huynh.github.io/lehuynh/</a>.</p>
+<p>Now, my beer is ready. Cheers!</p>
+<hr>
+<p><a href="../blog.html">← Back to all blog posts</a></p>
+
+
+</section>
+
+ ]]></description>
+  <category>R-package</category>
+  <category>R</category>
+  <guid>https://lehuynh.rbind.io/blog/lehuynh_CRAN.html</guid>
+  <pubDate>Sun, 18 Oct 2026 17:23:45 GMT</pubDate>
+  <media:content url="https://lehuynh.rbind.io/r_code/package_lehuynh/lehuynh.png" medium="image" type="image/png" height="167" width="144"/>
 </item>
 <item>
   <title>Getting Stadia Maps API for ggmap Rpackage</title>
@@ -2051,7 +2051,7 @@ font-style: inherit;">FALSE</span>)</span></code></pre></div></div>
   <category>R</category>
   <category>map</category>
   <guid>https://lehuynh.rbind.io/blog/tips-api-stadia-map.html</guid>
-  <pubDate>Sat, 17 Oct 2026 03:56:34 GMT</pubDate>
+  <pubDate>Sun, 18 Oct 2026 17:23:45 GMT</pubDate>
   <media:content url="https://lehuynh.rbind.io/static/img/tips.png" medium="image" type="image/png" height="100" width="144"/>
 </item>
 <item>
@@ -2082,7 +2082,7 @@ font-style: inherit;">FALSE</span>)</span></code></pre></div></div>
  ]]></description>
   <category>tips</category>
   <guid>https://lehuynh.rbind.io/blog/tips-download-specific-folder-github.html</guid>
-  <pubDate>Sat, 17 Oct 2026 03:56:34 GMT</pubDate>
+  <pubDate>Sun, 18 Oct 2026 17:23:45 GMT</pubDate>
   <media:content url="https://lehuynh.rbind.io/static/img/tips.png" medium="image" type="image/png" height="100" width="144"/>
 </item>
 <item>
@@ -2146,7 +2146,7 @@ font-style: inherit;">"value2"</span>))</span></code></pre></div></div>
   <category>R</category>
   <category>R-package</category>
   <guid>https://lehuynh.rbind.io/blog/tips-Rpackage-undefined-global-variables.html</guid>
-  <pubDate>Sat, 17 Oct 2026 03:56:34 GMT</pubDate>
+  <pubDate>Sun, 18 Oct 2026 17:23:45 GMT</pubDate>
   <media:content url="https://lehuynh.rbind.io/static/img/tips.png" medium="image" type="image/png" height="100" width="144"/>
 </item>
 <item>
@@ -2204,7 +2204,7 @@ font-style: inherit;">#&gt; Refer to functions with dplyr::fun()</span></span></
   <category>R</category>
   <category>R-package</category>
   <guid>https://lehuynh.rbind.io/blog/warning-imports-not-declared-from-package-name.html</guid>
-  <pubDate>Sat, 17 Oct 2026 03:56:34 GMT</pubDate>
+  <pubDate>Sun, 18 Oct 2026 17:23:45 GMT</pubDate>
   <media:content url="https://lehuynh.rbind.io/static/img/warning_red.png" medium="image" type="image/png" height="102" width="144"/>
 </item>
 <item>
@@ -2257,7 +2257,7 @@ font-style: inherit;">#&gt; Refer to functions with dplyr::fun()</span></span></
  ]]></description>
   <category>tips</category>
   <guid>https://lehuynh.rbind.io/blog/tips-hugo-creative-portfolio-theme-fit-screen/</guid>
-  <pubDate>Sat, 17 Oct 2026 03:56:34 GMT</pubDate>
+  <pubDate>Sun, 18 Oct 2026 17:23:45 GMT</pubDate>
   <media:content url="https://lehuynh.rbind.io/static/img/tips.png" medium="image" type="image/png" height="100" width="144"/>
 </item>
 <item>
@@ -2305,7 +2305,7 @@ An example of RStudio built-in nippet
   <category>tips</category>
   <category>R</category>
   <guid>https://lehuynh.rbind.io/blog/tips-r-snippet/</guid>
-  <pubDate>Sat, 17 Oct 2026 03:56:34 GMT</pubDate>
+  <pubDate>Sun, 18 Oct 2026 17:23:45 GMT</pubDate>
   <media:content url="https://lehuynh.rbind.io/static/img/tips.png" medium="image" type="image/png" height="100" width="144"/>
 </item>
 <item>
@@ -2483,6 +2483,8 @@ font-style: inherit;">"tiny_piece_of_the_monster_02.pdf"</span>)</span></code></
 <section id="further-information" class="level3">
 <h3 class="anchored" data-anchor-id="further-information">Further information</h3>
 <p><a href="https://docs.ropensci.org/pdftools/"><code>pdftools</code> documentation</a></p>
+<hr>
+<p><a href="../blog.html">← Back to all blog posts</a></p>
 
 
 </section>
@@ -2491,7 +2493,164 @@ font-style: inherit;">"tiny_piece_of_the_monster_02.pdf"</span>)</span></code></
   <category>tips</category>
   <category>R</category>
   <guid>https://lehuynh.rbind.io/blog/tips-pdftools.html</guid>
-  <pubDate>Sat, 17 Oct 2026 03:56:34 GMT</pubDate>
+  <pubDate>Sun, 18 Oct 2026 17:23:45 GMT</pubDate>
+  <media:content url="https://lehuynh.rbind.io/static/img/tips.png" medium="image" type="image/png" height="100" width="144"/>
+</item>
+<item>
+  <title>ggsave_elsevier(): make journal-ready figures easier</title>
+  <link>https://lehuynh.rbind.io/blog/tips-ggsave-elsevier/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>When preparing figures for a scientific manuscript, getting the plot right is only half the work. We also need to export it at an appropriate size for journal submission.</p>
+<p>I created <a href="https://le-huynh.github.io/lehuynh/reference/ggsave_elsevier.html"><code>ggsave_elsevier()</code></a>, a small wrapper around <code>ggplot2::ggsave()</code> in my R package <a href="https://le-huynh.github.io/lehuynh/"><strong>lehuynh</strong></a> to make this step easier. Pick a column width by name, give a height, and the figure is saved at journal-ready size.</p>
+<section id="why-ggsave_elsevier" class="level2">
+<h2 class="anchored" data-anchor-id="why-ggsave_elsevier">Why <code>ggsave_elsevier()</code>?</h2>
+<p>Elsevier’s <a href="https://www.elsevier.com/about/policies-and-standards/author/artwork-and-media-instructions/artwork-sizing">artwork sizing guidelines</a> provide recommended artwork widths for different figure layouts:</p>
+<table class="caption-top table">
+<thead>
+<tr class="header">
+<th><code>width =</code></th>
+<th>Layout</th>
+<th>Width</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><code>"one_column"</code></td>
+<td>Single column</td>
+<td>90 mm</td>
+</tr>
+<tr class="even">
+<td><code>"one_half_column"</code></td>
+<td>1.5 column</td>
+<td>140 mm</td>
+</tr>
+<tr class="odd">
+<td><code>"full_page"</code></td>
+<td>Double column (full width)</td>
+<td>190 mm</td>
+</tr>
+</tbody>
+</table>
+<p>Height is up to us, in millimetres, with a maximum of 240 mm.</p>
+<p><img src="https://lehuynh.rbind.io/blog/tips-ggsave-elsevier/elsevier_artwork_sizing.png" class="img-fluid"></p>
+</section>
+<section id="installation" class="level2">
+<h2 class="anchored" data-anchor-id="installation">Installation</h2>
+<div class="cell">
+<div class="code-copy-outer-scaffold"><div class="sourceCode cell-code" id="cb1" style="background: #f1f3f5;"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb1-1"><span class="co" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;"># install.packages("remotes")</span></span>
+<span id="cb1-2">remotes<span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">::</span><span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">install_github</span>(<span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"le-huynh/lehuynh"</span>)</span></code></pre></div></div>
+</div>
+</section>
+<section id="usage" class="level2">
+<h2 class="anchored" data-anchor-id="usage">Usage</h2>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb2" style="background: #f1f3f5;"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb2-1"><span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">ggsave_elsevier</span>(filename, </span>
+<span id="cb2-2">                plot,</span>
+<span id="cb2-3">                <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">width =</span> <span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">c</span>(<span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"one_column"</span>, <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"one_half_column"</span>, <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"full_page"</span>),</span>
+<span id="cb2-4">                height,</span>
+<span id="cb2-5">                ...)</span></code></pre></div></div>
+<div class="cell">
+<div class="code-copy-outer-scaffold"><div class="sourceCode cell-code" id="cb3" style="background: #f1f3f5;"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb3-1"><span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">library</span>(ggplot2)</span>
+<span id="cb3-2"><span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">library</span>(lehuynh)</span>
+<span id="cb3-3"></span>
+<span id="cb3-4">fig <span class="ot" style="color: #003B4F;
+background-color: null;
+font-style: inherit;">&lt;-</span> <span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">ggplot</span>(mtcars, <span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">aes</span>(<span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">x =</span> disp, <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">y =</span> mpg)) <span class="sc" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">+</span></span>
+<span id="cb3-5">  <span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">geom_point</span>(<span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">aes</span>(<span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">colour =</span> <span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">factor</span>(cyl)))</span>
+<span id="cb3-6"></span>
+<span id="cb3-7"><span class="fu" style="color: #4758AB;
+background-color: null;
+font-style: inherit;">ggsave_elsevier</span>(<span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"figure1.png"</span>,</span>
+<span id="cb3-8">                <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">plot =</span> fig,</span>
+<span id="cb3-9">                <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">width  =</span> <span class="st" style="color: #20794D;
+background-color: null;
+font-style: inherit;">"full_page"</span>,</span>
+<span id="cb3-10">                <span class="at" style="color: #657422;
+background-color: null;
+font-style: inherit;">height =</span> <span class="dv" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">120</span>)</span></code></pre></div></div>
+</div>
+<p>That’s it: <code>figure1.png</code> is 190 mm wide and 120 mm tall.</p>
+<p>Anything that passes through <code>...</code> goes straight to <code>ggplot2::ggsave()</code>, so we keep full control over resolution, file format, and device, e.g.&nbsp;<code>dpi = 300</code> or a <code>.tiff</code> / <code>.pdf</code> filename.</p>
+</section>
+<section id="why-bother-with-a-wrapper" class="level2">
+<h2 class="anchored" data-anchor-id="why-bother-with-a-wrapper">Why bother with a wrapper?</h2>
+<ul>
+<li><strong>No more magic numbers.</strong> <code>width = "one_column"</code> reads better in a script than <code>width = 90, units = "mm"</code>, and it documents intent.</li>
+<li><strong>Design at final size.</strong> Saving at the real print width early means font sizes, point sizes, and legends get tuned for how the figure will actually appear in the journal, not how it looks in RStudio’s plot pane.</li>
+<li><strong>Consistency across a manuscript.</strong></li>
+</ul>
+</section>
+<section id="give-it-a-try" class="level2">
+<h2 class="anchored" data-anchor-id="give-it-a-try">Give it a try</h2>
+<ul>
+<li>Function documentation: <a href="https://le-huynh.github.io/lehuynh/reference/ggsave_elsevier.html"><code>ggsave_elsevier()</code></a></li>
+<li>Source code and issues: <a href="https://github.com/le-huynh/lehuynh">github.com/le-huynh/lehuynh</a></li>
+</ul>
+<p>Give it a try! If you run into any issues or have ideas for similar helpers, feel free to open an <a href="https://github.com/le-huynh/lehuynh/issues">issue</a> on GitHub. I’d love to hear about it!</p>
+<hr>
+<p><a href="../../blog.html">← Back to all blog posts</a></p>
+
+
+</section>
+
+ ]]></description>
+  <category>tips</category>
+  <category>R</category>
+  <guid>https://lehuynh.rbind.io/blog/tips-ggsave-elsevier/</guid>
+  <pubDate>Sun, 18 Oct 2026 17:23:45 GMT</pubDate>
   <media:content url="https://lehuynh.rbind.io/static/img/tips.png" medium="image" type="image/png" height="100" width="144"/>
 </item>
 </channel>

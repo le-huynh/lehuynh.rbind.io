@@ -79,7 +79,7 @@ map +
     bar_cols = c("#BD6E53", "white"), # bar color
     line_col = "#BD6E53",      # line color
     text_col = "#BD6E53",      # text color
-    text_cex = 0.9             # text size
+    text_cex = 0.8             # text size
   )
 ```
 

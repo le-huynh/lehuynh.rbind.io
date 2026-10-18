@@ -1,9 +1,9 @@
 ---
-title: "lehuynh: Now Available on CRAN!"
+title: "lehuynh: Available on CRAN!"
 slug: lehuynh-CRAN
 categories: [R-package, R]
 image: ../r_code/package_lehuynh/lehuynh.png
-order: 1
+order: 3
 description: "R/lehuynh: Personal R package"
 ---
 
@@ -30,10 +30,10 @@ description: "R/lehuynh: Personal R package"
 <br>
 
 → <a href="https://github.com/le-huynh/lehuynh" target="_blank">GitHub repository</a>  
-→ <a href="https://le-huynh.github.io/lehuynh/" target="_blank"> Package Website</a>  
+→ <a href="https://le-huynh.github.io/lehuynh/" target="_blank"> Package documentation</a>  
 
 
-I am thrilled to announce that my personal R package, <a href="https://le-huynh.github.io/lehuynh/" target="_blank">`lehuynh`</a>, is now officially available on CRAN!  
+I am thrilled to announce that my personal R package, <a href="https://le-huynh.github.io/lehuynh/" target="_blank">`lehuynh`</a>, is officially available on CRAN!  
 
 <a href="https://le-huynh.github.io/lehuynh/" target="_blank">`lehuynh`</a> is a collection of miscellaneous R functions and templates that I've found particularly useful over time. 
 It includes:
