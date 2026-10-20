@@ -5,7 +5,9 @@ listing:
   contents: blog
   image-height: auto
   feed: true
-  sort: "order"
+  sort:
+    - "order"
+    - "file-modified desc"
   type: grid
   grid-item-border: true
   grid-item-align: left

@@ -1,11 +1,21 @@
 [
   {
-    "listing": "/r_code.html",
+    "listing": "/blog.html",
     "items": [
-      "/r_code/package_chva_extras/index.html",
-      "/r_code/package_lehuynh/index.html",
-      "/r_code/package_omics4drug/index.html",
-      "/r_code/package_cellviability/index.html"
+      "/blog/bookmark-collection.html",
+      "/blog/viz-map-terrain/index.html",
+      "/blog/viz-map-elevation/index.html",
+      "/blog/tips-arrow_scale_bar_in_map.html",
+      "/blog/tips-pdftools.html",
+      "/blog/tips-ggsave-elsevier/index.html",
+      "/blog/lehuynh_CRAN.html",
+      "/blog/tips-r-snippet/index.html",
+      "/blog/tips-hugo-creative-portfolio-theme-fit-screen/index.html",
+      "/blog/warning-imports-not-declared-from-package-name.html",
+      "/blog/tips-Rpackage-undefined-global-variables.html",
+      "/blog/tips-download-specific-folder-github.html",
+      "/blog/tips-api-stadia-map.html",
+      "/blog/error-csv-parse-error.html"
     ]
   },
   {
@@ -21,22 +31,12 @@
     ]
   },
   {
-    "listing": "/blog.html",
+    "listing": "/r_code.html",
     "items": [
-      "/blog/bookmark-collection.html",
-      "/blog/viz-map-elevation/index.html",
-      "/blog/viz-map-terrain/index.html",
-      "/blog/tips-arrow_scale_bar_in_map.html",
-      "/blog/error-csv-parse-error.html",
-      "/blog/lehuynh_CRAN.html",
-      "/blog/tips-api-stadia-map.html",
-      "/blog/tips-download-specific-folder-github.html",
-      "/blog/tips-Rpackage-undefined-global-variables.html",
-      "/blog/warning-imports-not-declared-from-package-name.html",
-      "/blog/tips-hugo-creative-portfolio-theme-fit-screen/index.html",
-      "/blog/tips-r-snippet/index.html",
-      "/blog/tips-pdftools.html",
-      "/blog/tips-ggsave-elsevier/index.html"
+      "/r_code/package_chva_extras/index.html",
+      "/r_code/package_lehuynh/index.html",
+      "/r_code/package_omics4drug/index.html",
+      "/r_code/package_cellviability/index.html"
     ]
   }
 ]

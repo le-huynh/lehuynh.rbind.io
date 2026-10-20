@@ -1,0 +1,15 @@
+{
+  "hash": "cfb19e60c055790acb66c751ec6c3a9f",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\npagetitle: \"404\"\n---\n\n<br>\n\n\n::: {.cell layout-align=\"center\"}\n::: {.cell-output-display}\n![](static/img/404.png){fig-align='center' width=40%}\n:::\n:::\n\n\n::: {.center-text .large-text .josefin-font}\nOops! The page you’re looking for doesn’t exist or may have moved. \n\nHead back to the [homepage](https://lehuynh.rbind.io/){target=_blank}, search for some key words <span style=\"font-size: 1.8em;\">⌕</span>, or [reach out](mailto:trucly.lehuynh@gmail.com) <span style=\"font-size: 1.8em;\">✉</span>\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

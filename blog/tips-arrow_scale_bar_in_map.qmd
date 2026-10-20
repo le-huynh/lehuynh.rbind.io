@@ -3,7 +3,7 @@ title: "Adding a scale bar and north arrow to ggplot2 maps"
 description: "Using **ggspatial** package"
 categories: [tips, R, map]
 image: ../static/img/map_arrow_scale_bar.png
-order: 2
+order: 3
 editor_options: 
   chunk_output_type: console
 ---

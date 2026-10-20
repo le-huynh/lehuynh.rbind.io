@@ -1,0 +1,19 @@
+---
+pagetitle: "404"
+---
+
+<br>
+
+```{r}
+#| eval: true
+#| echo: false
+#| out-width: "40%"
+#| fig-align: "center"
+knitr::include_graphics("static/img/404.png")
+```
+
+::: {.center-text .large-text .josefin-font}
+Oops! The page you’re looking for doesn’t exist or may have moved. 
+
+Head back to the [homepage](https://lehuynh.rbind.io/){target=_blank}, search for some key words <span style="font-size: 1.8em;">⌕</span>, or [reach out](mailto:trucly.lehuynh@gmail.com) <span style="font-size: 1.8em;">✉</span>
+:::
