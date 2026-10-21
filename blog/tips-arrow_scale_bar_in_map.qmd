@@ -31,7 +31,7 @@ map <- ggplot() +
         geom_sf() +
         # sets geographic coordinates (Lat/Long in degrees)
         coord_sf(crs = 4326) +
-        borders("county", regions = "Virginia", colour = "deepskyblue2") +
+        borders("county", regions = "Virginia", colour = "#757B6D") +
         labs(title = "Virginia, United States\n") +
         theme_void() +
         theme(plot.title = element_text(hjust = 0.5))
