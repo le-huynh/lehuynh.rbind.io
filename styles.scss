@@ -18,6 +18,8 @@ $medium-gray: #64605f;
 $violet: #846075;
 $terracotta: #BD6E53; 
 $terracotta-dark: #a2604a;
+$terracotta-light: #D4957F;
+$champagne: #E7CEBE;
 //$hunter-green: #464B37;
 //$terracotta-dark: #a15e47;
 //$orange: #c27e00;
@@ -238,6 +240,19 @@ a {
 
 .callout.callout-style-default .callout-body {
   background-color: $cream;
+}
+
+div.callout-note.callout {
+  border-left-color: $terracotta-light !important;
+}
+
+div.callout-note.callout-style-default > .callout-header {
+  background-color: #F9ECE5 !important;
+  color: $terracotta-dark;
+}
+
+div.callout-note.callout .callout-icon::before {
+  background-color: $terracotta-light !important;
 }
 
 // listing description text styling

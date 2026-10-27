@@ -69,6 +69,16 @@ By linking statewide, patient-level health records with high-resolution environm
 
 > **Le‑Huynh, T.‑L.**, Novicoff, W. M., DeGuzman, P. B., Davis, R. E. (2026). Assessing the Importance of Spatial Scale in Climate-Health Models: the Effect of Temperature on Emergency Department Visits in Richmond, Virginia. [*GeoHealth*, 10, e2026GH001852](https://doi.org/10.1029/2026gh001852)
 
+::: {.callout-note collapse="true" icon="false"}
+## Plain Language Summary
+Many climate health studies assume that a single weather station can represent an entire area, but it is unclear whether using more detailed climate data improves the information. We examined how temperature affected emergency department visits in Richmond, Virginia, USA, from 2016 to 2022, by comparing traditional station data with a detailed climate data set that records data on a fine-scale spatial grid. Our results showed that both data sets produced very similar findings and captured health impacts consistently across different spatial levels, even during extreme heat or cold. These findings suggest that a single high-quality weather station is sufficient to study temperature-related health risks in regions with relatively uniform climates. Further research in other regions is recommended to confirm whether this conclusion can be applied more broadly.
+:::
+
+::: {.callout-note collapse="true" icon="false"}
+## Abstract
+Climate-health studies often rely on data from a single high-quality weather station to represent the exposure of individuals living in the surrounding region. However, with the availability of various gridded climatic data sets, a critical question is whether spatially explicit data can better capture individual environmental exposures and reveal stronger climate-health associations. We investigated the impact of spatial-scale climatic variability and representativeness for emergency department (ED) visits in Richmond, Virginia, United States. This study compared the climate-health relationship using data from a weather station and the ERA5 reanalysis from 2016 to 2022. We evaluated the correlation of the two time-series and used generalized additive models to compare the temperature-ED visit associations across four nested spatial scales. The results were highly consistent across all spatial scales. The station and ERA5 data exhibited similar distributions. The temperature-ED visit relationships showed strong agreement between the two data sources, reflected in both location-specific and pooled estimates. Although ERA5 produced slightly lower cold-related and higher heat-related estimates at extreme temperatures, no marked differences were found between the two data sources. Our findings suggest that, in this region with a relatively homogeneous climate, the variations of regional climate might be small enough to fall within the model's expected uncertainty. Although this result may not apply in regions with considerable local climate variation, data from a single high-quality station in many regions are appropriate to model climate-health relationships over the greater surrounding areas. We recommend similar comparative work across diverse climatic settings to evaluate the generalizability of this conclusion.
+:::
+
 <!-- Add manuscripts in review / in preparation here, e.g.:
 > **Le‑Huynh, T.‑L.**, et al. (XXX). XXX. *In review*.
 -->

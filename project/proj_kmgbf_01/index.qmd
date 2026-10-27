@@ -23,7 +23,8 @@ the Convention on Biological Diversity Agenda for Nature Pledges.
 *Environmental Science & Policy*, 173(November), 104246. 
 [https://doi.org/10.1016/j.envsci.2025.104246](https://doi.org/10.1016/j.envsci.2025.104246){target="_blank"}
 
-**Abstract**  
+::: {.callout-note collapse="true" icon="false"}
+## Abstract
 The trajectory of global biodiversity governance, culminating in the 2022 Kunming-Montreal Global Biodiversity Framework (KMGBF), reflects a pivot toward transformative change through a “whole-of-society” (WoS) approach. 
 This approach integrates traditional multilateral negotiations with various self-organizing governance initiatives across the public, civil, and business spheres, forming additional layers within a biodiversity regime complex. 
 While praised for its flexibility, horizontal linkages, and adaptability, an open question remains: Has this regime complex effectively delivered on its transformative promises? 
@@ -36,6 +37,7 @@ We argue that the regime complex must be reconceptualized beyond horizontal link
 This study contributes to emerging network approaches in global biodiversity governance by identifying governance gaps and highlighting 
 opportunities for systemic transformation. 
 Strengthening alignment across levels and empowering middle-out actors are essential steps toward translating ambitious global biodiversity goals into effective, inclusive, and locally grounded actions.
+:::
 
 ## Reproducible research code
 
