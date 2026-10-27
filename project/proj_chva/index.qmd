@@ -13,27 +13,65 @@ order: 1
 
 **My contributions**: Conceptualization · Data curation · Data analysis · Data visualization · Cartography · Software development · Code management · Scientific writing  
 
-**Skills used**: Geospatial health modeling · Case time-series design · Distributed lag non-linear models (DLNMs) · Meta-analysis · Big data analytics · R · RMarkdown · Git · GNU Make · R package development  
+**Skills used**: Geospatial health modeling · Case time-series design · Distributed lag non-linear models (DLNMs) · GLMs, GAMs, GNMs · Meta-analysis · Big data analytics · R · RMarkdown · Git · GNU Make · R package development  
 
 
-→ <a href="https://environment.virginia.edu/our-work/climate-related-diseases-and-disparities" target="_blank">Official project page</a>  
+→ [Official project page](https://environment.virginia.edu/our-work/climate-related-diseases-and-disparities)
 
 <hr>
 
-How do climate-related health risks vary across populations, and what factors contribute to these disparities? 
-This project examines relationships between climate conditions, health outcomes, and social vulnerability across Virginia, focusing on identifying populations that may be disproportionately affected by climate extremes.  
+## Project at a glance
 
-The research integrates de-identified patient-level health records from the [Virginia All-Payer Claims Database (APCD)](https://www.vhi.org/apcd/){target="_blank"} with climate and air quality data, demographic information, and social vulnerability indicators. 
-My work includes data integration, geospatial analysis, statistical modeling, and the development of reproducible analytical workflows using R. 
-The project aims to identify factors associated with unequal health risks during climate-related events, such as extreme heat, and to generate evidence that can inform targeted public health communication, climate adaptation strategies, and more equitable public health preparedness.  
+|                         |                                                                                   |
+|-------------------------|-----------------------------------------------------------------------------------|
+| **Health data**         | [Virginia All-Payer Claims Database (APCD)](https://www.vhi.org/apcd/), de-identified patient-level records, 2016–2024; 13.56+ million Virginia residents; 5.26+ billion records |
+| **Health outcomes**     | Emergency department (ED) visits: all-cause, ICD-10 disease categories            |
+| **Climate exposures**   | ERA5-Land reanalysis, ASOS weather stations                                       |
+| **Air quality**         | EAC4 reanalysis, EPA AirNow                                                       |
+| **Vulnerability & environment** | CDC/ATSDR Social Vulnerability Index (SVI), Area Deprivation Index (ADI), urban green space |
+| **Spatial units**       | ZIP Code Tabulation Areas (903 ZCTAs) → counties and independent cities (133) → VDH health districts (35) → health planning regions (5) → The Commonwealth of Virginia |
+| **Study designs**       | Case time-series, time-stratified case-crossover                                  |
+| **Statistical methods** | Generalized linear, generalized additive, generalized nonlinear models (GLMs, GAMs, GNMs); distributed lag non-linear models (DLNMs); meta-analysis |
+| **Team**                | Robert E. Davis (UVA), Wendy M. Novicoff (UVA), Pamela B. DeGuzman (UVA)|
+| **Funder**              | Environmental Institute, University of Virginia                                   |
 
-# Outcomes
+## Why it matters
+
+Climate extremes do not affect everyone equally. 
+Age, income, housing, access to care, and the built environment all shape who gets sick when temperatures soar or air quality worsens. 
+Yet most evidence on climate and health in the US comes from large metropolitan areas and relies on aggregated data that can hide these differences.
+
+This project asks: **how do climate-related health risks vary across populations in Virginia, and what factors drive those disparities?** 
+By linking statewide, patient-level health records with high-resolution environmental and social data, we aim to identify who is most at risk and to generate evidence that can inform targeted public health communication, climate adaptation strategies, and more equitable preparedness.
+
+## Research questions
+
+| Study | Question | Status |
+|-------|----------|--------|
+| **Spatial scale** | Does gridded climate data capture climate–health associations better than a single weather station? | Published, [*GeoHealth*](https://doi.org/10.1029/2026gh001852) (2026)<br><small>Presented at ICB 2026</small>|
+| **Heat & social vulnerability** | Does social vulnerability modify the effect of heat on ED visits? | Analysis ongoing<br><small> 2 Presentations</small> |
+| **Fireworks & respiratory health** | Are fireworks events associated with respiratory ED visits in Virginia? | Manuscript in preparation<br><small>Presented at ICB 2026</small> |
+| **Heat, air quality & diagnoses** | How do heat and air pollution jointly relate to specific ED diagnoses across vulnerability levels? | Manuscript in preparation<br><small>Presented at ICB 2026</small> |
+| **Urban green space** | Does urban green space mitigate heat-related ED visits during heat waves? | Analysis ongoing<br><small>Presented at CELA 2026</small> |
+
+## My role
+
+- Built the data pipelines for extracting and linking APCD records to climate, air quality, and social vulnerability data at multiple spatial scales
+- Led study design, analysis, and manuscript writing
+- Developed and released [`chva.extras`](https://le-huynh.github.io/chva.extras/), an R package for large-scale climate–health analysis in Virginia
+- Set up the project's reproducible workflow (R, Git, GNU Make) and archived analysis code on Zenodo
+- Mentored 4 student researchers, including a student-led study on heat, air quality, and ED diagnoses
+- Presented four presentations at international conference and scientific events, including the International Congress of Biometeorology (Serbia, 2026)
+
+# Outputs
+
 ## Publications
 
-> **Le‑Huynh, T.‑L.**, Novicoff, W. M., DeGuzman, P. B., Davis, R. E. (2026). Assessing the Importance of Spatial Scale in Climate-Health Models: the Effect of Temperature on Emergency Department Visits in Richmond, Virginia. [*GeoHealth*, 10, e2026GH001852](https://doi.org/10.1029/2026gh001852){target="_blank"}
+> **Le‑Huynh, T.‑L.**, Novicoff, W. M., DeGuzman, P. B., Davis, R. E. (2026). Assessing the Importance of Spatial Scale in Climate-Health Models: the Effect of Temperature on Emergency Department Visits in Richmond, Virginia. [*GeoHealth*, 10, e2026GH001852](https://doi.org/10.1029/2026gh001852)
 
-**Abstract**:  
-Climate-health studies often rely on data from a single high-quality weather station to represent the exposure of individuals living in the surrounding region. However, with the availability of various gridded climatic data sets, a critical question is whether spatially explicit data can better capture individual environmental exposures and reveal stronger climate-health associations. We investigated the impact of spatial-scale climatic variability and representativeness for emergency department (ED) visits in Richmond, Virginia, United States. This study compared the climate-health relationship using data from a weather station and the ERA5 reanalysis from 2016 to 2022. We evaluated the correlation of the two time-series and used generalized additive models to compare the temperature-ED visit associations across four nested spatial scales. The results were highly consistent across all spatial scales. The station and ERA5 data exhibited similar distributions. The temperature-ED visit relationships showed strong agreement between the two data sources, reflected in both location-specific and pooled estimates. Although ERA5 produced slightly lower cold-related and higher heat-related estimates at extreme temperatures, no marked differences were found between the two data sources. Our findings suggest that, in this region with a relatively homogeneous climate, the variations of regional climate might be small enough to fall within the model's expected uncertainty. Although this result may not apply in regions with considerable local climate variation, data from a single high-quality station in many regions are appropriate to model climate-health relationships over the greater surrounding areas. We recommend similar comparative work across diverse climatic settings to evaluate the generalizability of this conclusion.  
+<!-- Add manuscripts in review / in preparation here, e.g.:
+> **Le‑Huynh, T.‑L.**, et al. (XXX). XXX. *In review*.
+-->
 
 ## [R-package] [`chva.extras`](https://le-huynh.github.io/chva.extras/){target="_blank"}
 
@@ -41,7 +79,7 @@ Climate-health studies often rely on data from a single high-quality weather sta
 <img align="right" alt="logo" width="150" src="https://github.com/le-huynh/chva.extras/blob/master/man/figures/logo.png?raw=true" />
 </a>  
 
-> **Le-Huynh, T.-L.**, Davis, R. E., Novicoff, W. M., & DeGuzman, P. B. (2025). chva.extras v0.1.0: Supplementary Tools for Climate and Health Research in VA (Version v0.1.0) [Computer software]. Zenodo. [https://doi.org/10.5281/zenodo.14910967](https://doi.org/10.5281/zenodo.14910967){target="_blank"}
+> **Le-Huynh, T.-L.**, Davis, R. E., Novicoff, W. M., & DeGuzman, P. B. (2025). chva.extras v0.1.0: Supplementary Tools for Climate and Health Research in Virginia (Version v0.1.0) [Computer software]. Zenodo. [https://doi.org/10.5281/zenodo.14910967](https://doi.org/10.5281/zenodo.14910967){target="_blank"}
 
 [`chva.extras`](https://le-huynh.github.io/chva.extras/){target="_blank"} is a collection of supplementary functions and templates designed 
 to support climate and health research in Virginia, including tools for data manipulation, 
@@ -52,7 +90,10 @@ Explore the package at [https://le-huynh.github.io/chva.extras/](https://le-huyn
 ## Reproducible research code
 > **Le‑Huynh, T.‑L.**, Novicoff, W. M., DeGuzman, P. B., Davis, R. E. (2026). Reproducible code for "Assessing the Importance of Spatial Scale in Climate-Health Models: the Effect of Temperature on Emergency Department Visits in Richmond, Virginia" (Version v1.0.0) [Computer software]. Zenodo. [https://doi.org/10.5281/zenodo.20076108](https://doi.org/10.5281/zenodo.20076108){target=_blank}
 
-## Scientific & Professional Presentations
+## Presentations
+
+::: {.callout-note collapse="true" icon="false"}
+## Scientific & Professional Presentations (7)
 - **Le‑Huynh, T.‑L.**, Novicoff, W., DeGuzman, P., Davis, R., Heat and Emergency Department Visits: Does Social Vulnerability Matter? [Oral presentation], *2026 Climate Fellows Research Showcase*, Charlottesville, Virginia, USA, September 2026.
 - **Le‑Huynh, T.‑L.**, Davis, R. E., Novicoff, W. M., Enfield, K. B., Are Fireworks Associated with Respiratory Emergency Department Visits in Virginia? [Oral presentation], *24th International Congress of Biometeorology*, Novi Sad, Serbia, July 2026.
 - Kakatkar, S., **Le‑Huynh, T.‑L.**, Davis, R. E., Heat, Air Quality, and Emergency Department Diagnoses: Social Vulnerability and Biometeorological Stress in Virginia [Oral presentation], *24th International Congress of Biometeorology*, Novi Sad, Serbia, July 2026.
@@ -60,7 +101,12 @@ Explore the package at [https://le-huynh.github.io/chva.extras/](https://le-huyn
 - **Le‑Huynh, T.‑L.**, Davis, R. E., Novicoff, W. M., Enfield, K. B., Are Fireworks Associated with Respiratory Emergency Department Visits in Virginia? [Poster presentation], *2026 UVA Postdoctoral Research Symposium*, Charlottesville, Virginia, USA, April 2026.
 - Ha, J., Hosseini, P., Davis, R., **Le‑Huynh, T.‑L.**, Novicoff, W., Delaar, G., Yoo, J., & Sa. H., Urban green space and emergency department visits during heat waves [Oral presentation], *Council of Educators in Landscape Architecture*, Portland, Oregon, USA, March 2026.
 - **Le‑Huynh, T.‑L.**, Novicoff, W., DeGuzman, P., Davis, R., Exploring climate-health disparities in Virginia: Toward AI-driven solutions [Poster presentation], *Environmental Futures Forum 2025*, Charlottesville, Virginia, USA, October 2025.
+:::
+
+## Media
+> 📰 **In the news:** [More Detailed Climate Data Doesn't Always Mean Better Health Predictions, UVA Study Finds](https://environment.virginia.edu/news/more-detailed-climate-data-doesnt-always-mean-better-health-predictions%2C-uva-study-finds), *UVA Environmental Institute*, October 20, 2026
 
 ---
 
 [← Back to all projects](../../projects.qmd)
+
