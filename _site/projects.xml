@@ -10,7 +10,7 @@
 <atom:link href="https://lehuynh.rbind.io/projects.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.10.18</generator>
-<lastBuildDate>Tue, 27 Oct 2026 04:43:21 GMT</lastBuildDate>
+<lastBuildDate>Wed, 28 Oct 2026 19:00:49 GMT</lastBuildDate>
 <item>
   <title>Climate and Health in Virginia</title>
   <link>https://lehuynh.rbind.io/project/proj_chva/</link>
@@ -167,18 +167,18 @@
 </div>
 </div>
 </div>
-<!-- Add manuscripts in review / in preparation here, e.g.:
-> **Le‑Huynh, T.‑L.**, et al. (XXX). XXX. *In review*.
--->
 </section>
-<section id="r-package-chva.extras" class="level2">
-<h2 class="anchored" data-anchor-id="r-package-chva.extras">[R-package] <a href="https://le-huynh.github.io/chva.extras/" target="_blank"><code>chva.extras</code></a></h2>
+<section id="r-package" class="level2">
+<h2 class="anchored" data-anchor-id="r-package">R package</h2>
+<section id="chva.extras" class="level3">
+<h3 class="anchored" data-anchor-id="chva.extras"><a href="https://le-huynh.github.io/chva.extras/" target="_blank"><code>chva.extras</code></a></h3>
 <p><a href="https://le-huynh.github.io/chva.extras/" target="_blank"> <img align="right" alt="logo" width="150" src="https://github.com/le-huynh/chva.extras/blob/master/man/figures/logo.png?raw=true"> </a></p>
 <blockquote class="blockquote">
 <p><strong>Le-Huynh, T.-L.</strong>, Davis, R. E., Novicoff, W. M., &amp; DeGuzman, P. B. (2025). chva.extras v0.1.0: Supplementary Tools for Climate and Health Research in Virginia (Version v0.1.0) [Computer software]. Zenodo. <a href="https://doi.org/10.5281/zenodo.14910967" target="_blank">https://doi.org/10.5281/zenodo.14910967</a></p>
 </blockquote>
 <p><a href="https://le-huynh.github.io/chva.extras/" target="_blank"><code>chva.extras</code></a> is a collection of supplementary functions and templates designed to support climate and health research in Virginia, including tools for data manipulation, analysis, and visualization, tailored to handle large datasets.</p>
 <p>Explore the package at <a href="https://le-huynh.github.io/chva.extras/" target="_blank">https://le-huynh.github.io/chva.extras/</a></p>
+</section>
 </section>
 <section id="reproducible-research-code" class="level2">
 <h2 class="anchored" data-anchor-id="reproducible-research-code">Reproducible research code</h2>
@@ -216,7 +216,10 @@
 <section id="media" class="level2">
 <h2 class="anchored" data-anchor-id="media">Media</h2>
 <blockquote class="blockquote">
-<p>📰 <strong>In the news:</strong> <a href="https://environment.virginia.edu/news/more-detailed-climate-data-doesnt-always-mean-better-health-predictions%2C-uva-study-finds">More Detailed Climate Data Doesn’t Always Mean Better Health Predictions, UVA Study Finds</a>, <em>UVA Environmental Institute</em>, October 20, 2026</p>
+<p>📰 <strong>UVA Environmental Institute:</strong> <a href="https://environment.virginia.edu/news/more-detailed-climate-data-doesnt-always-mean-better-health-predictions%2C-uva-study-finds">More Detailed Climate Data Doesn’t Always Mean Better Health Predictions, UVA Study Finds</a>, October 20, 2026</p>
+</blockquote>
+<blockquote class="blockquote">
+<p>📰 <strong>UVA Research News:</strong> <a href="https://news.research.virginia.edu/2026/10/20/more-detailed-climate-data-doesnt-always-mean-better-health-predictions-uva-study-finds/">More Detailed Climate Data Doesn’t Always Mean Better Health Predictions</a>, October 20, 2026</p>
 </blockquote>
 <hr>
 <p><a href="../../projects.html">← Back to all projects</a></p>
@@ -227,7 +230,7 @@
 
  ]]></description>
   <guid>https://lehuynh.rbind.io/project/proj_chva/</guid>
-  <pubDate>Tue, 27 Oct 2026 04:43:21 GMT</pubDate>
+  <pubDate>Wed, 28 Oct 2026 19:00:49 GMT</pubDate>
   <media:content url="https://lehuynh.rbind.io/project/proj_chva/va_health_region.png" medium="image" type="image/png" height="82" width="144"/>
 </item>
 <item>
@@ -261,7 +264,7 @@
 
  ]]></description>
   <guid>https://lehuynh.rbind.io/project/proj_greenspace/</guid>
-  <pubDate>Tue, 27 Oct 2026 04:43:21 GMT</pubDate>
+  <pubDate>Wed, 28 Oct 2026 19:00:49 GMT</pubDate>
   <media:content url="https://lehuynh.rbind.io/project/proj_greenspace/ric_msa.png" medium="image" type="image/png" height="82" width="144"/>
 </item>
 <item>
@@ -277,8 +280,8 @@
 <p><strong>Topics</strong>: Environmental politics · Biodiversity governance</p>
 <p><strong>My contributions</strong>: Data analysis · Data visualization · Data curation · Code management</p>
 <p><strong>Skills used</strong>: Network analysis · Text Mining analysis · Discourse analysis · R · RMarkdown · Git · GNU Make</p>
-<section id="publications" class="level2">
-<h2 class="anchored" data-anchor-id="publications">Publications</h2>
+<section id="publication" class="level2">
+<h2 class="anchored" data-anchor-id="publication">Publication</h2>
 <blockquote class="blockquote">
 <p>Nguyen, V. T. H., <strong>Le‑Huynh, T.‑L.</strong>, Gadola, S., Nguyen, Q., Walters, G., Owuor, M. A (2025). Local-Global Linkages in Biodiversity Governance: The Regime Complex of the Convention on Biological Diversity Agenda for Nature Pledges. <em>Environmental Science &amp; Policy</em>, 173(November), 104246. <a href="https://doi.org/10.1016/j.envsci.2025.104246" target="_blank">https://doi.org/10.1016/j.envsci.2025.104246</a></p>
 </blockquote>
@@ -305,6 +308,12 @@
 <p>Nguyen, V. T. H., <strong>Le‑Huynh, T.‑L.</strong>. (2026). Reproducible code for “Local-global linkages in biodiversity governance: The regime complex of the convention on biological diversity agenda for nature pledges” (Version v1.0.0) [Computer software]. Zenodo. <a href="https://doi.org/10.5281/zenodo.20495877" target="_blank">https://doi.org/10.5281/zenodo.20495877</a></p>
 </blockquote>
 <p><img src="https://lehuynh.rbind.io/project/proj_kmgbf_01/fig_full.png" class="img-fluid"></p>
+</section>
+<section id="media" class="level2">
+<h2 class="anchored" data-anchor-id="media">Media</h2>
+<blockquote class="blockquote">
+<p>📰 <strong>In the news:</strong> <a href="https://www.wyssacademy.org/en/news/mapping-the-complexity-in-local-global-biodiversity-governance">Seeing the shape of biodiversity governance—evidence from 718 pledges</a>, <em>Wyss Academy for Nature</em>, October 28, 2025</p>
+</blockquote>
 <hr>
 <p><a href="../../projects.html">← Back to all projects</a></p>
 
@@ -313,7 +322,7 @@
 
  ]]></description>
   <guid>https://lehuynh.rbind.io/project/proj_kmgbf_01/</guid>
-  <pubDate>Tue, 27 Oct 2026 04:43:21 GMT</pubDate>
+  <pubDate>Wed, 28 Oct 2026 19:00:49 GMT</pubDate>
   <media:content url="https://lehuynh.rbind.io/project/proj_kmgbf_01/fig_02.png" medium="image" type="image/png" height="77" width="144"/>
 </item>
 <item>
@@ -374,7 +383,7 @@
 
  ]]></description>
   <guid>https://lehuynh.rbind.io/project/proj_npsle/</guid>
-  <pubDate>Tue, 27 Oct 2026 04:43:21 GMT</pubDate>
+  <pubDate>Wed, 28 Oct 2026 19:00:49 GMT</pubDate>
   <media:content url="https://lehuynh.rbind.io/project/proj_npsle/proj_npsle_cutoff.png" medium="image" type="image/png" height="144" width="144"/>
 </item>
 <item>
@@ -407,7 +416,7 @@
 
  ]]></description>
   <guid>https://lehuynh.rbind.io/project/proj_cyano/</guid>
-  <pubDate>Tue, 27 Oct 2026 04:43:21 GMT</pubDate>
+  <pubDate>Wed, 28 Oct 2026 19:00:49 GMT</pubDate>
   <media:content url="https://lehuynh.rbind.io/project/proj_cyano/proj_cyano_who.png" medium="image" type="image/png" height="121" width="144"/>
 </item>
 <item>
@@ -421,29 +430,38 @@
 <p><em>A collaboration with Biotech Research &amp; Innovation Centre (BRIC), University of Copenhagen, Denmark</em></p>
 <p><code>2023 - Present</code></p>
 <p><strong>Topics</strong>: Bioinformatics · Proteomics · Biomedical Science · Mass Spectrometry</p>
-<p><strong>My contributions</strong>: Data analysis · Data visualization · Code management</p>
-<p><strong>Tools</strong>: R · R Markdown · Git · GNU Make</p>
+<p><strong>My contributions</strong>: Data analysis · Data visualization · Code management · Software development</p>
+<p><strong>Tools</strong>: R · R Markdown · Git · GNU Make · R package development</p>
 <hr>
-<p>This collaborative project aims to identify a broad spectrum of druggable key signaling pathways in various AML mouse models and subsequently in AML patient samples. The outcomes have the potential to pave the way for personalized AML treatments by targeting specific signaling pathways, thereby revolutionizing clinical interventions for this challenging disease.</p>
-<section id="outcomes" class="level2">
-<h2 class="anchored" data-anchor-id="outcomes">Outcomes</h2>
-<section id="r-package-omics4drug" class="level3">
-<h3 class="anchored" data-anchor-id="r-package-omics4drug">[R-package] <a href="https://yen-kim.github.io/omics4drug/" target="_blank"><code>omics4drug</code></a></h3>
+<p>This collaborative project aims to identify a broad spectrum of druggable key signaling pathways in various AML mouse models and subsequently in AML patient samples. The outputs have the potential to pave the way for personalized AML treatments by targeting specific signaling pathways, thereby revolutionizing clinical interventions for this challenging disease.</p>
+<section id="outputs" class="level2">
+<h2 class="anchored" data-anchor-id="outputs">Outputs</h2>
+<section id="r-packages" class="level3">
+<h3 class="anchored" data-anchor-id="r-packages">R packages</h3>
+<section id="omics4drug" class="level4">
+<h4 class="anchored" data-anchor-id="omics4drug"><a href="https://yen-kim.github.io/omics4drug/" target="_blank"><code>omics4drug</code></a></h4>
 <p><a href="https://yen-kim.github.io/omics4drug/" target="_blank"> <img align="right" alt="logo" width="150" src="https://github.com/le-huynh/omics4drug/blob/main/man/figures/logo.png?raw=true"> </a></p>
 <blockquote class="blockquote">
-<p>Nguyen, T. K. Y., &amp; <strong>Le-Huynh, T.-L.</strong> (2025). omics4drug v0.1.0: An R toolkit to facilitate Mass Spectrometry-based Proteomics and Phosphoproteomics data analysis (Version v0.1.0) [Computer software]. Zenodo. <a href="https://doi.org/10.5281/zenodo.17117624" target="_blank">https://doi.org/10.5281/zenodo.17117624</a></p>
+<p>Nguyen, T. K. Y., &amp; <strong>Le-Huynh, T.-L.</strong> (2025). omics4drug: An R toolkit to facilitate Mass Spectrometry-based Proteomics and Phosphoproteomics data analysis (Version v0.1.0) [Computer software]. Zenodo. <a href="https://doi.org/10.5281/zenodo.17117624" target="_blank">https://doi.org/10.5281/zenodo.17117624</a></p>
 </blockquote>
 <p><a href="https://yen-kim.github.io/omics4drug/" target="_blank"><code>omics4drug</code></a> is designed for the analysis and visualization of Mass Spectrometry-based phosphoproteomics and proteomics data in drug discovery. The package provides functions for quality control, normalization, pathway enrichment analysis, and drug-target prediction.</p>
 <p>Explore the package at <a href="https://yen-kim.github.io/omics4drug/" target="_blank">https://yen-kim.github.io/omics4drug/</a></p>
 </section>
-<section id="r-package-cellviability" class="level3">
-<h3 class="anchored" data-anchor-id="r-package-cellviability">[R-package] <a href="https://github.com/yen-kim/cellviability" target="_blank"><code>cellviability</code></a></h3>
+<section id="cellviability" class="level4">
+<h4 class="anchored" data-anchor-id="cellviability"><a href="https://github.com/yen-kim/cellviability" target="_blank"><code>cellviability</code></a></h4>
 <p><a href="https://github.com/yen-kim/cellviability" target="_blank"> <img align="right" alt="logo" width="150" src="https://github.com/yen-kim/cellviability/blob/master/man/figures/logo.png?raw=true"> </a></p>
 <blockquote class="blockquote">
 <p>Nguyen, Y. T.-K., <strong>Le-Huynh, T.-L.</strong>, &amp; Theilgaard-Monch, K. (2026). cellviability (Version v0.1.3) [Computer software]. Zenodo. <a href="https://doi.org/10.5281/zenodo.21820265" target="_blank">https://doi.org/10.5281/zenodo.21820265</a></p>
 </blockquote>
 <p><a href="https://github.com/yen-kim/cellviability" target="_blank"><code>cellviability</code></a> is designed to facilitate the analysis of cell-based drug screening experiments. The package provides functions for fitting dose-response models, estimating IC50 values, visualizing regression curves, comparing treatment groups, and evaluating drug synergy using commonly used pharmacological models.</p>
 <p>Explore the package at <a href="https://github.com/yen-kim/cellviability" target="_blank">https://github.com/yen-kim/cellviability</a></p>
+</section>
+</section>
+<section id="reproducible-research-code" class="level3">
+<h3 class="anchored" data-anchor-id="reproducible-research-code">Reproducible research code</h3>
+<blockquote class="blockquote">
+<p>Nguyen, Y., Valdemaras, P., <strong>Le-Huynh, T.-L.</strong>, Nicoline, T., Pons Renau, L., Qin, S., Lu, J.-W., Khadgawat, P., Heidenreich, O., Estruch, M., M. Schoof, E., &amp; Theilgaard-Mönch, K. (2026). A FixSort Mass Spectrometry Protocol for Mapping of in situ Phosphorylation Signatures in AML. [Computer software]. Zenodo. <a href="https://doi.org/10.5281/zenodo.18899999">https://doi.org/10.5281/zenodo.18899999</a></p>
+</blockquote>
 <hr>
 <p><a href="../../projects.html">← Back to all projects</a></p>
 
@@ -453,7 +471,7 @@
 
  ]]></description>
   <guid>https://lehuynh.rbind.io/project/proj_aml/</guid>
-  <pubDate>Tue, 27 Oct 2026 04:43:21 GMT</pubDate>
+  <pubDate>Wed, 28 Oct 2026 19:00:49 GMT</pubDate>
   <media:content url="https://lehuynh.rbind.io/project/proj_aml/proj_aml_volcano.png" medium="image" type="image/png" height="154" width="144"/>
 </item>
 <item>
@@ -489,7 +507,7 @@
 
  ]]></description>
   <guid>https://lehuynh.rbind.io/project/cheatsheet_vi_translation/</guid>
-  <pubDate>Tue, 27 Oct 2026 04:43:21 GMT</pubDate>
+  <pubDate>Wed, 28 Oct 2026 19:00:49 GMT</pubDate>
   <media:content url="https://lehuynh.rbind.io/project/cheatsheet_vi_translation/proj_cheatsheet_cover.png" medium="image" type="image/png" height="83" width="144"/>
 </item>
 </channel>

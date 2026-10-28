@@ -11,23 +11,24 @@ order: 3
 
 **Topics**: Bioinformatics · Proteomics · Biomedical Science · Mass Spectrometry  
 
-**My contributions**: Data analysis · Data visualization · Code management  
+**My contributions**: Data analysis · Data visualization · Code management · Software development  
 
-**Tools**: R · R Markdown · Git · GNU Make  
+**Tools**: R · R Markdown · Git · GNU Make · R package development  
 
 <hr>
 
 This collaborative project aims to identify a broad spectrum of druggable key signaling pathways in various AML mouse models and subsequently in AML patient samples. 
-The outcomes have the potential to pave the way for personalized AML treatments by targeting specific signaling pathways, thereby revolutionizing clinical interventions for this challenging disease.
+The outputs have the potential to pave the way for personalized AML treatments by targeting specific signaling pathways, thereby revolutionizing clinical interventions for this challenging disease.
 
-## Outcomes
-### [R-package] [`omics4drug`](https://yen-kim.github.io/omics4drug/){target="_blank"}
+## Outputs
+### R packages 
+#### [`omics4drug`](https://yen-kim.github.io/omics4drug/){target="_blank"}
 
 <a href="https://yen-kim.github.io/omics4drug/" target="_blank">
 <img align="right" alt="logo" width="150" src="https://github.com/le-huynh/omics4drug/blob/main/man/figures/logo.png?raw=true" />
 </a>  
 
-> Nguyen, T. K. Y., & **Le-Huynh, T.-L.** (2025). omics4drug v0.1.0: An R toolkit to facilitate Mass Spectrometry-based Proteomics and Phosphoproteomics data analysis (Version v0.1.0) [Computer software]. Zenodo. [https://doi.org/10.5281/zenodo.17117624](https://doi.org/10.5281/zenodo.17117624){target="_blank"}
+> Nguyen, T. K. Y., & **Le-Huynh, T.-L.** (2025). omics4drug: An R toolkit to facilitate Mass Spectrometry-based Proteomics and Phosphoproteomics data analysis (Version v0.1.0) [Computer software]. Zenodo. [https://doi.org/10.5281/zenodo.17117624](https://doi.org/10.5281/zenodo.17117624){target="_blank"}
 
 [`omics4drug`](https://yen-kim.github.io/omics4drug/){target="_blank"} is designed for the analysis and visualization of Mass Spectrometry-based phosphoproteomics and proteomics data in drug discovery. 
 The package provides functions for quality control, normalization, 
@@ -35,7 +36,7 @@ pathway enrichment analysis, and drug-target prediction.
 
 Explore the package at [https://yen-kim.github.io/omics4drug/](https://yen-kim.github.io/omics4drug/){target="_blank"}
 
-### [R-package] [`cellviability`](https://github.com/yen-kim/cellviability){target="_blank"}
+#### [`cellviability`](https://github.com/yen-kim/cellviability){target="_blank"}
 
 <a href="https://github.com/yen-kim/cellviability" target="_blank">
 <img align="right" alt="logo" width="150" src="https://github.com/yen-kim/cellviability/blob/master/man/figures/logo.png?raw=true" />
@@ -47,6 +48,9 @@ Explore the package at [https://yen-kim.github.io/omics4drug/](https://yen-kim.g
 The package provides functions for fitting dose-response models, estimating IC50 values, visualizing regression curves, comparing treatment groups, and evaluating drug synergy using commonly used pharmacological models.  
 
 Explore the package at [https://github.com/yen-kim/cellviability](https://github.com/yen-kim/cellviability){target="_blank"}
+
+### Reproducible research code
+> Nguyen, Y., Valdemaras, P., **Le-Huynh, T.-L.**, Nicoline, T., Pons Renau, L., Qin, S., Lu, J.-W., Khadgawat, P., Heidenreich, O., Estruch, M., M. Schoof, E., & Theilgaard-Mönch, K. (2026). A FixSort Mass Spectrometry Protocol for Mapping of in situ Phosphorylation Signatures in AML. [Computer software]. Zenodo. [https://doi.org/10.5281/zenodo.18899999](https://doi.org/10.5281/zenodo.18899999)
 
 ---
 

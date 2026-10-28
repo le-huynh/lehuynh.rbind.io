@@ -24,6 +24,8 @@ toc: true
 
 - Nguyen, V. T. H., **Le‑Huynh, T.‑L.**. (2026). Reproducible code for "Local-global linkages in biodiversity governance: The regime complex of the convention on biological diversity agenda for nature pledges" (Version v1.0.0) [Computer software]. Zenodo. [https://doi.org/10.5281/zenodo.20495877](https://doi.org/10.5281/zenodo.20495877){target=_blank}
 
+- Nguyen, Y., Valdemaras, P., **Le-Huynh, T.-L.**, Nicoline, T., Pons Renau, L., Qin, S., Lu, J.-W., Khadgawat, P., Heidenreich, O., Estruch, M., M. Schoof, E., & Theilgaard-Mönch, K. (2026). A FixSort Mass Spectrometry Protocol for Mapping of in situ Phosphorylation Signatures in AML. [Computer software]. Zenodo. [https://doi.org/10.5281/zenodo.18899999](https://doi.org/10.5281/zenodo.18899999)
+
 - **Le-Huynh, T.-L.**. (2023). Bayesian predictive model for toxic cyanobacteria occurrence from eutrophication and climate data (Version v1.0.0) [Computer software]. Zenodo. [https://doi.org/10.5281/zenodo.20472023](https://doi.org/10.5281/zenodo.20472023){target=_blank}
 
 - **Le-Huynh, T.-L.**. (2023). Reproducible code for "Measurement of anti-suprabasin antibodies, multiple cytokines and chemokines as potential predictive biomarkers for neuropsychiatric systemic lupus erythematosus" (Version v1.0.0) [Computer software]. GitHub. [https://github.com/le-huynh/2022_Hoang_SBSN_ClinImmunol](https://github.com/le-huynh/2022_Hoang_SBSN_ClinImmunol){target=_blank}

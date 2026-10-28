@@ -79,11 +79,8 @@ Many climate health studies assume that a single weather station can represent a
 Climate-health studies often rely on data from a single high-quality weather station to represent the exposure of individuals living in the surrounding region. However, with the availability of various gridded climatic data sets, a critical question is whether spatially explicit data can better capture individual environmental exposures and reveal stronger climate-health associations. We investigated the impact of spatial-scale climatic variability and representativeness for emergency department (ED) visits in Richmond, Virginia, United States. This study compared the climate-health relationship using data from a weather station and the ERA5 reanalysis from 2016 to 2022. We evaluated the correlation of the two time-series and used generalized additive models to compare the temperature-ED visit associations across four nested spatial scales. The results were highly consistent across all spatial scales. The station and ERA5 data exhibited similar distributions. The temperature-ED visit relationships showed strong agreement between the two data sources, reflected in both location-specific and pooled estimates. Although ERA5 produced slightly lower cold-related and higher heat-related estimates at extreme temperatures, no marked differences were found between the two data sources. Our findings suggest that, in this region with a relatively homogeneous climate, the variations of regional climate might be small enough to fall within the model's expected uncertainty. Although this result may not apply in regions with considerable local climate variation, data from a single high-quality station in many regions are appropriate to model climate-health relationships over the greater surrounding areas. We recommend similar comparative work across diverse climatic settings to evaluate the generalizability of this conclusion.
 :::
 
-<!-- Add manuscripts in review / in preparation here, e.g.:
-> **Le‑Huynh, T.‑L.**, et al. (XXX). XXX. *In review*.
--->
-
-## [R-package] [`chva.extras`](https://le-huynh.github.io/chva.extras/){target="_blank"}
+## R package 
+### [`chva.extras`](https://le-huynh.github.io/chva.extras/){target="_blank"}
 
 <a href="https://le-huynh.github.io/chva.extras/" target="_blank">
 <img align="right" alt="logo" width="150" src="https://github.com/le-huynh/chva.extras/blob/master/man/figures/logo.png?raw=true" />
@@ -114,7 +111,9 @@ Explore the package at [https://le-huynh.github.io/chva.extras/](https://le-huyn
 :::
 
 ## Media
-> 📰 **In the news:** [More Detailed Climate Data Doesn't Always Mean Better Health Predictions, UVA Study Finds](https://environment.virginia.edu/news/more-detailed-climate-data-doesnt-always-mean-better-health-predictions%2C-uva-study-finds), *UVA Environmental Institute*, October 20, 2026
+> 📰 **UVA Environmental Institute:** [More Detailed Climate Data Doesn't Always Mean Better Health Predictions, UVA Study Finds](https://environment.virginia.edu/news/more-detailed-climate-data-doesnt-always-mean-better-health-predictions%2C-uva-study-finds), October 20, 2026
+
+> 📰 **UVA Research News:** [More Detailed Climate Data Doesn't Always Mean Better Health Predictions](https://news.research.virginia.edu/2026/10/20/more-detailed-climate-data-doesnt-always-mean-better-health-predictions-uva-study-finds/), October 20, 2026
 
 ---
 

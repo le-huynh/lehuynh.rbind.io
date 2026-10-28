@@ -10,7 +10,7 @@
 <atom:link href="https://lehuynh.rbind.io/r_code.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.10.18</generator>
-<lastBuildDate>Tue, 27 Oct 2026 04:43:22 GMT</lastBuildDate>
+<lastBuildDate>Wed, 28 Oct 2026 19:00:50 GMT</lastBuildDate>
 <item>
   <title>chva.extras</title>
   <link>https://lehuynh.rbind.io/r_code/package_chva_extras/</link>
@@ -28,7 +28,7 @@
 → <a href="https://le-huynh.github.io/chva.extras/" target="_blank">Package documentation</a></p>
 <p><code>chva.extras</code> is a collection of supplementary functions and templates designed to support climate and health research in Virginia, including tools for data manipulation, analysis, and visualization, tailored to handle large datasets.</p>
 <blockquote class="blockquote">
-<p><strong>Le-Huynh, T.-L.</strong>, Davis, R. E., Novicoff, W. M., &amp; DeGuzman, P. B. (2025). chva.extras: Supplementary Tools for Climate and Health Research in VA (Version v0.1.0) [Computer software]. Zenodo. <a href="https://doi.org/10.5281/zenodo.14910967" target="_blank">https://doi.org/10.5281/zenodo.14910967</a></p>
+<p><strong>Le-Huynh, T.-L.</strong>, Davis, R. E., Novicoff, W. M., &amp; DeGuzman, P. B. (2025). chva.extras: Supplementary Tools for Climate and Health Research in Virginia (Version v0.1.0) [Computer software]. Zenodo. <a href="https://doi.org/10.5281/zenodo.14910967" target="_blank">https://doi.org/10.5281/zenodo.14910967</a></p>
 </blockquote>
 <hr>
 <section id="installation" class="level3">
@@ -113,7 +113,7 @@ font-style: inherit;">"le-huynh/chva.extras"</span>)</span></code></pre></div></
 
  ]]></description>
   <guid>https://lehuynh.rbind.io/r_code/package_chva_extras/</guid>
-  <pubDate>Tue, 27 Oct 2026 04:43:22 GMT</pubDate>
+  <pubDate>Wed, 28 Oct 2026 19:00:50 GMT</pubDate>
   <media:content url="https://lehuynh.rbind.io/r_code/package_chva_extras/chva.extras.png" medium="image" type="image/png" height="167" width="144"/>
 </item>
 <item>
@@ -211,7 +211,7 @@ font-style: inherit;">"le-huynh/lehuynh"</span>)</span></code></pre></div></div>
 
  ]]></description>
   <guid>https://lehuynh.rbind.io/r_code/package_lehuynh/</guid>
-  <pubDate>Tue, 27 Oct 2026 04:43:22 GMT</pubDate>
+  <pubDate>Wed, 28 Oct 2026 19:00:50 GMT</pubDate>
   <media:content url="https://lehuynh.rbind.io/r_code/package_lehuynh/lehuynh.png" medium="image" type="image/png" height="167" width="144"/>
 </item>
 <item>
@@ -317,7 +317,7 @@ font-style: inherit;">"yen-kim/omics4drug"</span>)</span></code></pre></div></di
 
  ]]></description>
   <guid>https://lehuynh.rbind.io/r_code/package_omics4drug/</guid>
-  <pubDate>Tue, 27 Oct 2026 04:43:22 GMT</pubDate>
+  <pubDate>Wed, 28 Oct 2026 19:00:50 GMT</pubDate>
   <media:content url="https://lehuynh.rbind.io/r_code/package_omics4drug/omics4drug.png" medium="image" type="image/png" height="167" width="144"/>
 </item>
 <item>
@@ -390,7 +390,7 @@ font-style: inherit;">"yen-kim/cellviability"</span>)</span></code></pre></div><
 
  ]]></description>
   <guid>https://lehuynh.rbind.io/r_code/package_cellviability/</guid>
-  <pubDate>Tue, 27 Oct 2026 04:43:22 GMT</pubDate>
+  <pubDate>Wed, 28 Oct 2026 19:00:50 GMT</pubDate>
   <media:content url="https://lehuynh.rbind.io/r_code/package_cellviability/cellviability.png" medium="image" type="image/png" height="167" width="144"/>
 </item>
 </channel>
