@@ -10,7 +10,7 @@
 <atom:link href="https://lehuynh.rbind.io/projects.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.10.18</generator>
-<lastBuildDate>Wed, 28 Oct 2026 19:00:49 GMT</lastBuildDate>
+<lastBuildDate>Wed, 28 Oct 2026 19:41:41 GMT</lastBuildDate>
 <item>
   <title>Climate and Health in Virginia</title>
   <link>https://lehuynh.rbind.io/project/proj_chva/</link>
@@ -230,7 +230,7 @@
 
  ]]></description>
   <guid>https://lehuynh.rbind.io/project/proj_chva/</guid>
-  <pubDate>Wed, 28 Oct 2026 19:00:49 GMT</pubDate>
+  <pubDate>Wed, 28 Oct 2026 19:41:41 GMT</pubDate>
   <media:content url="https://lehuynh.rbind.io/project/proj_chva/va_health_region.png" medium="image" type="image/png" height="82" width="144"/>
 </item>
 <item>
@@ -264,7 +264,7 @@
 
  ]]></description>
   <guid>https://lehuynh.rbind.io/project/proj_greenspace/</guid>
-  <pubDate>Wed, 28 Oct 2026 19:00:49 GMT</pubDate>
+  <pubDate>Wed, 28 Oct 2026 19:41:41 GMT</pubDate>
   <media:content url="https://lehuynh.rbind.io/project/proj_greenspace/ric_msa.png" medium="image" type="image/png" height="82" width="144"/>
 </item>
 <item>
@@ -322,7 +322,7 @@
 
  ]]></description>
   <guid>https://lehuynh.rbind.io/project/proj_kmgbf_01/</guid>
-  <pubDate>Wed, 28 Oct 2026 19:00:49 GMT</pubDate>
+  <pubDate>Wed, 28 Oct 2026 19:41:41 GMT</pubDate>
   <media:content url="https://lehuynh.rbind.io/project/proj_kmgbf_01/fig_02.png" medium="image" type="image/png" height="77" width="144"/>
 </item>
 <item>
@@ -383,7 +383,7 @@
 
  ]]></description>
   <guid>https://lehuynh.rbind.io/project/proj_npsle/</guid>
-  <pubDate>Wed, 28 Oct 2026 19:00:49 GMT</pubDate>
+  <pubDate>Wed, 28 Oct 2026 19:41:41 GMT</pubDate>
   <media:content url="https://lehuynh.rbind.io/project/proj_npsle/proj_npsle_cutoff.png" medium="image" type="image/png" height="144" width="144"/>
 </item>
 <item>
@@ -416,7 +416,7 @@
 
  ]]></description>
   <guid>https://lehuynh.rbind.io/project/proj_cyano/</guid>
-  <pubDate>Wed, 28 Oct 2026 19:00:49 GMT</pubDate>
+  <pubDate>Wed, 28 Oct 2026 19:41:41 GMT</pubDate>
   <media:content url="https://lehuynh.rbind.io/project/proj_cyano/proj_cyano_who.png" medium="image" type="image/png" height="121" width="144"/>
 </item>
 <item>
@@ -471,7 +471,7 @@
 
  ]]></description>
   <guid>https://lehuynh.rbind.io/project/proj_aml/</guid>
-  <pubDate>Wed, 28 Oct 2026 19:00:49 GMT</pubDate>
+  <pubDate>Wed, 28 Oct 2026 19:41:41 GMT</pubDate>
   <media:content url="https://lehuynh.rbind.io/project/proj_aml/proj_aml_volcano.png" medium="image" type="image/png" height="154" width="144"/>
 </item>
 <item>
@@ -507,7 +507,7 @@
 
  ]]></description>
   <guid>https://lehuynh.rbind.io/project/cheatsheet_vi_translation/</guid>
-  <pubDate>Wed, 28 Oct 2026 19:00:49 GMT</pubDate>
+  <pubDate>Wed, 28 Oct 2026 19:41:41 GMT</pubDate>
   <media:content url="https://lehuynh.rbind.io/project/cheatsheet_vi_translation/proj_cheatsheet_cover.png" medium="image" type="image/png" height="83" width="144"/>
 </item>
 </channel>

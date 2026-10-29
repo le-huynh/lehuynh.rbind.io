@@ -10,7 +10,7 @@
 <atom:link href="https://lehuynh.rbind.io/r_code.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.10.18</generator>
-<lastBuildDate>Wed, 28 Oct 2026 19:00:50 GMT</lastBuildDate>
+<lastBuildDate>Wed, 28 Oct 2026 19:41:42 GMT</lastBuildDate>
 <item>
   <title>chva.extras</title>
   <link>https://lehuynh.rbind.io/r_code/package_chva_extras/</link>
@@ -113,7 +113,7 @@ font-style: inherit;">"le-huynh/chva.extras"</span>)</span></code></pre></div></
 
  ]]></description>
   <guid>https://lehuynh.rbind.io/r_code/package_chva_extras/</guid>
-  <pubDate>Wed, 28 Oct 2026 19:00:50 GMT</pubDate>
+  <pubDate>Wed, 28 Oct 2026 19:41:42 GMT</pubDate>
   <media:content url="https://lehuynh.rbind.io/r_code/package_chva_extras/chva.extras.png" medium="image" type="image/png" height="167" width="144"/>
 </item>
 <item>
@@ -211,7 +211,7 @@ font-style: inherit;">"le-huynh/lehuynh"</span>)</span></code></pre></div></div>
 
  ]]></description>
   <guid>https://lehuynh.rbind.io/r_code/package_lehuynh/</guid>
-  <pubDate>Wed, 28 Oct 2026 19:00:50 GMT</pubDate>
+  <pubDate>Wed, 28 Oct 2026 19:41:42 GMT</pubDate>
   <media:content url="https://lehuynh.rbind.io/r_code/package_lehuynh/lehuynh.png" medium="image" type="image/png" height="167" width="144"/>
 </item>
 <item>
@@ -317,7 +317,7 @@ font-style: inherit;">"yen-kim/omics4drug"</span>)</span></code></pre></div></di
 
  ]]></description>
   <guid>https://lehuynh.rbind.io/r_code/package_omics4drug/</guid>
-  <pubDate>Wed, 28 Oct 2026 19:00:50 GMT</pubDate>
+  <pubDate>Wed, 28 Oct 2026 19:41:42 GMT</pubDate>
   <media:content url="https://lehuynh.rbind.io/r_code/package_omics4drug/omics4drug.png" medium="image" type="image/png" height="167" width="144"/>
 </item>
 <item>
@@ -390,7 +390,7 @@ font-style: inherit;">"yen-kim/cellviability"</span>)</span></code></pre></div><
 
  ]]></description>
   <guid>https://lehuynh.rbind.io/r_code/package_cellviability/</guid>
-  <pubDate>Wed, 28 Oct 2026 19:00:50 GMT</pubDate>
+  <pubDate>Wed, 28 Oct 2026 19:41:42 GMT</pubDate>
   <media:content url="https://lehuynh.rbind.io/r_code/package_cellviability/cellviability.png" medium="image" type="image/png" height="167" width="144"/>
 </item>
 </channel>

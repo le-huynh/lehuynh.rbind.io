@@ -238,6 +238,17 @@ a {
   border-radius: 12px;
 }
 
+// Lift effect for listing grid cards (projects, blog, etc.)
+.quarto-grid-item {
+  transition: transform 0.15s ease, box-shadow 0.15s ease;
+  box-shadow: 0 3px 10px rgba(176, 58, 91, 0.10);
+}
+
+.quarto-grid-item:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 8px 18px rgba(176, 58, 91, 0.25);
+}
+
 .callout.callout-style-default .callout-body {
   background-color: $cream;
 }

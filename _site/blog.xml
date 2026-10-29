@@ -10,7 +10,7 @@
 <atom:link href="https://lehuynh.rbind.io/blog.xml" rel="self" type="application/rss+xml"/>
 <description></description>
 <generator>quarto-1.10.18</generator>
-<lastBuildDate>Wed, 28 Oct 2026 19:00:47 GMT</lastBuildDate>
+<lastBuildDate>Wed, 28 Oct 2026 19:41:39 GMT</lastBuildDate>
 <item>
   <title>bookmark collection</title>
   <link>https://lehuynh.rbind.io/blog/bookmark-collection.html</link>
@@ -97,7 +97,7 @@
  ]]></description>
   <category>other</category>
   <guid>https://lehuynh.rbind.io/blog/bookmark-collection.html</guid>
-  <pubDate>Wed, 28 Oct 2026 19:00:47 GMT</pubDate>
+  <pubDate>Wed, 28 Oct 2026 19:41:39 GMT</pubDate>
   <media:content url="https://lehuynh.rbind.io/static/img/source.png" medium="image" type="image/png" height="149" width="144"/>
 </item>
 <item>
@@ -549,7 +549,7 @@ font-style: inherit;">"black"</span>)</span></code></pre></div></div>
   <category>R</category>
   <category>map</category>
   <guid>https://lehuynh.rbind.io/blog/viz-map-terrain/</guid>
-  <pubDate>Wed, 28 Oct 2026 19:00:47 GMT</pubDate>
+  <pubDate>Wed, 28 Oct 2026 19:41:39 GMT</pubDate>
   <media:content url="https://lehuynh.rbind.io/blog/viz-map-terrain/map-terrain-shadow.png" medium="image" type="image/png" height="151" width="144"/>
 </item>
 <item>
@@ -1309,7 +1309,7 @@ font-style: inherit;">"white"</span>)</span></code></pre></div></div>
   <category>R</category>
   <category>map</category>
   <guid>https://lehuynh.rbind.io/blog/viz-map-elevation/</guid>
-  <pubDate>Wed, 28 Oct 2026 19:00:47 GMT</pubDate>
+  <pubDate>Wed, 28 Oct 2026 19:41:39 GMT</pubDate>
   <media:content url="https://lehuynh.rbind.io/blog/viz-map-elevation/map_elevation_shadow.png" medium="image" type="image/png" height="158" width="144"/>
 </item>
 <item>
@@ -1830,7 +1830,7 @@ font-style: inherit;"># classic nautical compass rose</span></span>
   <category>R</category>
   <category>map</category>
   <guid>https://lehuynh.rbind.io/blog/tips-arrow_scale_bar_in_map.html</guid>
-  <pubDate>Wed, 28 Oct 2026 19:00:47 GMT</pubDate>
+  <pubDate>Wed, 28 Oct 2026 19:41:39 GMT</pubDate>
   <media:content url="https://lehuynh.rbind.io/static/img/map_arrow_scale_bar.png" medium="image" type="image/png" height="100" width="144"/>
 </item>
 <item>
@@ -2018,7 +2018,7 @@ font-style: inherit;">"tiny_piece_of_the_monster_02.pdf"</span>)</span></code></
   <category>tips</category>
   <category>R</category>
   <guid>https://lehuynh.rbind.io/blog/tips-pdftools.html</guid>
-  <pubDate>Wed, 28 Oct 2026 19:00:47 GMT</pubDate>
+  <pubDate>Wed, 28 Oct 2026 19:41:39 GMT</pubDate>
   <media:content url="https://lehuynh.rbind.io/static/img/tips.png" medium="image" type="image/png" height="100" width="144"/>
 </item>
 <item>
@@ -2175,7 +2175,7 @@ font-style: inherit;">120</span>)</span></code></pre></div></div>
   <category>tips</category>
   <category>R</category>
   <guid>https://lehuynh.rbind.io/blog/tips-ggsave-elsevier/</guid>
-  <pubDate>Wed, 28 Oct 2026 19:00:47 GMT</pubDate>
+  <pubDate>Wed, 28 Oct 2026 19:41:39 GMT</pubDate>
   <media:content url="https://lehuynh.rbind.io/static/img/tips.png" medium="image" type="image/png" height="100" width="144"/>
 </item>
 <item>
@@ -2265,7 +2265,7 @@ font-style: inherit;">"le-huynh/lehuynh"</span>)</span></code></pre></div></div>
   <category>R-package</category>
   <category>R</category>
   <guid>https://lehuynh.rbind.io/blog/lehuynh_CRAN.html</guid>
-  <pubDate>Wed, 28 Oct 2026 19:00:47 GMT</pubDate>
+  <pubDate>Wed, 28 Oct 2026 19:41:39 GMT</pubDate>
   <media:content url="https://lehuynh.rbind.io/r_code/package_lehuynh/lehuynh.png" medium="image" type="image/png" height="167" width="144"/>
 </item>
 <item>
@@ -2313,7 +2313,7 @@ An example of RStudio built-in nippet
   <category>tips</category>
   <category>R</category>
   <guid>https://lehuynh.rbind.io/blog/tips-r-snippet/</guid>
-  <pubDate>Wed, 28 Oct 2026 19:00:47 GMT</pubDate>
+  <pubDate>Wed, 28 Oct 2026 19:41:39 GMT</pubDate>
   <media:content url="https://lehuynh.rbind.io/static/img/tips.png" medium="image" type="image/png" height="100" width="144"/>
 </item>
 <item>
@@ -2366,7 +2366,7 @@ An example of RStudio built-in nippet
  ]]></description>
   <category>tips</category>
   <guid>https://lehuynh.rbind.io/blog/tips-hugo-creative-portfolio-theme-fit-screen/</guid>
-  <pubDate>Wed, 28 Oct 2026 19:00:47 GMT</pubDate>
+  <pubDate>Wed, 28 Oct 2026 19:41:39 GMT</pubDate>
   <media:content url="https://lehuynh.rbind.io/static/img/tips.png" medium="image" type="image/png" height="100" width="144"/>
 </item>
 <item>
@@ -2424,7 +2424,7 @@ font-style: inherit;">#&gt; Refer to functions with dplyr::fun()</span></span></
   <category>R</category>
   <category>R-package</category>
   <guid>https://lehuynh.rbind.io/blog/warning-imports-not-declared-from-package-name.html</guid>
-  <pubDate>Wed, 28 Oct 2026 19:00:47 GMT</pubDate>
+  <pubDate>Wed, 28 Oct 2026 19:41:39 GMT</pubDate>
   <media:content url="https://lehuynh.rbind.io/static/img/warning_red.png" medium="image" type="image/png" height="102" width="144"/>
 </item>
 <item>
@@ -2488,7 +2488,7 @@ font-style: inherit;">"value2"</span>))</span></code></pre></div></div>
   <category>R</category>
   <category>R-package</category>
   <guid>https://lehuynh.rbind.io/blog/tips-Rpackage-undefined-global-variables.html</guid>
-  <pubDate>Wed, 28 Oct 2026 19:00:47 GMT</pubDate>
+  <pubDate>Wed, 28 Oct 2026 19:41:39 GMT</pubDate>
   <media:content url="https://lehuynh.rbind.io/static/img/tips.png" medium="image" type="image/png" height="100" width="144"/>
 </item>
 <item>
@@ -2519,7 +2519,7 @@ font-style: inherit;">"value2"</span>))</span></code></pre></div></div>
  ]]></description>
   <category>tips</category>
   <guid>https://lehuynh.rbind.io/blog/tips-download-specific-folder-github.html</guid>
-  <pubDate>Wed, 28 Oct 2026 19:00:47 GMT</pubDate>
+  <pubDate>Wed, 28 Oct 2026 19:41:39 GMT</pubDate>
   <media:content url="https://lehuynh.rbind.io/static/img/tips.png" medium="image" type="image/png" height="100" width="144"/>
 </item>
 <item>
@@ -2584,7 +2584,7 @@ font-style: inherit;">FALSE</span>)</span></code></pre></div></div>
   <category>R</category>
   <category>map</category>
   <guid>https://lehuynh.rbind.io/blog/tips-api-stadia-map.html</guid>
-  <pubDate>Wed, 28 Oct 2026 19:00:47 GMT</pubDate>
+  <pubDate>Wed, 28 Oct 2026 19:41:39 GMT</pubDate>
   <media:content url="https://lehuynh.rbind.io/static/img/tips.png" medium="image" type="image/png" height="100" width="144"/>
 </item>
 <item>
@@ -2650,7 +2650,7 @@ Big thanks to <a href="https://huynhvu.com/" target="_blank">Dr.&nbsp;Huynh Vu</
   <category>error</category>
   <category>R</category>
   <guid>https://lehuynh.rbind.io/blog/error-csv-parse-error.html</guid>
-  <pubDate>Wed, 28 Oct 2026 19:00:47 GMT</pubDate>
+  <pubDate>Wed, 28 Oct 2026 19:41:39 GMT</pubDate>
   <media:content url="https://lehuynh.rbind.io/static/img/error.png" medium="image" type="image/png" height="123" width="144"/>
 </item>
 </channel>
