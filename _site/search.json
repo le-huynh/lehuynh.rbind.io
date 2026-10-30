@@ -102,14 +102,14 @@
     "href": "project/proj_chva/index.html",
     "title": "Climate and Health in Virginia",
     "section": "",
-    "text": "Funded by Environmental Institute, University of Virginia, US\n2024 - Present\nTopics: Environmental epidemiology · Climate health · Health equity\nMy contributions: Conceptualization · Data curation · Data analysis · Data visualization · Cartography · Software development · Code management · Scientific writing\nSkills used: Geospatial health modeling · Case time-series design · Distributed lag non-linear models (DLNMs) · GLMs, GAMs, GNMs · Meta-analysis · Big data analytics · R · RMarkdown · Git · GNU Make · R package development\n→ Official project page"
+    "text": "Funded by Environmental Institute, University of Virginia, US\n2024 - Present\nTopics: Environmental epidemiology · Climate health · Health equity\nMy contributions: Conceptualization · Data curation · Data analysis · Data visualization · Cartography · Software development · Code management · Scientific writing\nSkills used: Geospatial health modeling · Case time-series design · Case-crossover design · Distributed lag non-linear models (DLNMs) · GLMs, GAMs, GNMs · Meta-analysis · Big data analytics · R · RMarkdown · Git · GNU Make · R package development\n→ Official project page"
   },
   {
     "objectID": "project/proj_chva/index.html#project-at-a-glance",
     "href": "project/proj_chva/index.html#project-at-a-glance",
     "title": "Climate and Health in Virginia",
     "section": "Project at a glance",
-    "text": "Project at a glance\n\n\n\nHealth data\nVirginia All-Payer Claims Database (APCD), de-identified patient-level records, 2016–2024; 13.56+ million Virginia residents; 5.26+ billion records\n\n\nHealth outcomes\nEmergency department (ED) visits: all-cause, ICD-10 disease categories\n\n\nClimate exposures\nERA5-Land reanalysis, ASOS weather stations\n\n\nAir quality\nEAC4 reanalysis, EPA AirNow\n\n\nVulnerability & environment\nCDC/ATSDR Social Vulnerability Index (SVI), Area Deprivation Index (ADI), urban green space\n\n\nSpatial units\nZIP Code Tabulation Areas (903 ZCTAs) → counties and independent cities (133) → VDH health districts (35) → health planning regions (5) → The Commonwealth of Virginia\n\n\nStudy designs\nCase time-series, time-stratified case-crossover\n\n\nStatistical methods\nGeneralized linear, generalized additive, generalized nonlinear models (GLMs, GAMs, GNMs); distributed lag non-linear models (DLNMs); meta-analysis\n\n\nTeam\nRobert E. Davis (UVA), Wendy M. Novicoff (UVA), Pamela B. DeGuzman (UVA)\n\n\nFunder\nEnvironmental Institute, University of Virginia"
+    "text": "Project at a glance\n\n\n\nHealth data\nVirginia All-Payer Claims Database (APCD), de-identified patient-level records, 2016–2024; 13.56+ million Virginia residents; 5.26+ billion records\n\n\nHealth outcomes\nEmergency department (ED) visits: all-cause, ICD-10 disease categories\n\n\nClimate exposures\nERA5-Land reanalysis, ASOS weather stations\n\n\nAir quality\nEAC4 reanalysis, EPA AirNow\n\n\nVulnerability & environment\nCDC/ATSDR Social Vulnerability Index (SVI), Area Deprivation Index (ADI), urban green space\n\n\nSpatial units\nZIP Code Tabulation Areas (903 ZCTAs) → counties and independent cities (133) → VDH health districts (35) → health planning regions (5) → The Commonwealth of Virginia\n\n\nMethods\nCase time-series design, case-crossover design; generalized linear, generalized additive, generalized nonlinear models (GLMs, GAMs, GNMs); distributed lag non-linear models (DLNMs); meta-analysis\n\n\nTeam\nRobert E. Davis (UVA), Wendy M. Novicoff (UVA), Pamela B. DeGuzman (UVA)\n\n\nFunder\nEnvironmental Institute, University of Virginia"
   },
   {
     "objectID": "project/proj_chva/index.html#why-it-matters",
@@ -165,7 +165,7 @@
     "href": "project/proj_chva/index.html#media",
     "title": "Climate and Health in Virginia",
     "section": "Media",
-    "text": "Media\n\n📰 UVA Environmental Institute: More Detailed Climate Data Doesn’t Always Mean Better Health Predictions, UVA Study Finds, October 20, 2026\n\n\n📰 UVA Research News: More Detailed Climate Data Doesn’t Always Mean Better Health Predictions, October 20, 2026\n\n\n← Back to all projects"
+    "text": "Media\n\n\n\n\n\n\nNoteMore Detailed Climate Data Doesn’t Always Mean Better Health Predictions\n\n\n\nOctober 2026 | Read the paper\n📰 Covered by: UVA Environmental Institute | UVA Research News\n💬 On LinkedIn: My post | UVA Environmental Institute | University of Virginia Research\n\n\n\n← Back to all projects"
   },
   {
     "objectID": "project/cheatsheet_vi_translation/index.html",
@@ -354,7 +354,7 @@
     "href": "project/proj_kmgbf_01/index.html#media",
     "title": "Local-global linkages in biodiversity governance",
     "section": "Media",
-    "text": "Media\n\n📰 In the news: Seeing the shape of biodiversity governance—evidence from 718 pledges, Wyss Academy for Nature, October 28, 2025\n\n\n← Back to all projects"
+    "text": "Media\n\n\n\n\n\n\nNoteSeeing the shape of biodiversity governance—evidence from 718 pledges\n\n\n\nOctober 2025 | Read the paper\n📰 Covered by: Wyss Academy for Nature\n💬 On LinkedIn: Wyss Academy for Nature\n\n\n\n\n← Back to all projects"
   },
   {
     "objectID": "r_code/package_chva_extras/index.html",

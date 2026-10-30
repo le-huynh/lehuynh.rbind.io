@@ -13,7 +13,7 @@ order: 1
 
 **My contributions**: Conceptualization · Data curation · Data analysis · Data visualization · Cartography · Software development · Code management · Scientific writing  
 
-**Skills used**: Geospatial health modeling · Case time-series design · Distributed lag non-linear models (DLNMs) · GLMs, GAMs, GNMs · Meta-analysis · Big data analytics · R · RMarkdown · Git · GNU Make · R package development  
+**Skills used**: Geospatial health modeling · Case time-series design · Case-crossover design · Distributed lag non-linear models (DLNMs) · GLMs, GAMs, GNMs · Meta-analysis · Big data analytics · R · RMarkdown · Git · GNU Make · R package development  
 
 
 → [Official project page](https://environment.virginia.edu/our-work/climate-related-diseases-and-disparities)
@@ -26,12 +26,11 @@ order: 1
 |-------------------------|-----------------------------------------------------------------------------------|
 | **Health data**         | [Virginia All-Payer Claims Database (APCD)](https://www.vhi.org/apcd/), de-identified patient-level records, 2016–2024; 13.56+ million Virginia residents; 5.26+ billion records |
 | **Health outcomes**     | Emergency department (ED) visits: all-cause, ICD-10 disease categories            |
-| **Climate exposures**   | ERA5-Land reanalysis, ASOS weather stations                                       |
-| **Air quality**         | EAC4 reanalysis, EPA AirNow                                                       |
-| **Vulnerability & environment** | CDC/ATSDR Social Vulnerability Index (SVI), Area Deprivation Index (ADI), urban green space |
+| **Climate exposures**   | [ERA5-Land](https://cds.climate.copernicus.eu/datasets/reanalysis-era5-land?tab=overview) reanalysis, [ASOS](https://mesonet.agron.iastate.edu/request/download.phtml?network=AWOS) weather stations                                       |
+| **Air quality**         | [EAC4](https://ads.atmosphere.copernicus.eu/datasets/cams-global-reanalysis-eac4?tab=overview) reanalysis, [EPA AirNow](https://www.epa.gov/outdoor-air-quality-data/download-daily-data)                                                       |
+| **Vulnerability & environment** | CDC/ATSDR Social Vulnerability Index ([SVI](https://www.atsdr.cdc.gov/place-health/php/svi/svi-data-documentation-download.html)), Area Deprivation Index ([ADI](https://www.neighborhoodatlas.medicine.wisc.edu/)), urban green space |
 | **Spatial units**       | ZIP Code Tabulation Areas (903 ZCTAs) → counties and independent cities (133) → VDH health districts (35) → health planning regions (5) → The Commonwealth of Virginia |
-| **Study designs**       | Case time-series, time-stratified case-crossover                                  |
-| **Statistical methods** | Generalized linear, generalized additive, generalized nonlinear models (GLMs, GAMs, GNMs); distributed lag non-linear models (DLNMs); meta-analysis |
+| **Methods** | Case time-series design, case-crossover design; generalized linear, generalized additive, generalized nonlinear models (GLMs, GAMs, GNMs); distributed lag non-linear models (DLNMs); meta-analysis |
 | **Team**                | Robert E. Davis (UVA), Wendy M. Novicoff (UVA), Pamela B. DeGuzman (UVA)|
 | **Funder**              | Environmental Institute, University of Virginia                                   |
 
@@ -111,9 +110,15 @@ Explore the package at [https://le-huynh.github.io/chva.extras/](https://le-huyn
 :::
 
 ## Media
-> 📰 **UVA Environmental Institute:** [More Detailed Climate Data Doesn't Always Mean Better Health Predictions, UVA Study Finds](https://environment.virginia.edu/news/more-detailed-climate-data-doesnt-always-mean-better-health-predictions%2C-uva-study-finds), October 20, 2026
 
-> 📰 **UVA Research News:** [More Detailed Climate Data Doesn't Always Mean Better Health Predictions](https://news.research.virginia.edu/2026/10/20/more-detailed-climate-data-doesnt-always-mean-better-health-predictions-uva-study-finds/), October 20, 2026
+::: {.callout-note appearance="simple" icon=false}
+### More Detailed Climate Data Doesn't Always Mean Better Health Predictions
+*October 2026* | [Read the paper](https://doi.org/10.1029/2026gh001852)
+
+📰 **Covered by:** [UVA Environmental Institute](https://environment.virginia.edu/news/more-detailed-climate-data-doesnt-always-mean-better-health-predictions%2C-uva-study-finds) | [UVA Research News](https://news.research.virginia.edu/2026/10/20/more-detailed-climate-data-doesnt-always-mean-better-health-predictions-uva-study-finds/)
+
+💬 **On LinkedIn:** [My post](https://lnkd.in/p/g25BK8Zd) | [UVA Environmental Institute](https://lnkd.in/p/gvfaQva2) | [University of Virginia Research](https://lnkd.in/p/g5zSGsAK)
+:::
 
 ---
 

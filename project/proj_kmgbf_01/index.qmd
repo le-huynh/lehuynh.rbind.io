@@ -43,10 +43,19 @@ Strengthening alignment across levels and empowering middle-out actors are essen
 
 > Nguyen, V. T. H., **Le‑Huynh, T.‑L.**. (2026). Reproducible code for "Local-global linkages in biodiversity governance: The regime complex of the convention on biological diversity agenda for nature pledges" (Version v1.0.0) [Computer software]. Zenodo. [https://doi.org/10.5281/zenodo.20495877](https://doi.org/10.5281/zenodo.20495877){target=_blank}
 
+## Media
+
+::: {.callout-note appearance="simple" icon=false}
+## Seeing the shape of biodiversity governance—evidence from 718 pledges
+*October 2025* | [Read the paper](https://doi.org/10.1016/j.envsci.2025.104246)
+
+📰 **Covered by:** [Wyss Academy for Nature](https://www.wyssacademy.org/en/news/mapping-the-complexity-in-local-global-biodiversity-governance)
+
+💬 **On LinkedIn:** [Wyss Academy for Nature](https://lnkd.in/p/gCMntcSw)
+:::
+
 ![](fig_full.png)
 
-## Media
-> 📰 **In the news:** [Seeing the shape of biodiversity governance—evidence from 718 pledges](https://www.wyssacademy.org/en/news/mapping-the-complexity-in-local-global-biodiversity-governance), *Wyss Academy for Nature*, October 28, 2025
 
 ---
 
